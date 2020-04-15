@@ -1,0 +1,11 @@
+{
+  "name": "the-design-of-forms-in-government-departments",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}

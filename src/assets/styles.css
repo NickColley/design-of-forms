@@ -1,0 +1,196 @@
+:root {
+  --text-color: #121211;
+  --background-color: #fcf6ea;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--background-color);
+  color: var(--text-color);
+  font-size: 1.6rem;
+  font-family: Georgia, serif;
+  margin: 0;
+  max-width: 60ch;
+  padding: 12vh 8vw;
+}
+
+:link,
+:visited {
+  color: inherit;
+}
+
+:focus {
+  outline: 4px solid var(--text-color);
+  outline-offset: 0;
+  background: var(--text-color);
+  color: var(--background-color);
+}
+
+* {
+  margin-top: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  line-height: 1.5;
+  margin: 0;
+  margin-bottom: 4vh;
+}
+
+h1 small {
+  font-size: 1.2rem;
+  margin-top: 4vh !important;
+}
+
+h2 {
+  margin-top: 4rem;
+  font-size: 3rem;
+  /*   text-align: right; */
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
+.heading {
+  line-height: 2;
+}
+
+.block {
+  display: block;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.spacing {
+  letter-spacing: 0.1rem;
+}
+
+.list--style-none {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+
+ul,
+ol,
+dl,
+p {
+  line-height: 1.5;
+}
+
+hr {
+  margin-top: 12vh;
+  margin-bottom: 12vh;
+  height: 0;
+  border: 0;
+  border-bottom: 0.5vh solid;
+}
+
+h2 + hr {
+  margin-top: 6vh;
+}
+
+dl {
+  display: block;
+  margin: 0;
+  margin-left: 1rem;
+  margin-bottom: 2rem;
+}
+
+dt {
+  display: block;
+  float: left;
+  margin-right: 1rem;
+}
+
+dd {
+  display: block;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 50rem) {
+  body {
+    font-size: 1rem;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.6rem;
+  }
+  h3 {
+    font-size: 1.3rem;
+  }
+}
+
+.skip-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 1rem;
+}
+
+.skip-link:not(:focus):not(:active) {
+  width: 1px;
+  height: 1px;
+  margin: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  font-size: 1rem;
+}
+
+.mb2 {
+  margin-bottom: 2vh;
+}
+
+.mb4 {
+  margin-bottom: 4vh;
+}
+
+.mb8 {
+  margin-bottom: 8vh;
+}
+
+.mb12 {
+  margin-bottom: 12vh;
+}
+
+.mb16 {
+  margin-bottom: 16vh;
+}
