@@ -66,7 +66,6 @@ h1 > small {
 h2 {
   margin-top: 4rem;
   font-size: 3rem;
-  /*   text-align: right; */
 }
 
 h3 {
@@ -146,6 +145,10 @@ header h1 {
 
 footer {
   margin-top: 3rem;
+}
+
+p > img {
+  max-width: 100%;
 }
 
 .skip-link {

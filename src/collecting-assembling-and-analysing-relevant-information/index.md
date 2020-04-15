@@ -45,12 +45,6 @@ the forms and any associated documents in use);
 (2) staff whose work is or will be associated with the form at any stage, in all
 branches of the office;
 
-II
-
-[second page]
-
-DECIDING REQUIREMENTS
-
 (3) persons who complete or may have to complete the form at any stage, inside or
 
 outside the department;
@@ -64,7 +58,7 @@ Refer to
 departmental records and libraries of forms held by Forms Control Sections or the
 Clerk of Stationery.
 
-Collecting data
+### Collecting data
 
 The collection of all the data needed as a basis for designing a form demands great
 thoroughness and an enquiring and challenging attitude to existing practices. It will
@@ -114,11 +108,9 @@ A record of the procedures involved in the use of the form, setting out in seque
 
 all the operations concerned, will establish the facts and aid analysis. Usually a narra-
 tive, step by step, record is adequate, but sometimes other forms of record or chart are
-12
 
-[third page]
+## COLLECTING, ASSEMBLING AND ANALYSING RELEVANT INFORMATION
 
-COLLECTING, ASSEMBLING AND ANALYSING RELEVANT INFORMATION
 valuable. Where a series of forms has to be studied it may be of advantage, as an
 alternative, to mount specimens on a large sheet of paper or linen or on a blackboard
 and record the associated action alongside. Various devices, such as connecting lines
@@ -136,7 +128,7 @@ A few examples of procedure statements and charts to assist in recording and
 facilitate analysis follow. Much more comprehensive information is to be found in
 the companion publication The Practice of O and M.
 
-Analysing data
+### Analysing data
 
 All the data should be subjected to a searching examination in which the validity of
 all that is done and the reasons given for so doing, are challenged. This applies not
@@ -167,4 +159,26 @@ When these questions have been answered the way is clear to start the design of 
 form. It should be remembered, however, that the requirements of design must be
 reconciled with what is practicable and economical from the production aspect.
 
-13
+![](14-top.png)
+
+Repetitive data entered on several related forms can be analysed and summarised on these
+lines to show entries on revised or combined documents. Letters or symbols could be used
+to indicate also how the entry is made, e.g. T for typewriter entries copied from another
+documents, or + for a calculation prior to a figure entry
+
+![](14-bottom.png)
+
+Extract from a note of a series of writing operations, set out for comparison between the
+present and proposed procedure and showing a reduction of work by the use of carbon
+paper. The word ‘Record’ is used consistently to distinguish new or original entries from
+those which are a ‘Copy’ of an existing entry made earlier in the process; this often points
+to scope for using carbon paper or combining documents
+
+## CHART FOR ANALYSIS OF DATA IN A SERIES OF FORMS OR DOCUMENTS
+
+![](15-middle.png)
+
+Claims Account Procedure: a diagram, or actual forms showing specimen entries, can be
+prepared on a large sheet of paper to indicate the source of entries and the sequence in
+which details are transferred or copied from one document to another; this may help to
+show how documents can be combined
