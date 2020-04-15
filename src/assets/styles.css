@@ -134,19 +134,12 @@ dd {
   font-weight: bold;
 }
 
-@media only screen and (max-width: 50rem) {
-  body {
-    font-size: 1rem;
-  }
-  h1 {
-    font-size: 2rem;
-  }
-  h2 {
-    font-size: 1.6rem;
-  }
-  h3 {
-    font-size: 1.3rem;
-  }
+header h1 {
+  font-size: 1.4rem;
+}
+
+footer {
+  margin-top: 3rem;
 }
 
 .skip-link {
@@ -169,10 +162,7 @@ dd {
 .back-link {
   display: inline-block;
   margin-bottom: 2rem;
-}
-
-header h1 {
-  font-size: 1rem;
+  font-size: 1.4rem;
 }
 
 .mb2 {
@@ -193,4 +183,21 @@ header h1 {
 
 .mb16 {
   margin-bottom: 16vh;
+}
+
+
+@media only screen and (max-width: 60ch) {
+  body {
+    font-size: 1rem;
+    padding: 2rem 1rem;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.6rem;
+  }
+  h3 {
+    font-size: 1.3rem;
+  }
 }
