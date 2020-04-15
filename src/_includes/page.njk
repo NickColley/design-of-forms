@@ -3,9 +3,21 @@ layout: default.njk
 ---
     
 <header>
-    <h1>{{ title }}</h1>
+    <h1>
+        <a href="/#contents">
+            The Design of Forms
+            <small class="upper spacing">in Government departments</small></a>
+        {%- if section -%}
+            :
+            <a  class="inline-block upper spacing" href="/#{{ section | lower | replace(' ', '-') }}">
+                <small>
+                    {{ section }}
+                </small>
+            </a>
+        {%- endif -%}
+    </h1>
 </header>
 
-<a href="/" class="back-link">Back</a>
+
 
 {{ content | safe }}

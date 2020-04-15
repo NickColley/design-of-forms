@@ -1,6 +1,8 @@
 :root {
   --text-color: #121211;
   --background-color: #fcf6ea;
+  --verticle-page-margin: 12vh;
+  --horizontal-page-margin: 8vw;
 }
 
 html {
@@ -15,7 +17,11 @@ body {
   font-family: Georgia, serif;
   margin: 0;
   max-width: 60ch;
-  padding: 12vh 8vw;
+  padding: var(--verticle-page-margin) var(--horizontal-page-margin);
+}
+
+:target {
+  scroll-margin: var(--verticle-page-margin) var(--horizontal-page-margin);
 }
 
 :link,
@@ -42,17 +48,17 @@ h5,
 h6,
 .heading {
   font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
 }
 
 h1 {
   font-size: 4rem;
-  font-weight: bold;
   line-height: 1.5;
   margin: 0;
   margin-bottom: 4vh;
 }
 
-h1 small {
+h1 > small {
   font-size: 1.2rem;
   margin-top: 4vh !important;
 }
@@ -159,12 +165,6 @@ footer {
   white-space: nowrap;
 }
 
-.back-link {
-  display: inline-block;
-  margin-bottom: 2rem;
-  font-size: 1.4rem;
-}
-
 .mb2 {
   margin-bottom: 2vh;
 }
@@ -187,9 +187,12 @@ footer {
 
 
 @media only screen and (max-width: 60ch) {
+  :root {
+    --verticle-page-margin: 2rem;
+    --horizontal-page-margin: 1rem;
+  }  
   body {
     font-size: 1rem;
-    padding: 2rem 1rem;
   }
   h1 {
     font-size: 3rem;
