@@ -197,6 +197,38 @@ p > img {
   max-width: 100%;
 }
 
+ol {
+  counter-reset: ordered-list-counter;
+  list-style: none;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+ol li {
+  counter-increment: ordered-list-counter;
+}
+ol li::before {
+  content: "(" counter(ordered-list-counter) ")";
+  float: left;
+  margin-right: .25em;
+}
+
+table {
+  margin-left: -1rem;
+  margin-right: -1rem;
+  margin-bottom: 2rem;
+}
+
+th {
+  font-style: italic;
+  font-weight: normal;
+}
+
+th, td {
+  padding: .5rem 1rem;
+}
+
 .skip-link {
   position: absolute;
   top: 0;
