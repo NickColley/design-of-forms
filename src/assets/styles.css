@@ -5,6 +5,13 @@
   --horizontal-page-margin: 8vw;
 }
 
+@media only screen and (max-width: 60ch) {
+  :root {
+    --verticle-page-margin: 2rem;
+    --horizontal-page-margin: 1rem;
+  }
+}
+
 html {
   margin: 0;
   padding: 0;
@@ -18,6 +25,12 @@ body {
   margin: 0;
   max-width: 60ch;
   padding: var(--verticle-page-margin) var(--horizontal-page-margin);
+}
+
+@media only screen and (max-width: 60ch) {
+  body {
+    font-size: 1rem;
+  }
 }
 
 :target {
@@ -58,6 +71,12 @@ h1 {
   margin-bottom: 4vh;
 }
 
+@media only screen and (max-width: 60ch) {
+  h1 {
+    font-size: 3rem;
+  }
+}
+
 h1 > small {
   font-size: 1.2rem;
   margin-top: 4vh !important;
@@ -68,8 +87,20 @@ h2 {
   font-size: 3rem;
 }
 
+@media only screen and (max-width: 60ch) {
+  h2 {
+    font-size: 1.6rem;
+  }
+}
+
 h3 {
   font-size: 1.8rem;
+}
+
+@media only screen and (max-width: 60ch) {
+  h3 {
+    font-size: 1.3rem;
+  }
 }
 
 .heading {
@@ -183,6 +214,24 @@ p > img {
   white-space: nowrap;
 }
 
+/* to highlight things not in the original book */
+.highlight-modern {
+  background: white;
+  color: rebeccapurple;
+  padding: 1rem;
+  border: 0;
+  border-style: double;
+  border-top-width: 3px;
+  border-bottom-width: 3px;
+}
+
+@media only screen and (max-width: 60ch) {
+  .highlight-modern {
+    margin-left: calc(-1* var(--horizontal-page-margin));
+    margin-right: calc(-1* var(--horizontal-page-margin));
+  }
+}
+
 .mb0 {
   margin-bottom: 0;
 }
@@ -205,24 +254,4 @@ p > img {
 
 .mb16 {
   margin-bottom: 16vh;
-}
-
-
-@media only screen and (max-width: 60ch) {
-  :root {
-    --verticle-page-margin: 2rem;
-    --horizontal-page-margin: 1rem;
-  }  
-  body {
-    font-size: 1rem;
-  }
-  h1 {
-    font-size: 3rem;
-  }
-  h2 {
-    font-size: 1.6rem;
-  }
-  h3 {
-    font-size: 1.3rem;
-  }
 }
