@@ -1,9 +1,12 @@
 ---
 layout: page.njk
+title: Collecting, Assembling and Analysing
 section: Deciding Requirements
+tags: page
+pageNumber:
+    start: 11
+    end: 15
 ---
-
-## Collecting, Assembling and Analysing
 
 ### Relevant Information
 

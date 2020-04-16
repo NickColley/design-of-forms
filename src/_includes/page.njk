@@ -1,23 +1,65 @@
 ---
 layout: default.njk
 ---
-    
-<header>
+
+<header class="mb8">
     <h1>
         <a href="/#contents">
             The Design of Forms
             <small class="upper spacing">in Government departments</small></a>
-        {%- if section -%}
-            :
-            <a  class="inline-block upper spacing" href="/#{{ section | lower | replace(' ', '-') }}">
+        {%- if section %}
+             – 
+            <a class="inline-block upper spacing" href="/#{{ section | lower | replace(' ', '-') }}">
                 <small>
                     {{ section }}
                 </small>
             </a>
         {%- endif -%}
+        {%- if title %}
+             – 
+            <small class="inline-block">
+                {{ title }}
+            </small>
+        {%- endif -%}
     </h1>
 </header>
 
-
+<h1>{{ title }}</h1>
 
 {{ content | safe }}
+
+{# {%- for item in collections.page -%}
+  <li>
+    {{ item.data.title }}: {{ item.data.section }}
+  </li>
+{%- endfor -%} #}
+
+<hr/>
+
+<h2>Contents</h2>
+
+{% for itemSection, items in collections.page | groupByNested("data.section") %}
+    <h3 class="upper">
+        <a href="/#{{ itemSection | lower | replace(' ', '-') }}">
+            {{ itemSection }}
+            {% if section === itemSection %}
+                – current section
+            {% endif %}
+        </a>
+    </h3>
+    <ul>
+        {% for item in items %}
+            <li>
+                {% if page.url === item.url %}
+                    <span class="bold">
+                        {{ item.data.title }} – current page
+                    </span>
+                {% else %}
+                    <a href="{{ item.url }}">
+                        {{ item.data.title }}
+                    </a>
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+{% endfor %}

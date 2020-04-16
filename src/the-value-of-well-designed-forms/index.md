@@ -1,9 +1,12 @@
 ---
 layout: page.njk
+title: The Value of Well-Designed Forms
 section: Introduction
+tags: page
+pageNumber:
+    start: 9
+    end: 10
 ---
-
-# The Value of Well-Designed Forms
 
 Forms and documents used in office work are important aids to the conduct of business.
 But a particular form or document must be proved to be necessary; it should be clear that the material which it contains cannot be found in an acceptable form elsewhere, e.g. in a letter or in another form.

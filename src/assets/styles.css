@@ -128,6 +128,12 @@ dl {
   margin-bottom: 2rem;
 }
 
+dd::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
 dt {
   display: block;
   float: left;
