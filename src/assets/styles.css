@@ -153,6 +153,15 @@ footer {
   margin-top: 3rem;
 }
 
+details > summary {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+details > summary + * {
+  margin-top: 1rem;
+}
+
 p > img {
   max-width: 100%;
 }
@@ -172,6 +181,10 @@ p > img {
   clip: rect(0 0 0 0);
   clip-path: inset(50%);
   white-space: nowrap;
+}
+
+.mb0 {
+  margin-bottom: 0;
 }
 
 .mb2 {
