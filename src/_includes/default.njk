@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="no-js">
   <head>
     <meta charset="utf-8">
     <title>The Design of Forms in Government departments{% if section %} – {{ section }}{% endif %}{% if title %} – {{ title }}{% endif %}</title>
@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="/assets/styles.css">
   </head>
   <body>
+    <script>document.documentElement.classList.remove('no-js');</script>
     <a href="#contents" class="skip-link">
       Skip to contents
     </a>
@@ -32,5 +33,6 @@
       </details>
       Made with <span aria-label="love">❤</span> from <a href="https://twitter.com/nickcolley">@nickcolley</a>
     </footer>
+    <script src="/assets/scripts.js"></script>
   </body>
 </html>

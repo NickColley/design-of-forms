@@ -1,9 +1,17 @@
 :root {
-  --text-color: #121211;
   --background-color: #fcf6ea;
+  --text-color: #121211;
+
+  --highlight-modern-background-color: white;
+  --highlight-modern-color: rebeccapurple;
+
+  --font-family-sans-serif: Helvetica, Arial, sans-serif;
+  --font-family-serif: Georgia, serif;
+
   --verticle-page-margin: 12vh;
   --horizontal-page-margin: 8vw;
 }
+
 
 @media only screen and (max-width: 60ch) {
   :root {
@@ -21,7 +29,7 @@ body {
   background: var(--background-color);
   color: var(--text-color);
   font-size: 1.6rem;
-  font-family: Georgia, serif;
+  font-family: var(--font-family-serif);
   margin: 0;
   max-width: 60ch;
   padding: var(--verticle-page-margin) var(--horizontal-page-margin);
@@ -60,7 +68,7 @@ h4,
 h5,
 h6,
 .heading {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: var(--font-family-sans-serif);
   font-weight: bold;
 }
 
@@ -107,24 +115,8 @@ h3 {
   line-height: 2;
 }
 
-.block {
-  display: block;
-}
-
-.italic {
-  font-style: italic;
-}
-
-.bold {
-  font-weight: bold;
-}
-
-.upper {
-  text-transform: uppercase;
-}
-
-.spacing {
-  letter-spacing: 0.1rem;
+button {
+  font-family: var(--font-family-sans-serif);
 }
 
 .list--style-none {
@@ -248,8 +240,8 @@ th, td {
 
 /* to highlight things not in the original book */
 .highlight-modern {
-  background: white;
-  color: rebeccapurple;
+  background: var(--highlight-modern-background-color);
+  color: var(--highlight-modern-color);
   padding: 1rem;
   border: 0;
   border-style: double;
@@ -286,4 +278,38 @@ th, td {
 
 .mb16 {
   margin-bottom: 16vh;
+}
+
+.block {
+  display: block;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.spacing {
+  letter-spacing: 0.1rem;
+}
+
+.visually-hidden { 
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  border: 0;
+  white-space: nowrap;
 }
