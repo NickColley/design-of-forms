@@ -90,6 +90,7 @@ h6,
 
 h1 {
   font-size: 4rem;
+  font-weight: 700;
   line-height: 1.5;
   margin: 0;
   margin-bottom: 4vh;
@@ -108,7 +109,7 @@ h1 > small {
 
 h2 {
   margin-top: 4rem;
-  font-size: 3rem;
+  font-size: 2.6rem;
 }
 
 @media only screen and (max-width: 60ch) {
@@ -118,7 +119,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 
 @media only screen and (max-width: 60ch) {
@@ -177,6 +178,7 @@ dt {
   display: block;
   float: left;
   margin-right: 1rem;
+  max-width: calc(100% - 2em);
 }
 
 dd {
@@ -274,6 +276,10 @@ th, td {
 
 .mb0 {
   margin-bottom: 0;
+}
+
+.mb1 {
+  margin-bottom: 1vh;
 }
 
 .mb2 {
