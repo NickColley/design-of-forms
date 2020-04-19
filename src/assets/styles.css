@@ -5,8 +5,24 @@
   --highlight-modern-background-color: white;
   --highlight-modern-color: rebeccapurple;
 
-  --font-family-sans-serif: Helvetica, Arial, sans-serif;
-  --font-family-serif: Georgia, serif;
+  /**
+   * The book itself recommends Gill Sans for use in Government, and the book seems to follow that guidance.
+   * - Gill Sans is avaliable on OSX.
+   * - Gill Sans Nova is avaliable but might not be installed by default on Windows.
+   * - DevaVu Sans on Ubuntu Linux.
+   * - Open Sans, Lato might be installed so worth a try.
+   * http://fontfamily.io/Gill_Sans
+   * Avoid downloading a webfont for performance, most people will not care.
+  */
+  --font-family-sans-serif: "Gill sans", "Gill Sans Nova", "DejaVu Sans", "Open Sans", "Lato", sans-serif;
+  /**
+   * The book itself recommends Times New Roman use in Government, and the book seems to follow that guidance.
+   * - Times New Roman is avaliable on OSX and Windows.
+   * - Georgia to fall back to since often default sans-serif is not that readable.
+   * http://fontfamily.io/Gill_Sans
+   * Avoid downloading a webfont for performance, most people will not care.
+  */
+  --font-family-serif: "Times New Roman", "Times", "Georgia", serif;
 
   --verticle-page-margin: 12vh;
   --horizontal-page-margin: 8vw;
