@@ -8,8 +8,8 @@
   </head>
   <body>
     <script>document.documentElement.classList.remove('no-js');</script>
-    <a href="#contents" class="skip-link">
-      Skip to contents
+    <a href="#{{ skiplink | default('contents') }}" class="skip-link">
+      Skip to content{{ "s" if not skiplink }}
     </a>
 
     <main id="main" role="main">

@@ -212,6 +212,11 @@ p > img {
   max-width: 100%;
 }
 
+figure {
+  margin: 0;
+  padding: 0;
+}
+
 ol {
   --counter-start: 0;
   counter-reset: ordered-list-counter var(--counter-start);
