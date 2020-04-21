@@ -132,6 +132,11 @@ h3 {
   line-height: 2;
 }
 
+.lead-word {
+  font-variant: small-caps;
+  letter-spacing: 1px;
+}
+
 button {
   font-family: var(--font-family-sans-serif);
 }
@@ -208,7 +213,8 @@ p > img {
 }
 
 ol {
-  counter-reset: ordered-list-counter;
+  --counter-start: 0;
+  counter-reset: ordered-list-counter var(--counter-start);
   list-style: none;
   margin-left: 0;
   margin-right: 0;
@@ -223,6 +229,19 @@ ol li::before {
   float: left;
   margin-right: .25em;
 }
+
+/* When lists start at a number higher than 1,
+set a CSS custom property to make sure the counter is correct. */
+[start="1"] { --counter-start: 1; }
+[start="2"] { --counter-start: 2; }
+[start="3"] { --counter-start: 3; }
+[start="4"] { --counter-start: 4; }
+[start="5"] { --counter-start: 5; }
+[start="6"] { --counter-start: 6; }
+[start="7"] { --counter-start: 7; }
+[start="8"] { --counter-start: 8; }
+[start="9"] { --counter-start: 9; }
+[start="10"] { --counter-start: 10; }
 
 table {
   margin-left: -1rem;
