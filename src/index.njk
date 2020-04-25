@@ -110,33 +110,30 @@ layout: default.njk
 <hr />
 
 {% for itemSection, items in collections.page | groupByNested("data.section") %}
-    <h3 id="{{ itemSection | lower | replace(' ', '-') }}" class="upper mb1">
-        {{ itemSection }}
-    </h3>
-    <dl>
+    {% if itemSection === 'End' %}
         {% for item in items | sortNested(false, false, 'data.pageNumber.start') %}
-            <dt>
+            <h3 id="{{ item.data.title | lower | replace(' ', '-') }}" class="upper mb3">
                 <a href="{{ item.url }}">
-                    {{ item.data.title }}
+                    {{ item.data.title }} {{ item.data.pageNumber.start }}
                 </a>
-            </dt>
-            <dd>
-                {% if itemSection === 'Introduction' %}page {% endif %}
-                {{ item.data.pageNumber.start }}
-            </dd>
+            </h3>
         {% endfor %}
-    </dl>
+    {% else %}
+        <h3 id="{{ itemSection | lower | replace(' ', '-') }}" class="upper mb1">
+            {{ itemSection }}
+        </h3>
+        <dl>
+            {% for item in items | sortNested(false, false, 'data.pageNumber.start') %}
+                <dt>
+                    <a href="{{ item.url }}">
+                        {{ item.data.title }}
+                    </a>
+                </dt>
+                <dd>
+                    {% if itemSection === 'Introduction' %}page {% endif %}
+                    {{ item.data.pageNumber.start }}
+                </dd>
+            {% endfor %}
+        </dl>
+    {% endif %}
 {% endfor %}
-
-
-<h2 id="contents">
-    Pages to be compeleted
-</h2>
-
-<hr />
-
-<h3 id="preparing-instructions-for-the-reproduction-process" class="upper mb3">Preparing Instructions for the Reproduction Process 154</h3>
-<h3 id="table-of-symbols-for-proof-correction" class="upper mb3">Table of Symbols for Proof Correction 159</h3>
-<h3 id="forms-design-check-list" class="upper mb3">Forms Design Check List 166</h3>
-<h3 id="reference-material" class="upper mb3">Reference Material 170</h3>
-<h3 id="index" class="upper mb3">Index 171</h3>
