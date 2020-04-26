@@ -114,7 +114,7 @@ layout: default.njk
         {% for item in items %}
             <h3 id="{{ item.data.title | lower | replace(' ', '-') }}" class="upper mb3">
                 <a href="{{ item.url }}">
-                    {{ item.data.title }} {{ item.data.pageNumber.start }}
+                    {{ item.data.title }} {{ item.data.pageNumber.start }} ({{ item.data.status }})
                 </a>
             </h3>
         {% endfor %}
