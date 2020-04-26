@@ -348,6 +348,11 @@ th, td {
   text-transform: uppercase;
 }
 
+.small-caps {
+  text-transform: uppercase;
+  font-variant: all-small-caps;
+}
+
 .spacing {
   letter-spacing: 0.1rem;
 }
