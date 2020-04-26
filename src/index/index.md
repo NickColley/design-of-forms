@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: Index
-section: End
+section: Back matter
 status: text
 tags: page
 pageNumber:

@@ -364,3 +364,43 @@ th, td {
   border: 0;
   white-space: nowrap;
 }
+
+
+/* todo remove me after done */
+
+.progress-bar {
+  padding: 0;
+  display: flex;
+  list-style: none;
+}
+
+[data-status] {
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-family: var(--font-family-sans-serif);
+  padding: .1rem .3rem;
+  border: 3px double black;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+[data-status="stub"] {
+  background: orangered;
+  color: white;
+}
+
+[data-status="text"] {
+  background: orange;
+}
+
+[data-status="qa"] {
+  background: cadetblue;
+  color: white;
+}
+
+[data-status="completed"] {
+  background: green;
+  color: white;
+}

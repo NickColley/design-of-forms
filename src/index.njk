@@ -110,44 +110,6 @@ layout: default.njk
 <h3>
     Progress
 </h3>
-<style>
-.progress-bar {
-    padding: 0;
-    display: flex;
-    list-style: none;
-}
-
-[data-status] {
-    font-size: 1rem;
-    text-transform: uppercase;
-    font-weight: normal;
-    font-family: var(--font-family-sans-serif);
-    padding: .1rem .3rem;
-    border: 3px double black;
-    text-align: center;
-    white-space: nowrap;
-    overflow: hidden;
-}
-
-[data-status="stub"] {
-    background: orangered;
-    color: white;
-}
-
-[data-status="text"] {
-    background: orange;
-}
-
-[data-status="qa"] {
-    background: cadetblue;
-    color: white;
-}
-
-[data-status="completed"] {
-    background: green;
-    color: white;
-}
-</style>
 <ul class="progress-bar">
     {% for group, items in collections.page | groupByNested("data.status") %}
         <li data-status="{{ group }}" style="min-width: {{ items.length / collections.page.length * 100 }}%">
@@ -158,34 +120,4 @@ layout: default.njk
 
 <hr />
 
-{% for itemSection, items in collections.page | sortNested(false, false, 'data.pageNumber.start') | groupByNested("data.section") %}
-    {% if itemSection === 'End' %}
-        {% for item in items %}
-            <h3 id="{{ item.data.title | lower | replace(' ', '-') }}" class="upper mb3">
-                <a href="{{ item.url }}">
-                    {{- item.data.title -}}
-                </a>
-                {{ item.data.pageNumber.start }}
-                <span data-status="{{ item.data.status }}">{{ item.data.status }}</span>
-            </h3>
-        {% endfor %}
-    {% else %}
-        <h3 id="{{ itemSection | lower | replace(' ', '-') }}" class="upper mb1">
-            {{ itemSection }}
-        </h3>
-        <dl>
-            {% for item in items %}
-                <dt>
-                    <a href="{{ item.url }}">
-                        {{- item.data.title -}}
-                    </a>
-                </dt>
-                <dd>
-                    {% if itemSection === 'Introduction' %}page {% endif %}
-                    {{ item.data.pageNumber.start }}
-                    <span data-status="{{ item.data.status }}">{{ item.data.status }}</span>
-                </dd>
-            {% endfor %}
-        </dl>
-    {% endif %}
-{% endfor %}
+{% include 'contents.njk' %}

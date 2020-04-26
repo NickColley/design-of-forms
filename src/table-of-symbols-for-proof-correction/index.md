@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: Table of Symbols for Proof Correction
-section: End
+section: Back matter
 status: stub
 tags: page
 pageNumber:

@@ -8,7 +8,7 @@ skiplink: main
         <a href="/#contents">
             The Design of Forms
             <small class="upper spacing">in Government departments</small></a>
-        {%- if section and section != 'End' -%}
+        {%- if section and section != 'Back matter' -%}
             &nbsp;–
             <a class="inline-block upper spacing" href="/#{{ section | lower | replace(' ', '-') }}">
                 <small>
@@ -38,28 +38,4 @@ skiplink: main
 
 <h2>Contents</h2>
 
-{% for itemSection, items in collections.page | groupByNested("data.section") %}
-    <h3 class="upper">
-        <a href="/#{{ itemSection | lower | replace(' ', '-') }}">
-            {{ itemSection }}
-            {% if section === itemSection %}
-                – current section
-            {% endif %}
-        </a>
-    </h3>
-    <ul>
-        {% for item in items %}
-            <li>
-                {% if page.url === item.url %}
-                    <span class="bold">
-                        {{ item.data.title }} – current page
-                    </span>
-                {% else %}
-                    <a href="{{ item.url }}">
-                        {{ item.data.title }}
-                    </a>
-                {% endif %}
-            </li>
-        {% endfor %}
-    </ul>
-{% endfor %}
+{% include 'contents.njk' %}
