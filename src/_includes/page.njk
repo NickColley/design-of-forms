@@ -8,7 +8,7 @@ skiplink: main
         <a href="/#contents">
             The Design of Forms
             <small class="upper spacing">in Government departments</small></a>
-        {%- if section -%}
+        {%- if section and section != 'End' -%}
             &nbsp;–
             <a class="inline-block upper spacing" href="/#{{ section | lower | replace(' ', '-') }}">
                 <small>
