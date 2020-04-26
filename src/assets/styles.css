@@ -168,19 +168,20 @@ h2 + hr {
 
 dl {
   display: block;
-  margin: 0;
   margin-left: 1rem;
   margin-bottom: 2rem;
+}
+
+@media only screen and (max-width: 60ch) {
+  dl {
+    margin-left: 0;
+  }
 }
 
 dd::after {
   content: '';
   display: table;
   clear: both;
-}
-
-dl {
-  max-width: 100vw;
 }
 
 dt {
