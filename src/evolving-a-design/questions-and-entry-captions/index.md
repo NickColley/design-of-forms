@@ -2,6 +2,7 @@
 layout: page.njk
 title:  Questions and entry captions
 section: Evolving a Design
+status: qa
 tags: page
 pageNumber:
     start: 38

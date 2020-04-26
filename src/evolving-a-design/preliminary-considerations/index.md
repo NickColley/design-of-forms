@@ -2,6 +2,7 @@
 layout: page.njk
 title:  Preliminary considerations
 section: Evolving a Design
+status: qa
 tags: page
 pageNumber:
     start: 16

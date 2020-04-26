@@ -2,6 +2,7 @@
 layout: page.njk
 title:  The layout and style of the form
 section: Evolving a Design
+status: text
 tags: page
 pageNumber:
     start: 22

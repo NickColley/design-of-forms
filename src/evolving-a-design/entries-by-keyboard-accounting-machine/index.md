@@ -2,6 +2,7 @@
 layout: page.njk
 title: Entries by keyboard accounting machine
 section: Evolving a Design
+status: text
 tags: page
 pageNumber:
     start: 54

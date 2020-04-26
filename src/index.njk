@@ -131,7 +131,7 @@ layout: default.njk
                 </dt>
                 <dd>
                     {% if itemSection === 'Introduction' %}page {% endif %}
-                    {{ item.data.pageNumber.start }}
+                    {{ item.data.pageNumber.start }} ({{ item.data.status }})
                 </dd>
             {% endfor %}
         </dl>
