@@ -384,6 +384,7 @@ th, td {
   text-align: center;
   white-space: nowrap;
   overflow: hidden;
+  box-sizing: border-box;
 }
 
 [data-status="stub"] {
