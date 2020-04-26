@@ -179,16 +179,21 @@ dd::after {
   clear: both;
 }
 
+dl {
+  max-width: 100vw;
+}
+
 dt {
   display: block;
   float: left;
   margin-right: 1rem;
-  max-width: calc(100% - 2em);
+  max-width: calc(100% - 10ch - 1rem);
 }
 
 dd {
   display: block;
   font-weight: bold;
+  margin: 0;
 }
 
 header h1 {
