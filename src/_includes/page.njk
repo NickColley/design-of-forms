@@ -1,6 +1,5 @@
 ---
 layout: default.njk
-skiplink: main
 ---
 
 <header class="mb8">
@@ -27,12 +26,6 @@ skiplink: main
 <h1>{{ title }}</h1>
 
 {{ content | safe }}
-
-{# {%- for item in collections.page -%}
-  <li>
-    {{ item.data.title }}: {{ item.data.section }}
-  </li>
-{%- endfor -%} #}
 
 <hr/>
 

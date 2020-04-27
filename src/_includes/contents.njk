@@ -1,3 +1,4 @@
+<span id="table-of-contents"></span>
 {% for itemSection, items in collections.page | sortNested(false, false, 'data.pageNumber.start') | groupByNested("data.section") %}
     {% if itemSection === 'Back matter' %}
         {% for item in items %}
