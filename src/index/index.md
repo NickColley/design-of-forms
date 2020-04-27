@@ -2,7 +2,7 @@
 layout: page.njk
 title: Index
 section: Back matter
-status: text
+status: cleanup
 tags: page
 pageNumber:
     start: 171

@@ -2,7 +2,7 @@
 layout: page.njk
 title: Preparing Instructions for the Reproduction Process
 section: Back matter
-status: text
+status: needs images
 tags: page
 pageNumber:
     start: 154

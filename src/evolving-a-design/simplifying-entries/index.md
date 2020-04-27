@@ -2,7 +2,7 @@
 layout: page.njk
 title:  Simplifying entries
 section: Evolving a Design
-status: text
+status: needs images
 tags: page
 pageNumber:
     start: 39

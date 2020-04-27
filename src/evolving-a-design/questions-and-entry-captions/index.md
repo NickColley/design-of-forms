@@ -2,7 +2,7 @@
 layout: page.njk
 title:  Questions and entry captions
 section: Evolving a Design
-status: qa
+status: cleanup
 tags: page
 pageNumber:
     start: 38

@@ -2,7 +2,7 @@
 layout: page.njk
 title: Envelopes, wrappers and labels
 section: Transit and Mailing Documents
-status: text
+status: needs images
 tags: page
 pageNumber:
     start: 103

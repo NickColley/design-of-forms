@@ -2,7 +2,7 @@
 layout: page.njk
 title:  Use of colour
 section: Evolving a Design
-status: qa
+status: cleanup
 tags: page
 pageNumber:
     start: 99

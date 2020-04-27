@@ -2,7 +2,7 @@
 layout: page.njk
 title: Table of Symbols for Proof Correction
 section: Back matter
-status: text
+status: needs images
 tags: page
 pageNumber:
     start: 159

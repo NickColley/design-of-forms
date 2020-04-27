@@ -2,7 +2,7 @@
 layout: page.njk
 title: Size and shape of documents and forms
 section: Evolving a Design
-status: text
+status: needs tables
 tags: page
 pageNumber:
     start: 94

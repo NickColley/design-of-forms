@@ -2,7 +2,7 @@
 layout: page.njk
 title: Type sizes
 section: The Form in Print
-status: text
+status: needs images
 tags: page
 pageNumber:
     start: 120

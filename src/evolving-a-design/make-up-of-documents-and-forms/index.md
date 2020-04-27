@@ -2,7 +2,7 @@
 layout: page.njk
 title: Make-up of documents and forms
 section: Evolving a Design
-status: text
+status: cleanup
 tags: page
 pageNumber:
     start: 88

@@ -2,7 +2,7 @@
 layout: page.njk
 title: Making copies with duplicating equipment
 section: Copying
-status: text
+status: needs images
 tags: page
 pageNumber:
     start: 144

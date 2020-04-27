@@ -2,7 +2,7 @@
 layout: page.njk
 title: Typography
 section: The Form in Print
-status: text
+status: cleanup
 tags: page
 pageNumber:
     start: 113

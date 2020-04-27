@@ -2,7 +2,7 @@
 layout: page.njk
 title: Design to simplify checking, comparing and copying from the form
 section: Evolving a Design
-status: text
+status: needs images
 tags: page
 pageNumber:
     start: 66

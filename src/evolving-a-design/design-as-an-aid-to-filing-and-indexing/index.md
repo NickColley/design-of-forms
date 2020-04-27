@@ -2,7 +2,7 @@
 layout: page.njk
 title: Design as an aid to filing and indexing
 section: Evolving a Design
-status: text
+status: needs images
 tags: page
 pageNumber:
     start: 83

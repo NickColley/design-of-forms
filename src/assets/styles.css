@@ -393,16 +393,11 @@ th, td {
   box-sizing: border-box;
 }
 
-[data-status="stub"] {
-  background: orangered;
-  color: white;
-}
-
-[data-status="text"] {
+[data-status^="needs "] {
   background: orange;
 }
 
-[data-status="qa"] {
+[data-status="cleanup"] {
   background: cadetblue;
   color: white;
 }

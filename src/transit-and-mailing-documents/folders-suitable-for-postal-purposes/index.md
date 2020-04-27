@@ -2,7 +2,7 @@
 layout: page.njk
 title: Folders suitable for postal purposes
 section: Transit and Mailing Documents
-status: text
+status: needs images
 tags: page
 pageNumber:
     start: 108
