@@ -411,3 +411,9 @@ th, td {
   background: green;
   color: white;
 }
+
+
+/* /the-form-in-print/typography */
+.sans-serif {
+  font-family: var(--font-family-sans-serif);
+}
