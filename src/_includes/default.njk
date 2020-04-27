@@ -19,6 +19,16 @@
     <hr/>
 
     <footer class="highlight-modern">
+      {% if pageNumber %}
+        <p>
+            This content appeared 
+            {% if pageNumber.end > pageNumber.start %}between{% else %}on{% endif %}
+            page{% if pageNumber.end > pageNumber.start %}s{% endif %}
+            {{ pageNumber.start }}
+            {% if pageNumber.end > pageNumber.start %}and {{ pageNumber.end }}{% endif %}
+            in the original book.
+        </p>
+      {% endif %}
       <details class="mb8">
           <summary>Report something wrong with this page</summary>
           <h4 class="mb0">GitHub</h4>
