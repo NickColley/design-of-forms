@@ -163,14 +163,14 @@ When these questions have been answered the way is clear to start the design of 
 form. It should be remembered, however, that the requirements of design must be
 reconciled with what is practicable and economical from the production aspect.
 
-![](14-top.png)
+![](1.jpg)
 
 Repetitive data entered on several related forms can be analysed and summarised on these
 lines to show entries on revised or combined documents. Letters or symbols could be used
 to indicate also how the entry is made, e.g. T for typewriter entries copied from another
 documents, or + for a calculation prior to a figure entry
 
-![](14-bottom.png)
+![](2.jpg)
 
 Extract from a note of a series of writing operations, set out for comparison between the
 present and proposed procedure and showing a reduction of work by the use of carbon
@@ -180,7 +180,7 @@ to scope for using carbon paper or combining documents
 
 ## CHART FOR ANALYSIS OF DATA IN A SERIES OF FORMS OR DOCUMENTS
 
-![](15-middle.png)
+![](3.jpg)
 
 Claims Account Procedure: a diagram, or actual forms showing specimen entries, can be
 prepared on a large sheet of paper to indicate the source of entries and the sequence in
