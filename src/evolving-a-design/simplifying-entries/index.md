@@ -2,7 +2,7 @@
 layout: page.njk
 title:  Simplifying entries
 section: Evolving a Design
-status: needs images
+status: cleanup
 tags: page
 pageNumber:
     start: 39
@@ -26,46 +26,46 @@ If it is anticipated that most of the answers to a series of questions will cons
 
 Rubber stamps to imprint official entries or entry spaces may save space on the form and help to simplify its printed appearance. The position of these entry spaces should facilitate turning over the forms for repetitive stamping; and should reduce the danger of obscuring other entries by faulty stamping.
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 Captions should be placed close to the boxes to avoid confusion and error
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
+![](2.jpg)
 
 It may be difficult to relate entries to captions when they are placed between boxes
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
 
 
 A mixture of methods indicating a choice may lead to errors in completing the form
 
-![IMAGE 4](https://www.fillmurray.com/g/500/504)
+![](4.jpg)
 
 The arrangement on the left is (in each case) preferable and reduces the need for an
 instruction about deleting words not applicable
 
-![IMAGE 5](https://www.fillmurray.com/g/500/505)
+![](5.jpg)
 
 Choice is indicated by an X in the selected box(es). Rearrangement would avoid repetition
 of the words ‘Save’ and ‘Improve’
 
-![IMAGE 6](https://www.fillmurray.com/g/500/506)
+![](6.jpg)
 
 Unless the place for putting a cross is specified, errors can arise in relating the entry to
 the caption. A box avoids this difficulty
 
-![IMAGE 7](https://www.fillmurray.com/g/500/507)
+![](7.jpg)
 See also the illustration of a hospital form created by dyeline copying, page 146
 
-![IMAGE 8](https://www.fillmurray.com/g/500/508)
+![](8.jpg)
 
 Methods of indicating a choice between alternatives
 
-![IMAGE 9](https://www.fillmurray.com/g/500/509)
+![](9.jpg)
 
 Methods of indicating a choice between alternatives
 
-![IMAGE 10](https://www.fillmurray.com/g/500/510)
+![](10.jpg)
 
 A duplicated form: note the clear and friendly instructions given to disabled persons
 completing this form and the method adopted for recording alternative answers
