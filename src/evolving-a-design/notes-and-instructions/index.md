@@ -2,7 +2,7 @@
 layout: page.njk
 title:  Notes and instructions
 section: Evolving a Design
-status: needs images
+status: cleanup
 tags: page
 pageNumber:
     start: 32
@@ -42,11 +42,11 @@ For example, a request ‘Please do not fold’ may be difficult to meet if the 
 
 Storage of the form is another factor to be considered when considering the quantity of notes and instructions. When the notes etc. are unavoidably lengthy they can sometimes be printed on a separate sheet and are then retained by the person filling in the form.
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 The sketches at the bottom emphasise (with a minimum of wording) the request to pass on the document quickly
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
+![](2.jpg)
 
 A form used to aid analysis of injuries caused by aircraft accidents. The diagrams obviate the need for lengthy explanatory instructions about technical terms
 
@@ -71,14 +71,14 @@ Problems of this kind are a challenge to the ingenuity of the form designer and 
 
 For an internal form (or whenever a book of forms is supplied) a set of instructions (with or without specimen entries) on the inside cover of the pad etc. may facilitate the work and reduce the consumption of paper.
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
 
 When notes and instructions are placed in several different places on the form with various styles and sizes of type, the document tends to lose its simplicity and look unnecessarily complicated
 
-![IMAGE 4](https://www.fillmurray.com/g/500/504)
+![](4.jpg)
 
 General notes and instructions are classified and grouped together in one place on the form to assist comprehension
 
-![IMAGE 5](https://www.fillmurray.com/g/500/505)
+![](5.jpg)
 
 A layout such as this separates entry instructions from the entries overleaf and may increase the possibility of error. Turning the page to read the instruction is even more inconvenient if the form is in a typewriter. Instructions (a , (b) and (f) could be eliminated by re-wording the entry captions, thus reducing the amount of text to a minimum
