@@ -214,8 +214,9 @@ details > summary + * {
   margin-top: 1rem;
 }
 
-p > img {
+main > p > img {
   max-width: 100%;
+  mix-blend-mode: darken;
 }
 
 figure {
