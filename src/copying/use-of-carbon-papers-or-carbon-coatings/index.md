@@ -180,7 +180,7 @@ IN PATCHES: with this process the carbon coating is ‘printed’ from special b
 of the required size or shape using liquid carbon coating instead of printer’s ink. The
 face sides of the forms are usually printed prior to carbonising.
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 A four-part set of forms with carbon patches on the first three. There are no carbon
 patches under the entries ‘Prepared by’ and ‘Checked by’ on the smaller top file copy,
@@ -254,7 +254,7 @@ multi-part forms used in some accounting machines, teleprinters, or with hand
 registers, can be controlled by sprocket devices engaging in a series of holes punched
 in the margins of the form.)
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
+![](2.jpg)
 
 This six-part set of forms is made up in pads for preparation with ordinary carbon paper. The
 purpose of each copy is shown at the top, and a corner is numbered. Apart from this, each copy
@@ -270,14 +270,14 @@ the copying work involved in maintaining several separate records, and also impr
 by using original documents to serve different purposes at various stages without creating fresh
 records
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
 
 
 A form folded, perforated and stapled to facilitate registration of entries on copies serving
 as an application, an import licence and two copies of the licence produced with carbon
 paper
 
-![IMAGE 4](https://www.fillmurray.com/g/500/504)
+![](4.jpg)
 
 For ‘two-in-one’ writing operations on forms of different size, simple and inexpensive
 devices which do not require punched holes can be used to keep two forms in registration.
@@ -287,7 +287,7 @@ the left edge of which is folded to make a flap over the left-hand margins of th
 printed lines on the flap and in the middle of the cheque register enable each cheque to be
 positioned correctly and easily on the next line of entry on the cheque register
 
-![IMAGE 5](https://www.fillmurray.com/g/500/505)
+![](5.jpg)
 
 
 Semi-continuous forms can be supplied in perforated strips (4 forms per sheet) to facili-
@@ -296,12 +296,12 @@ are used as unit documents for assembling particulars of the earnings of the ind
 recipients. Similar type forms can be produced as continuous stationery with sprocket
 holes for use in accounting machines
 
-![IMAGE 6](https://www.fillmurray.com/g/500/506)
+![](6.jpg)
 
 A deep entry space on the under copy and a thick printed line facilitate registration for
 carbon copying
 
-![IMAGE 7](https://www.fillmurray.com/g/500/507)
+![](7.jpg)
 
 A peg board simplifies the handling and positioning of forms for a ‘three-in-one’ writing
 operation with carbon paper, when it is necessary for three forms of different size and shape

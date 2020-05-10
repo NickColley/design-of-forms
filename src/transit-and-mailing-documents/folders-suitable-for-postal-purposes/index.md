@@ -68,23 +68,23 @@ NOTE: Packets intended for transmission at the Printed Paper rate must comply wi
 regulations of that rate. (See Post Office Guide, or leaflet P386, obtainable at any Head
 Post Office.)
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 (1) Single: minimum size
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
+![](2.jpg)
 
 (2) Single: maximum size
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
 
 (3) Single: alternative layout showing economical method of cutting
 
-![IMAGE 4](https://www.fillmurray.com/g/500/504)
+![](4.jpg)
 
 (4) Reply folder
 
-![IMAGE 5](https://www.fillmurray.com/g/500/505)
+![](5.jpg)
 
 (5) Reply folder: alternative layout
 
@@ -93,7 +93,7 @@ despatch, it is not possible to design a layout which avoids taking the folders 
 machine to type the second address, since the closed end of the folder must be the same
 end as that to which the postage stamp or ‘Official Paid’ design is attached.
 
-![IMAGE 6](https://www.fillmurray.com/g/500/506)
+![](6.jpg)
 
 (1) Single Folder
 
@@ -104,11 +104,11 @@ should preferably be at least
 1}” below the top edge
 when folder is made up.
 
-![IMAGE 7](https://www.fillmurray.com/g/500/507)
+![](7.jpg)
 
 (2) Double journey folder
 
-![IMAGE 8](https://www.fillmurray.com/g/500/508)
+![](8.jpg)
 
 (3) Alternative type of reply or double journey folders
 

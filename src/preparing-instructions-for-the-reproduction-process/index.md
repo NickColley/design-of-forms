@@ -132,7 +132,7 @@ about this, but I can always alter it on the proof’, extra costs will be invol
 the simplest amendment, so easy to make on a proof, is time-wasting and costly to
 carry out.
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 
 In the above example, the author has simply deleted a full point, substituted a colon,
@@ -146,7 +146,7 @@ by the compositor, or resetting the whole paragraph, with all the subsequent ope
 tions. Authors should consider whether the alterations are sufficiently important to
 warrant the cost, which in this example might be 5s.
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
+![](2.jpg)
 
 
 Symbols for correcting proofs are detailed on pages 161-165. If these standard
@@ -160,7 +160,7 @@ one should try to add a word. Similarly, if it is necessary to add a line, it ma
 possible to knock out a line, even if it is a line of only one word, otherwise the whole
 paragraph may have to be reset.
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
 
 Author’s corrections cost money and cause delay: a
 high proportion of alterations have to be done by hand

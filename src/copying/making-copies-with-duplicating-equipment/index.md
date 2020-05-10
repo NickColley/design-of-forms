@@ -22,7 +22,7 @@ machine.
 
 ### Making copies of entries by the Hectograph process
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 Captions and lines etc. ‘pre-printed’ on a Hectograph ‘master’ copy; entries are added by
 typewriter and copies of the complete document for circulation are provided on a spirit

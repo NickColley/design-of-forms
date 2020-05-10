@@ -136,7 +136,7 @@ equipment:
 should permit the contents of the envelope to be shaken down below the depth of the
 cutting edge, to avoid mutilation of the contents.
 
-![IMAGE 1](https://fillmurray.com/g/500/501)
+![](1.jpg)
 
 A form to requisition typing work can save time by providing complete information about
 how the work is to be done; without it, time may be wasted in finding the customer’s
@@ -158,7 +158,7 @@ paper sizes, normally up to 12” x 19", can be passed through the machine.
 (4) ENVELOPE INSERTING AND SEALING MACHINES which can take document
 sizes from 4" x 4” to 84” x 13” and envelopes up to 9” x4”.
 
-![IMAGE 2](https://fillmurray.com/g/500/502)
+![](2.jpg)
 
 
 This window envelope is designed with a front flap on which the ‘ Official Paid’ design is
@@ -167,7 +167,7 @@ itself. ‘The flap is tucked inside to send out the blank form; when completed 
 confidential and is returned by sealing the gummed flap on the outside. After this ‘two
 way’ use the envelope can be further used with an economy label.
 
-![IMAGE 3](https://fillmurray.com/g/500/503)
+![](3.jpg)
 
 The size of documents should be fixed in relation to the size of the standard envelope used
 so that folding is minimised; small additional folds such as those shown in this diagram

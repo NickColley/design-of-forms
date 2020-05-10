@@ -73,32 +73,32 @@ person who has extracted the particular record.
 main divisions or groups, e.g. when documents are filed in numerical sequence. It is
 an advantage to have guide cards of a contrasting colour to the index cards.
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 This manilla wallet serves as a casepaper and as a file container for correspondence and
 other forms used on the case
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
+![](2.jpg)
 
 Specification: Punch 2 round holes }” in diameter, centrally on binding edge, at centres
 of 8 cm. with centres of holes 4” from binding edge
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
 
 Specification: Punch 4 round holes }” in diameter, centrally on binding edge, at centres
 of #§” + 1%” + 3” = 34”, with centres of holes }” from binding edge
 
-![IMAGE 4](https://www.fillmurray.com/g/500/504)
+![](4.jpg)
 
 Specification: Multi-punch with round holes 4” in diameter on binding edge at centres
 of 3” with centres of holes ;” from binding edge
 
-![IMAGE 5](https://www.fillmurray.com/g/500/505)
+![](5.jpg)
 
 Specification: Punch 2 round slotted holes #4” in diameter, centrally on binding edge, at
 centres of 104”
 
-![IMAGE 6](https://www.fillmurray.com/g/500/506)
+![](6.jpg)
 
 Specification: Punch 2 thong slots, centrally on binding edge, at centres of 54”
 
@@ -118,12 +118,12 @@ Page 85, lines 2 and 4
 For ‘}" from binding edge’ read ‘3" from binding edge’
 LONDON: HER MAJESTY’S STATIONERY OFFICE: 1962
 
-![IMAGE 7](https://www.fillmurray.com/g/500/507)
+![](7.jpg)
 
 A form folded in half and made up as a wallet for use as a card index with signal tabs to
 progress action
 
-![IMAGE 8](https://www.fillmurray.com/g/500/508)
+![](8.jpg)
 
 Alpha indexes are formed by using columns for each letter of the alphabet. This combines
 a chronological list with an alphabetical guide—entries are made in sequence but each

@@ -48,54 +48,54 @@ the right account.
 (3) ‘EXCEPTION’ OR ‘NEGATIVE’ POSTING, e.g. recording only individual
 amounts not paid, or only the items to which attention must be directed.
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 When lines of figures are staggered, this not only facilitates totalling and cross casting but
 also makes it easier to interpret and compare the statistical data for one period with another
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
+![](2.jpg)
 
 By staggering cash entries cross addition can be made much easier; this also reduces the
 possibility of mistakes. Staggering need not take up more space on the form than that used
 in the non-staggered arrangement
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
 
 Another method of staggering cash entries for easy cross addition; this method takes up
 more space than the arrangement shown above but may be more suited to the general
 pattern of a form
 
-![IMAGE 4](https://www.fillmurray.com/g/500/504)
+![](4.jpg)
 
 On this form dotted diagonal lines provide another method of ‘staggering’ to facilitate
 cross addition of Kilogrammes and the ‘Actual Cost of Bag’ figures at the bottom
 
-![IMAGE 5](https://www.fillmurray.com/g/500/505)
+![](5.jpg)
 
 
 This arrangement of columns is less convenient for addition and subtraction than the
 layout shown in the example below
 
-![IMAGE 6](https://www.fillmurray.com/g/500/506)
+![](6.jpg)
 
 Addition of ‘Receipts’ to ‘Balance’ is made left to right, and the deduction of ‘Issues’
 from ‘Balance’ is made right from left. This arrangement helps to reduce the possibility
 of error; for example, by adding instead of deducting the issues
 
-![IMAGE 7](https://www.fillmurray.com/g/500/507)
+![](7.jpg)
 
 
 Forms can be printed so that closing entries can be used as opening figures for the next
 sheet or reverse side of the same sheet, e.g. ‘carried forward’ and “brought forward’
 figures
 
-![IMAGE 8](https://www.fillmurray.com/g/500/508)
+![](8.jpg)
 
 If ‘carry forward’ figures can be used to provide the corresponding ‘brought forward’
 figures by the use of carbon, not only are time and effort saved, but the risk of error is
 reduced
 
-![IMAGE 9](https://www.fillmurray.com/g/500/509)
+![](9.jpg)
 
 This form is tumbler printed and when turned back, as in the illustration, the column
 totals for the 1st and 2nd quarters on one side of the form can be aligned with the
@@ -103,17 +103,17 @@ corresponding totals for the 3rd and 4th quarters on the other side; a total for
 can thus be obtained without writing down and carrying forward a separate sub-total for
 the 1st and 2nd quarters. Spaces for the entry of temporary variations in pay are stippled
 
-![IMAGE 10](https://www.fillmurray.com/500/510)
+![](10.jpg)
 
 Addition can be made easier by using masks of card or paper which conceal entries not
 to be used in the calculation
 
-![IMAGE 11](https://www.fillmurray.com/500/511)
+![](11.jpg)
 
 Sheets with identical rulings cut to different depths so that the totals on each are visible
 for comparison and addition to a grand total
 
-![IMAGE 12](https://www.fillmurray.com/500/512)
+![](12.jpg)
 
 
 Ready Reckoners are used as an aid to repetitive calculation, or as an alternative to the use
@@ -121,13 +121,13 @@ of a machine. Ready Reckoners often give the advantage of rounding printed figur
 answers up and down to suit practical purposes, e.g. to correspond with units of issue, and
 may provide two or three answers simultaneously
 
-![IMAGE 13](https://www.fillmurray.com/500/513)
+![](13.jpg)
 
 The efficient Ready Reckoner should help the hand and eye in use on a job, e.g. reference
 and selection is quicker and easier when a solid mass of figures is broken up by suitable
 spacing, or the use of bold type
 
-![IMAGE 14](https://www.fillmurray.com/500/514)
+![](14.jpg)
 
 These Daily Time Sheets for one workman are summarised weekly by overlapping the
 forms so that entries in the spaces on the bottom edges make a column of figures; the
@@ -138,14 +138,14 @@ weekly batch of Daily Time Sheets for each workman are stapled together for fili
 alphabetical order; the forms can therefore be reassembled in the overlapping position at
 any time, e.g. for audit purposes
 
-![IMAGE 15](https://www.fillmurray.com/500/515)
+![](15.jpg)
 
 The carbon-coated posting strip provides a simple and inexpensive proof sheet for control
 purposes. Individual entries on the posting strip and separate accounting records are
 made in one writing operation. The totals on the posting strip provide control figures to
 prove posting both the correct amount and the correct account
 
-![IMAGE 16](https://www.fillmurray.com/500/516)
+![](16.jpg)
 
 The entries on this meter card are started at the bottom instead of at the top of the form
 as this facilitates calculation of the amount consumed; the previous meter reading can
@@ -154,13 +154,13 @@ to error than starting at the top which would involve a deduction ‘upside-down
 column for the meter reading is divided by vertical dotted lines to provide a separate space
 for each digit
 
-![IMAGE 17](https://www.fillmurray.com/500/517)
+![](17.jpg)
 
 
 Forms may be overlapped by means of punched holes and a peg board. Various holding
 devices can be used to keep the overlapped forms in position for totalling
 
-![IMAGE 18](https://www.fillmurray.com/500/518)
+![](18.jpg)
 
 Arrangement of entry spaces and use of stippling to facilitate addition. In each period the
 operations are:
@@ -172,21 +172,21 @@ spaces, without jumping over entries. The entries which are relevant to one peri
 are stippled green; those relevant from period to period are not stippled. The entries for
 each period are clearly grouped by heavier lines
 
-![IMAGE 19](https://www.fillmurray.com/500/519)
+![](19.jpg)
 
 
 Accounting work can be reduced by exception or negative posting, e.g. posting only the
 ‘balance’ outstanding. This ‘exception’ principle directs attention to variations from the
 normal
 
-![IMAGE 20](https://www.fillmurray.com/500/520)
+![](20.jpg)
 
 Tumbler printing makes it possible to fold over the top edge of a form so that the ‘carried
 forward’ sub-totals on one side can be aligned above the ‘brought forward’ entry spaces
 on the other side; this facilitates copying these figures for the ‘totals’ and reduces the
 risk of error
 
-![IMAGE 21](https://www.fillmurray.com/500/521)
+![](21.jpg)
 
 
 This method of coded analysis uses a small sheet and provides proof of correct summarisa-
@@ -207,7 +207,7 @@ when more than 25 classifications are needed). Where a wide variety of transacti
 infrequently this method could dispense with the need for recording in several separate
 books of account
 
-![IMAGE 22](https://www.fillmurray.com/500/522)
+![](22.jpg)
 
 This form positions entries about change on the left edge so that all the forms can be
 overlapped to provide a quick indication of the subjects needing alteration, and so that the

@@ -28,25 +28,25 @@ nate lower case. T'ypographers frequently reverse the traditional order by havin
 main heading in large capitals and lower case, and the small heading in capitals as
 on page 112. Much depends on the length of wording in the respective lines.
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 (1) The original form, before redesign
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
+![](2.jpg)
 
 (2) A preliminary draft by department (not to scale). Where alterations are as extensive
 as this, retyping might save time and money
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
 
 (3) Final draft sketch by department, ready for submission to H.M.S.O.
 
-![IMAGE 4](https://www.fillmurray.com/g/500/504)
+![](4.jpg)
 
 (4) The same draft, ‘marked up’ by H.M.S.O. with instructions to printer. Typed copy
 should be attached
 
-![IMAGE 5](https://www.fillmurray.com/g/500/505)
+![](5.jpg)
 
 (5) The final printed form, as restyled
 
@@ -54,17 +54,17 @@ Specimens of type faces and their related alphabets (capitals, lower case, etc.)
 opposite, with notes. Some type faces have ‘ranging’ numerals: 123456; others have
 ‘old style’ numerals: 123456
 
-![IMAGE 6](https://www.fillmurray.com/g/500/506)
+![](6.jpg)
 
 Gill Sans and Times Roman (above) are recommended, and are in very wide use. Where
 Gill Sans is not available, the Metro series may be used:
 
-![IMAGE 7](https://www.fillmurray.com/g/500/507)
+![](7.jpg)
 
 If Times Roman is not available, one of the following series (Bembo, Plantin, Garamond,
 Imprint, or Baskerville) would be a practicable alternative.
 
-![IMAGE 8](https://www.fillmurray.com/g/500/508)
+![](8.jpg)
 
 
 A good effect can be obtained with one series only, as on pages 20, 101, 123, 127, 129, 130,
@@ -73,4 +73,4 @@ contrast. The use of more than two series would give confusion and muddle. A dis
 series (Rockwell or Albertus) could perhaps be used for a headline, with Times Roman
 for the remainder of the form.
 
-![IMAGE 9](https://www.fillmurray.com/g/500/509)
+![](9.jpg)

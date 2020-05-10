@@ -70,33 +70,33 @@ The advantages of using dual purpose cards are that:
 
 3. The permanent association of the manuscript and punched data facilitates the location and correction of punching errors.
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 This document is completed at airports in Britain and is forwarded to the Ministry of Civil Aviation H.Q. where card punching and verifying is undertaken. Information to be punched is contained in the ‘boxes’ on the right-hand side of the form
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
+![](2.jpg)
 
 This is a document specially prepared for punching. The variable information is obtained from other documents, coded and recorded in manuscript in suitably sited ‘boxes’ at the right of the form
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
 
 Part of a form used by large departments when making periodical demands for stock items of stationery etc. The ‘class’ and ‘main’ codes are preprinted. The ‘sub’ and ‘sub-office’ codes are recorded by the departments and the quantity of each item required entered against the appropriate preprinted item code
 
-![IMAGE 4](https://www.fillmurray.com/g/500/504)
+![](4.jpg)
 
 This precoded form is sent to each Regional or Area Officer for completion in accordance
 with instructions contained in a covering memorandum
 
-![IMAGE 5](https://www.fillmurray.com/g/500/505)
+![](5.jpg)
 
 Punched cards can be used in the dual capacity of original document and punched card record; provision is made on the card for writing or typing information (either all or in part) which is subsequently punched into it. The top left-hand corner is cut to ensure cards are faced up the right way for the machine
 
-![IMAGE 6](https://www.fillmurray.com/g/500/506)
+![](6.jpg)
 
 This dual purpose punched card provides a number of preprinted entries; those to be recorded are struck out, but could be otherwise indicated
 
 The use of dual purpose cards has, however, to be restricted to jobs where the amount and type of information required can be conveniently written or marked within the limited recording capacity on the card. Special care has to be taken in the design and layout of dual purpose cards because, on some equipment, they are partially obscured during the punching operation.
 
-![IMAGE 7](https://www.fillmurray.com/g/500/507)
+![](7.jpg)
 
 This Half Yearly Account for Telephone Service is designed as two-part continuous stationery (sprocket punched) for use on tabulating machinery
