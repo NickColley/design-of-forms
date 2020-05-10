@@ -2,7 +2,7 @@
 layout: page.njk
 title:  Entries by typewriter
 section: Evolving a Design
-status: needs images
+status: cleanup
 tags: page
 pageNumber:
     start: 48
@@ -34,18 +34,18 @@ The width of the form must be related to the width of the platen of the typewrit
 
 (See page 52 for section on VARITY PING)
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 This layout, spacing and the use of dotted lines hinders typing. Frequent typewriter adjustments are necessary to complete the entries (10 horizontal and 4 vertical) because tabulator stops cannot be used for groups of entries and because vertical spacing is not at 1/3” intervals. This wastes much time in the aggregate and the information stands out less clearly than in the ‘boxing’ layout below
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
+![](2.jpg)
 
 In this revised layout captions are placed in the top left corner of each panel so that they will not be obscured by the typewriter ribbon when entering; and so that tabulator stops can be used at A, B and C. However, vertical spacing should be in multiples of 1/6” to fit the typewriter
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
 
 Tumbler printing to facilitate copying the figure for ‘Initial Commitment’ from Commitment Control Document on one side, to a ‘Record of Expenditure’ on the other side, whilst the document is in the machine; by placing the box for the figure in the bottom right-hand corner of the Commitment Control Document the operator can pick up this entry for posting on the Record of Expenditure by folding the corner back as shown
 
-![IMAGE 4](https://www.fillmurray.com/g/500/504)
+![](4.jpg)
 
 Record card for machine entries with guide lines printed in the right-hand margin
