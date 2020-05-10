@@ -2,7 +2,7 @@
 layout: page.njk
 title:  Spacing allowances for entries
 section: Evolving a Design
-status: needs images
+status: cleanup
 tags: page
 pageNumber:
     start: 45
@@ -33,21 +33,18 @@ When items are being totalled at the foot of the column, the space required for 
 
 2. By staggering £ s. d. totals at the foot of the column.
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
-Headings for narrow columns arranged diagonally—sometimes saves space and makes for
-easier reading
+Headings for narrow columns arranged diagonally—sometimes saves space and makes for easier reading
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
+![](2.jpg)
 
-Adequate space should be provided at the foot of a form for the tails of letters in a
-signature placed near the bottom edge
+Adequate space should be provided at the foot of a form for the tails of letters in a signature placed near the bottom edge
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
 
-One column used for two related entries, thereby avoiding excess width in a columnar
-form
+One column used for two related entries, thereby avoiding excess width in a columnar form
 
-![IMAGE 4](https://www.fillmurray.com/g/500/504)
+![](4.jpg)
 
 Methods of providing extra space for a total of entries in narrow columns
