@@ -2,11 +2,11 @@
 layout: page.njk
 title: Layout of documents for use with A.D.P. equipment
 section: Evolving a Design
-status: needs images
+status: cleanup
 tags: page
 pageNumber:
     start: 63
-    end: 66
+    end: 65
 ---
 
 The general approach to the design and layout of documents needed for automatic data processing equipment is much the same as that for other office forms. Although there is a gradual increase in the use of mark sensing, character reading, and techniques for preparing ‘machine language’ data as a by-product of other operations, most systems still (1960) involve the transcription of fresh data from source documents into punched cards or punched paper tape. The factors which are important in relation to the design of documents used for creating punched cards have been referred to earlier; the factors which influence the design of forms which may be used for the creation of paper tape are broadly similar.
