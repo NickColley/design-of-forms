@@ -2,7 +2,7 @@
 layout: page.njk
 title: Forms Design Check List
 section: Back matter
-status: needs images
+status: cleanup
 tags: page
 pageNumber:
     start: 166
