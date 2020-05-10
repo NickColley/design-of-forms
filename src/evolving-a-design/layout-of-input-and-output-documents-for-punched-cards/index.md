@@ -2,7 +2,7 @@
 layout: page.njk
 title: Layout of input and output documents for punched cards
 section: Evolving a Design
-status: needs images
+status: cleanup
 tags: page
 pageNumber:
     start: 57
