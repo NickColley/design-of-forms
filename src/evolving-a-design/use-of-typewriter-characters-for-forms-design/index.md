@@ -2,7 +2,7 @@
 layout: page.njk
 title: Use of typewriter characters for forms design
 section: Evolving a Design
-status: needs images
+status: cleanup
 tags: page
 pageNumber:
     start: 51
@@ -11,7 +11,7 @@ pageNumber:
 
 If the form will be duplicated the type faces available can be used to give varying degrees of emphasis.
 
-![IMAGE 1](https://www.fillmurray.com/g/500/501)
+![](1.jpg)
 
 It is important, however, not to be too lavish with emphasis. If there is both underlining and capital letters for minor items there will be insufficient means of emphasising the major ones.
 
@@ -21,9 +21,8 @@ Special typewriters are manufactured which have a range of interchangeable type 
 
 *(a) Suitable for stencil-typing or photolitho reproduction*
 
-![IMAGE 2](https://www.fillmurray.com/g/500/502)
-[Table?]
+![](2.jpg)
 
 *(b) Suitable for photolitho reproduction only*
 
-![IMAGE 3](https://www.fillmurray.com/g/500/503)
+![](3.jpg)
