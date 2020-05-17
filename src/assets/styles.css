@@ -215,6 +215,7 @@ details > summary + * {
 }
 
 main > figure > p > img,
+main td > img,
 main > p > img {
   max-width: 100%;
   mix-blend-mode: darken;

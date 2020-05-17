@@ -44,108 +44,50 @@ underlined). The table begins on page 161.
 
 * Extracted from British Standard 1219
 
-[Symbols for correcting proofs table]
-
 (Words in italics in the marginal marks column are instructions and not part of the marks)
 
-[Column 1 is numbers]
+<style>
+    .table-symbols table {
+        border-collapse: collapse;
+        font-size: 1rem;
+    }
+    .table-symbols th,
+    .table-symbols td {
+        border: 1px solid;
+    }
+    .table-symbols th:first-child,
+    .table-symbols td:first-child {
+        border-left: 0;
+    }
+    .table-symbols th:last-child,
+    .table-symbols td:last-child {
+        border-right: 0;
+    }
+    .table-symbols img {
+        max-width: 2em;
+        max-height: 1.5em;
+        vertical-align: middle;
+    }
+</style>
+<div class="table-symbols">
 
-[Column 2]
+| No. | Instruction | Textual mark | Marginal mark |
+| - | - | - | - |
+| 1 | Correction is concluded | None | ![](forwards-slash.jpg) |
+| 2 | Insert in text the matter indicated in margin | ![](h.jpg) | New matter followed by ![](forwards-slash.jpg) |
+| 3 | Delete | Strike through characters to be deleted | ![](delete.jpg) |
+| 4 | Delete and close up | Strike through character to be deleted and use mark 21 | ![](delete-and-close-up.jpg) |
+| 5 | Leave as printed | ![](quadruple-dots.jpg) under characters to remain | ![](stet.jpg) |
+| 6 | Change to italic | ![](underline.jpg) under characters to be altered | ![](ital.jpg) |
+| 7 | Change to even small capitals | ![](double-underline.jpg) under characters to be altered | ![](sc.jpg) |
+| 8 | Change to capital letters | ![](triple-underline.jpg) under characters to be altered | ![](caps.jpg) |
+| 9 | Use capital letters for initial letters and small capitals for rest of words | ![](triple-underline.jpg)  under initial letters and <br> ![](double-underline.jpg) under the rest of the words | ![](c&sc.jpg) |
+| 10 | Change to bold type | ![](wavey-underline.jpg) under characters to be altered | ![](bold.jpg) |
+| 11 | Change to lower case | Encircle characters to be altered | ![](lc.jpg) |
+| 12 | Change to roman type | Encircle characters to be altered | ![](rom.jpg) |
+| 13 | Wrong fount. Replace by letter of correct fount | Encircle characters to be altered | ![](wf.jpg) |
 
-Instruction
----
-Correction is concluded
--
-Insert in text the matter
-indicated in margin
--
-Delete
--
-Delete and close up
--
-Leave as printed
--
-Change to italic
--
-Change to even small
-capitals
--
-Change to capital
-letters
--
-Use capital letters for
-initial letters and
-small capitals for rest
-of words
--
-Change to bold type
--
-Change to lower case
--
-Change to roman type
--
-Wrong fount. Replace
-by letter of correct fount
-
-[Column 3]
-
-
-Textual mark
----
-None
--
-Strike through
-characters to be
-deleted
--
-Strike through character
-to be deleted and use
-mark 21
--
-under characters
-to remain
--
-under characters
-to be altered
--
-under characters
-to be altered
--
-under characters
-to be altered
--
-under initial
-letters and
-
-under the rest
-of the words
--
-under characters
-to be altered
--
-Encircle characters to
-be altered
--
-Encircle characters to
-be altered
--
-Encircle character to
-be altered
-
-[Column 4]
-
-Marginal mark
--
-New matter
-followed by
-
-[Second page]
-
-[Column 1 is numbers]
-
-[Column 2]
-
-
+<div>
 
 Instruction
 ---
