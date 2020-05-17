@@ -2,7 +2,7 @@
 layout: page.njk
 title: Rules
 section: The Form in Print
-status: needs images
+status: cleanup
 tags: page
 pageNumber:
     start: 120
@@ -13,7 +13,7 @@ The bodies of the specimen rules are of various sizes to work in with type. Rule
 should never be used merely for underlining or stressing: bolder type, capitals, or
 italic will achieve the desired result.
 
-[Rule images + captions]
+![](1.jpg)
 
 ![](2.jpg)
 
