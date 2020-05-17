@@ -2,7 +2,7 @@
 layout: page.njk
 title: Table of Symbols for Proof Correction
 section: Back matter
-status: needs images
+status: needs tables
 tags: page
 pageNumber:
     start: 159
@@ -20,7 +20,7 @@ Where several corrections occur in one line, they should be divided between the
 left and right margins, the order being from left to right in both margins, and the
 individual marks should be separated by a concluding mark.
 
-![1]
+![](1.jpg)
 
 When an alteration is desired in a character, word or words, the existing character,
 word or words should be struck through, and the character to be substituted written
