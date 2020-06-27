@@ -82,38 +82,70 @@ sizes approved by the British Standards Institution.
 The sub-divisions of printing and writing papers most frequently used are as
 follows:
 
-[Printing papers table]
 
-PRINTING PAPERS
-Size of sheet Folio Quarto Octavo
-Name of sheet untrimmed trimmed trimmed trimmed
-inches inches inches inches
-Imperial 22 X30 21% x 143 148 x 102 108 x74
-Royal 20 X25 19% X12} 124 x 92 93 x6
-Demy 174 x 224 174 X11 |} 10zx 84 88 x53
-Crown I5 X20 148X of 98x 74 78 X4¥
-Foolscap 1334. X17 134 8+ 8ix 64 64x4
+<style>
+    .table-size-and-shape table {
+        border-collapse: collapse;
+        border-bottom: 1px solid;
+        border-top: 1px solid;
+    }
+    .table-size-and-shape thead {
+        border-bottom: 1px solid;
+    }
+    .table-size-and-shape th:not(:first-child),
+    .table-size-and-shape td:not(:first-child) {
+        border-left: 1px solid;
+    }
+    .table-size-and-shape td:not(:first-child) {
+        white-space: nowrap;
+        text-align: center;
+    }
+    
+    .table-size-and-shape td {
+        padding-top: .1rem;
+        padding-bottom: .1rem;
+    }
+    .table-size-and-shape tr:first-child * {
+        padding-top: 1rem;
+    }
+    .table-size-and-shape tr:last-child * {
+        padding-bottom: 1rem;
+    }
+</style>
+<div class="table-size-and-shape">
 
-[Writing papers table]
-WRITING PAPERS
+#### Printing papers
+
+| Name of sheet | Size of sheet<br/>untrimmed<br/>inches | Folio<br/>trimmed<br/>inches | Quarto<br/>trimmed<br/>inches | Octavo<br/>trimmed<br/>inches |
+| - | - | - | - | - |
+| Imperial | 22 &times; 30                 | 21&frac58; &times; 14&frac34; | 14&frac58; &times; 10&frac34; | 10&frac58; &times; 7&frac14; |
+| Royal    | 20 &times; 25                 | 19&frac58; &times; 12&frac14; | 12&frac18; &times; 9&frac34;  | 9&frac58; &times; 6          |
+| Demy     | 17&frac12; &times; 22&frac12; | 17&frac18; &times; 11         | 10&frac78; &times; 8&frac12;  | 8&frac38; &times; 5&frac38;  |
+| Crown    | I5 &times; 20                 | 14&frac58; &times; 9&frac34;  | 9&frac58; &times; 7&frac14;   | 7&frac18; &times; 4&frac34;  |
+| Foolscap | 13&frac12; &times; 17         | 13&frac18; &times; 8&frac14;  | 8&frac18; &times; 6&frac12;   | 6&frac12; &times; 4          |
+
+</div>
+
+#### Writing papers
+
 (generally used for printed forms etc. required to be completed in ink)
-Size of sheet | Folio | Quarto Octavo
-Name of sheet untrimmed | trimmed trimmed trimmed
-a Ss
-inches inches inches inches
-Imperial 22 X30 | 21¢ x14} 142 x 103 10# x74
-Super royal 19 X27 | 18? X13} 13¢X of | 94+ x64
-Small royal 19 X24 | r8$xr118 112x of | 94 x52
-Demy 17X22 | I7EXII rr x 8} 84x 5%
-Small demy 154 X20 | I5t+x 93 92x 74 | 74 Xx4h
-Small post | -144X18 | 144x 82 | 88x 7 7 x4}
-Small foolscap | 134 xX 164 134x 8 | 84x 63 64 x4
-| | |
+
+<div class="table-size-and-shape">
+
+| Name of sheet | Size of sheet<br/>untrimmed<br/>inches | Folio<br/>trimmed<br/>inches | Quarto<br/>trimmed<br/>inches | Octavo<br/>trimmed<br/>inches |
+| - | - | - | - | - 
+| Imperial       | 22 &times; 30                 | 21&frac34; &times; 14&frac34; | 14&frac34; &times; 10&frac34; | 10&frac34; &times; 7&frac14; |
+| Super royal    | 19 &times; 27                 | 18&frac34; &times; 13&frac14; | 13&frac14; &times; 9&frac14;  | 9&frac14; &times; 6&frac12;  |
+| Small royal    | 19 &times; 24                 | 18&frac34; &times; 11&frac34; | 11&frac34; &times; 9&frac14;  | 9&frac14; &times; 5&frac34;  |
+| Demy           | 17&frac12; &times; 22&frac12; | I7&frac14; &times; 11         | 11 &times; 8&frac12;          | 8&frac12; &times; 5&frac38;  |
+| Small demy     | 15&frac12; &times; 20         | I5&frac14; &times; 9&frac34;  | 9&frac34; &times; 7&frac12;   | 7&frac12; &times; 4&frac34;  |
+| Small post     | 14&frac12; &times; 18         | 14&frac14; &times; 8&frac34;  | 8&frac34; &times; 7           | 7 &times; 4&frac14;          |
+| Small foolscap | 13&frac14; &times; 16&frac12; | 13&frac18; &times; 8&frac18;  | 8&frac18; &times; 6&frac12;   | 6&frac12; &times; 4          |
+
+</div>
+
 Minute sheets are trimmed to 13” x 8” and 8” x 64”.
 Letter/note paper is supplied in the sizes A5 (5$” x 8}” approx.) and A4 (8}” x 112” approx.)
-
-
-
 
 H.M.S.O. stock paper sizes
 
