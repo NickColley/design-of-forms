@@ -2,7 +2,7 @@
 layout: page.njk
 title: Table of Symbols for Proof Correction
 section: Back matter
-status: needs tables
+status: needs images
 tags: page
 pageNumber:
     start: 159
@@ -42,7 +42,7 @@ written on the proof. If, however, any comments or instructions are written on t
 proof, they should be encircled, and preceded by the word PRINTER (in capitals and
 underlined). The table begins on page 161.
 
-* Extracted from British Standard 1219
+\* Extracted from British Standard 1219
 
 (Words in italics in the marginal marks column are instructions and not part of the marks)
 
@@ -86,319 +86,68 @@ underlined). The table begins on page 161.
 | 11 | Change to lower case | Encircle characters to be altered | ![](lc.jpg) |
 | 12 | Change to roman type | Encircle characters to be altered | ![](rom.jpg) |
 | 13 | Wrong fount. Replace by letter of correct fount | Encircle characters to be altered | ![](wf.jpg) |
+| 14 | Invert type | Encircle character to be altered | ![](forwards-slash.jpg) | ![]() |
+| 15 | Change damaged character(s) | Encircle character(s) to be altered | ![]() |
+| 16 | Substitute or insert character(s) under which this mark is placed, in ‘superior’ position | through character or where required | ![]() under character (e.g. )  |
+| 17 | Substitute or insert character(s) over which this mark is placed, in ‘inferior’ position | through character or where required | ![]() over character (e.g. ) |
+| 18 | Underline word or words | under words affected | ![]() |
+| 19 | Use ligature (e.g. ffi) or diphthong (e.g. ce) | enclosing letters to be altered | ![]()  enclosing ligature or diphthong required |
+| 20 | Substitute separate letters for ligature or diphthong | through ligature or diphthong to be altered | ![]() write out separate letters followed by / |
+| 21 | Close up—delete space between characters | linking characters | ![]() |
+| 22 | Insert space<sup>*</sup> | | ![]() |
+| 23 | Insert space between lines or paragraphs<sup>*</sup> | between lines to be spaced | ![]() |
+| 24 | Reduce space between lines<sup>*</sup> | connecting lines to be closed up | ![]() |
+| 25 | Make space appear equal between words | / between words | ![]() |
+| 26 | Reduce space between words<sup>*</sup> | / between words | ![]() |
+| 27 | Add space between letters<sup>*</sup> | between tops of letters requiring space | ![]() |
+| 28 | Transpose | between characters or words, numbered when necessary | |
+| 29 | Place in centre of line | Indicate position with | |
+| 30 | Indent one em | | |
+| 31 | Indent two ems | | |
+| 32 | Move matter to right | at left side of group to be moved | |
+| 33 | Move matter to left | at right side of group to be moved | |
+| 34 | Move matter to position indicated | at limits of required position | |
+| 35 | Take over character(s) or line to next line, column or page | | |
+| 36 | Take back character(s) or line to previous line, column or page | | |
+| 37 | Raise lines<sup>†</sup> | over lines to be moved <br/> under lines to be moved | |
+| 38 | Lower lines<sup>†</sup> | over lines to be moved <br/> under lines to be moved | |
+| 39 | Correct the vertical alignment | | |
+| 40 | Straighten lines | through lines to be straightened | |
+| 41 | Push down space | Encircle space affected |
+| 42 | Begin a new paragraph | before first word of new paragraph |
+| 43 | No fresh paragraph here | between paragraphs |
+| 44 | Spell out the abbreviation or figure in full | Encircle words or figures to be altered |
+| 45 | Insert omitted portion of copy<sup>‡</sup> | |
+| 46 | Substitute or insert comma | through character or where required |
+| 47 | Substitute or insert semi-colon | through character or where required |
+| 48 | Substitute or insert full stop | through character or where required |
+| 49 | Substitute or insert colon | through character or where required |
+| 50 | Substitute or insert interrogation mark | through character or where required |
+| 51 | Substitute or insert exclamation mark | through character or where required |
+| 52 | Insert parentheses | or |
+| 53 | Insert (square) brackets | or |
+| 54 | Insert hyphen | |
+| 55 | Insert en (half-em) rule | |
+| 56 | Insert one-em rule | |
+| 57 | Insert two-em rule | |
+| 58 | Insert apostrophe | | |
+| 59 | Insert single quotation marks | | |
+| 60 | Insert double quotation marks | | |
+| 61 | Insert ellipsis<sup>§</sup> | | |
+| 62 | Insert leader | | |
+| 63 | Insert shilling stroke | | |
+| 64 | Refer to appropriate authority anything of doubtful accuracy | Encircle words, etc. affected | |
 
 <div>
 
-Instruction
----
-Invert type
--
-Change damaged
-character(s)
--
-Substitute or insert
-character(s) under which
-this mark is placed,
-in ‘superior’ position
--
-Substitute or insert
-character(s) over which
-this mark is placed, in
-‘inferior’ position
--
-Underline word or
-words
--
-Use ligature (e.g. ffi)
-or diphthong (e.g. ce)
--
-Substitute separate
-letters for ligature or
-diphthong
--
-Close up—delete space
-between characters
--
-Insert space*
--
-Insert space between
-lines or paragraphs*
--
-Reduce space between
-lines*
--
-Make space appear
-equal between words
--
-Reduce space between
-words*
--
-Add space between
-letters*
+<sup>\*</sup> Amount of space and/or length of re-spaced line may be indicated.
 
--
+<sup>†</sup> Amount of space and/or length of line may be included.
 
-[Column 3]
-
-
-Textual mark
----
-Encircle character to
-be altered
--
-Encircle character(s)
-to be altered
--
-through character
-or where required
--
-through character
-or where required
--
-under words affected
--
-enclosing letters to be altered
--
-through ligature or diphthong to be altered
--
-linking characters
--
-
--
-between lines to
-be spaced
--
-connecting lines
-to be closed up
--
-/ between words
--
-/ between words
--
-between tops of
-letters requiring
-space
--
-
-[Column 3]
-
-Marginal mark
----
--
--
--
-under character
-(e.g. )
--
-over character
-(e.g. )
--
--
-enclosing ligature or diphthong required
--
-write out separate letters followed by /
--
-
-
-* Amount of space and/or length of re-spaced line may be indicated.
-
-[Page 3]
-
-[Column 1 is numbers]
-
-[Column 2]
-
-
-Instruction
----
-Transpose
--
-Place in centre of line
--
-Indent one em
--
-Indent two ems
--
-Move matter to right
--
-Move matter to left
--
-Move matter to
-position indicated
--
-Take over character(s)
-or line to next line,
-column or page
--
-Take back character(s)
-or line to previous
-line, column or page
--
-Raise lines*
--
-Lower lines*
--
-
-[Column 2]
-
-Textual mark
----
-between
-characters or
-words, numbered
-when necessary
--
-Indicate position
-with
--
-at left side of group
-to be moved
--
-at right side of
-group to be moved
--
-at limits of
-required
-position
--
-over lines to
-be moved
-
-under lines to
-be moved
--
-over lines to
-be moved
-
-under lines to
-be moved
--
-
-[Column 4]
-
-* Amount of space and/or length of line may be included.
-
-[Table continued ]
-
-[Column 2]
-Correct the vertical
-alignment
--
-Straighten lines
--
-[Column 3]
-through lines to
-be straightened
-
-[Page 4]
-
-[Column 1 is numbers]
-
-[Column 2]
-
-Instruction
----
-Push down space
--
-Begin a new paragraph
--
-No fresh paragraph
-here
--
-Spell out the abbrevia-
-tion or figure in full
--
-Insert omitted portion
-of copy
-
-NOTE. When fresh matter not in the copy is to be inserted, the caret mark is to be used in
+<sup>‡</sup> When fresh matter not in the copy is to be inserted, the caret mark is to be used in
 the text and “Take in A’ (‘B’, ‘C’, etc., as the case may be) written in the margin, the additional
 matter whether written on the proof or on attached slips being lettered to correspond. In the
 case of large insertions a horizontal arrow in the margin pointing between the lines replaces
-the caret mark,
--
-Substitute or insert
-comma
--
-Substitute or insert
-semi-colon
--
-Substitute or insert
-full stop
--
-Substitute or insert
-colon
--
-Substitute or insert
-interrogation mark
--
-Substitute or insert
-exclamation mark
--
-Insert parentheses
--
-Insert (square) brackets
--
-Insert hyphen
--
-Insert en (half-em) rule
--
-Insert one-em rule
--
-Insert two-em rule
+the caret mark.
 
-[Column 3]
-
-Textual mark
----
-Encircle space affected
--
-before first word of
-new paragraph
--
-between
-paragraphs
--
-Encircle words or figures
-to be altered
--
-through character
-or where required
--
-etc
-
-[Page 5]
-
-[Column 1 is numbers]
-
-[Column 2]
-
-Instruction
----
-Insert apostrophe
--
-Insert single quotation
-marks
--
-Insert double
-quotation marks
--
-Insert ellipsis*
-* See notes on use of symbols.
--
-Insert leader
--
-Insert shilling stroke
--
-Refer to appropriate
-authority anything of
-doubtful accuracy
-
-[Column 3]
-Textual mark
----
-Encircle words, etc.
-affected
-
-[Column 4]
-Marginal mark
+<sup>§</sup> See notes on use of symbols.
