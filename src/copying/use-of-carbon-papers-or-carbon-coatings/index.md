@@ -2,7 +2,7 @@
 layout: page.njk
 title: Use of carbon papers or carbon coatings
 section: Copying
-status: needs tables
+status: cleanup
 tags: page
 pageNumber:
     start: 133
@@ -117,9 +117,72 @@ made through cards on an Underwood Elliot Fisher flat-bed machine.
 
 When it is intended to obtain copies on papers of other than ‘standard’ weights and
 
-[Carbon papers table]
+<style>
+    .table-carbon-papers table {
+        border-collapse: collapse;
+        border-bottom: 1px solid;
+        border-top: 1px solid;
+    }
+    .table-carbon-papers thead {
+        border-bottom: 1px solid;
+    }
+    .table-carbon-papers th:not(:first-child),
+    .table-carbon-papers td:not(:first-child) {
+        border-left: 1px solid;
+    }
+    .table-carbon-papers td:not(:first-child):not(:last-child) {
+        white-space: nowrap;
+        text-align: center;
+    }
+    
+    .table-carbon-papers td {
+        padding-top: .1rem;
+        padding-bottom: .1rem;
+    }
+    .table-carbon-papers tr:first-child * {
+        padding-top: 1rem;
+    }
+    .table-carbon-papers tr:last-child * {
+        padding-bottom: 1rem;
+    }
+    /* TODO: Is there a way to do this in markup? */
+    .table-carbon-papers tbody tr:nth-child(4) td,
+    .table-carbon-papers tbody tr:nth-child(8) td,
+    .table-carbon-papers tbody tr:nth-child(15) td,
+    .table-carbon-papers tbody tr:nth-child(19) td {
+        border-bottom: 1px solid;
+    }
+</style>
+<div class="table-carbon-papers">
 
-* These sizes are available for each colour; see H.M.S.O. List of Paper and Office Requisites
+#### Carbon papers
+
+| Description | Size<br/>(inches) | Code<br/>Number | Purpose for which intended |
+| - | - | - | - | - |
+| Pencil, blue                                 | 7 &times; 8&frac34;                                    | 2&ndash;63       | To take a maximum of three copies of the top copy with a copying ink pencil or ball pen |
+| Pencil, blue                                 | 8 &times; 13                                           | 2&ndash;64       |
+| Pencil, blue                                 | 6&frac12; &times; 11                                   | 2&ndash;65       |
+| Pencil, blue                                 | 8 &times; 11                                           | 2&ndash;69       |
+| Pen, blue, extra sensitive                   | 7 &times; 8&frac34;                                    | 2&ndash;73       | For use with a thin top copy, pen being used; the duplicate being suitable for record purposes and for sending out |
+| Pen, blue, extra sensitive                   | 8 &times; 13                                           | 2&ndash;74       |
+| Pen, blue, extra sensitive                   | 8&frac58; &times; 15&frac34;                           | 2&ndash;78       |
+| Pen, blue, extra sensitive                   | 15&frac12; &times; 19                                  | 2&ndash;76       |
+| Type, black, light weight                    | 4&frac38; &times; 7                                    | 2&ndash;21       | To take up to eight copies at one time on thin typewriting paper |
+| Type, black, light weight                    | 6&frac12; &times; 8                                    | 2&ndash;22       |
+| Type, black, light weight                    | 7 &times; 8&frac34;                                    | 2&ndash;223      |
+| Type, black, light weight                    | 8 &times; 13                                           | 2&ndash;224      |
+| Type, black, light weight                    | 13 &times; 16                                          | 2&ndash;25       |
+| Type, black, light weight                    | 5&frac78; &times; 8&frac14; (A5)                       | 2&ndash;225      |
+| Type, black, light weight                    | 8&frac14; &times; 11&frac34; (A4)                      | 2&ndash;226      |
+| Type, black, extra light weight              | 6&frac12; &times; 8                                    | 2&ndash;29       | For use when up to a maximum of 15 copies on thin paper are required at one typing |
+| Type, black, extra light weight              | 8 &times; 13                                           | 2&ndash;30       |
+| Type, black, extra light weight              | 5&frac78; &times; 8&frac14; (A5)                       | 2&ndash;228      |
+| Type, black, extra light weight              | 8&frac14; &times; 11&frac34; (A4)                      | 2&ndash;229      |
+| Spirit duplicator, purple, red, green, black | 7 &times; 8&frac34;<br/>8 &times; 13<br/>13 &times; 16 | \*<br/>\*<br/>\* | For use with spirit duplicator. See H.M.S.O. Guide: Part 1 |
+
+</div>
+
+\* These sizes are available for each colour; see H.M.S.O. List of Paper and Office Requisites
 held in stock for use in the Public Service.
 
 Carbon papers other than those shown above need to be specially purchased by H.M. Stationery
