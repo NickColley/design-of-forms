@@ -2,7 +2,7 @@
 layout: page.njk
 title: Size and shape of documents and forms
 section: Evolving a Design
-status: needs cleanup
+status: cleanup
 tags: page
 pageNumber:
     start: 94
