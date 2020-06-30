@@ -2,7 +2,7 @@
 layout: page.njk
 title: Size and shape of documents and forms
 section: Evolving a Design
-status: needs tables
+status: needs cleanup
 tags: page
 pageNumber:
     start: 94
@@ -147,7 +147,7 @@ follows:
 Minute sheets are trimmed to 13” x 8” and 8” x 64”.
 Letter/note paper is supplied in the sizes A5 (5$” x 8}” approx.) and A4 (8}” x 112” approx.)
 
-H.M.S.O. stock paper sizes
+### H.M.S.O. stock paper sizes
 
 Two grades of duplicating paper are supplied by H.M. Stationery Office—Semi-
 absorbent and Grade A. Five coloured papers are also stocked, blue, pink, green,
@@ -159,29 +159,34 @@ papers) but this involves interleaving with ordinary blotting paper to dry the i
 each sheet is duplicated; some machines provide automatic interleaving or spraying
 of each sheet to avoid ‘set-off’.
 
+#### Stencil duplicating papers
 
-[Stencil duplicating papers table]
+<div class="table-size-and-shape">
 
-Description | (inches) | Code No.
-Semi-absorbent, Blue wove | 8 X13 | 5-14
-Semi-absorbent, Pink wove | 8. Kage 5-15
-Semi-absorbent, Green wove |} 7x 8% | 5-18
-Semi-absorbent, Yellow wove 7 x 83 | 5-19
-Semi-absorbent, Green wove | 8x 13 5-21
-Semi-absorbent, Yellow wove | 8 X13 5-22
-Semi-absorbent, White wove 42x. 7 — | 5-31
-Semi-absorbent, White wove | 9 & SE.) 5-32
-Semi-absorbent, White wove 8 x13 5-33
-Semi-absorbent, White wove 7EX Of 5-35
-Semi-absorbent, White wove, punched 8 X13 5-36
-Semi-absorbent, White wove | 13 X16 5-37
-Semi-absorbent, White wove, punched 7 Se | 5-38
-Semi-absorbent, White wove | 64x 8 5-40
-Semi-absorbent, Orange wove | 8 xXx 3 5-41
-White Wove Grade ‘A’ 7 xX 82 5-51
-White Wove Grade ‘A’ 8 X13 5-52
-White Wove Grade ‘A’ | 83xXir | 5-53
-White Wove Grade ‘A’ | 132 x16 5-73
+| Description | Size<br/>(inches) | Code No. |
+| - | - | - |
+| Semi-absorbent, Blue wove           | 8 &times; 13                | 5&ndash;14 |
+| Semi-absorbent, Pink wove           | 8 &times; 13                | 5&ndash;15 |
+| Semi-absorbent, Green wove          | 7 &times; 8&frac34;         | 5&ndash;18 |
+| Semi-absorbent, Yellow wove         | 7 &times; 8&frac34;         | 5&ndash;19 |
+| Semi-absorbent, Green wove          | 8 &times; 13                | 5&ndash;21 |
+| Semi-absorbent, Yellow wove         | 8 &times; 13                | 5&ndash;22 |
+| Semi-absorbent, White wove          | 4&frac34; &times; 7         | 5&ndash;31 |
+| Semi-absorbent, White wove          | 7 &times; 8&frac34;         | 5&ndash;32 |
+| Semi-absorbent, White wove          | 8 &times; 13                | 5&ndash;33 |
+| Semi-absorbent, White wove          | 7&frac12; &times; 9&frac12; | 5&ndash;35 |
+| Semi-absorbent, White wove, punched | 8 &times; 13                | 5&ndash;36 |
+| Semi-absorbent, White wove          | 13 &times; 16               | 5&ndash;37 |
+| Semi-absorbent, White wove, punched | 7 &times; 8&frac34;         | 5&ndash;38 |
+| Semi-absorbent, White wove          | 6&frac12; &times; 8         | 5&ndash;40 |
+| Semi-absorbent, Orange wove         | 8 &times; 13                | 5&ndash;41 |
+| White Wove Grade ‘A’                | 7 &times; 8&frac34;         | 5&ndash;51 |
+| White Wove Grade ‘A’                | 8 &times; 13                | 5&ndash;52 |
+| White Wove Grade ‘A’                | 8&frac12; &times; 11        | 5&ndash;53 |
+| White Wove Grade ‘A’                | 13 &times; 16               | 5&ndash;73 |
+
+</div>
+
 All machines are built to take foolscap sizes and the most economical page sizes for
 duplicating are:
 
@@ -193,48 +198,50 @@ to the foolscap size, or sub-divisions thereof, rather than sizes 9” x'7}", 83
 Two pages of 8” x64” can be typed on one stencil and used for duplicating both sides
 of an 8” x62” sheet.
 
+#### Stock spirit duplicating papers
 
+<div class="table-size-and-shape">
 
-[STOCK SPIRIT DUPLICATING PAPERS table]
+| Description | Size<br/>(inches) | Code No. |
+| - | - | - |
+| <h5>Master copy paper                  </h5> |||
+| One-sided White Art                          | 7 &times; 8&frac34; | 25&ndash;97 |
+| One-sided White Art                          | 8 &times; 13        | 25&ndash;98 |
+| One-sided White Art                          | 13 &times; 16       | 25&ndash;99 |
+| <h5>Printing off paper (one-sided work)</h5> |||
+| Writing Cream Laid E.S.                      |   7 &times; 8&frac34; | 18&ndash;93 |
+| Writing Cream Laid E.S.                      | 8 &times; 13        | 18&ndash;91 |
+| Writing Cream Laid E.S.                      | 13 &times; 16       | 18&ndash;92 |
+| <h5>Printing off paper (two-sided work)</h5> |||
+| Litho                                        | 7 &times; 8&frac34; | 18&ndash;54 |
+| Litho                                        | 8 &times; 13        | 18&ndash;46 |
+| Litho                                        | 13 &times; 16       | 18&ndash;39 |
 
-Size
-Description | (inches) _ Code No.
-|
-MASTER COPY PAPER |
-One-sided White Art 7 xX 82 25-97
-One-sided White Art 8 X13 25-98
-One-sided White Art | 13 X16 | 25-99
-|
-PRINTING OFF PAPER (one-sided work) |
-Writing Cream Laid E.s. 7 x 83 | 18-93
-Writing Cream Laid E.s. 8 X13 18-91
-Writing Cream Laid E.s. 13 X16 18-92
-PRINTING OFF PAPER (two-sided work)
-Litho 7% 8F 18-54
-Litho 8 X13 18-46
-Litho 13 X16 18-39
+</div>
 
+#### International papers
 
-[INTERNATIONAL PAPERS table]
-Size
-Description (inches) | Code No.
+<div class="table-size-and-shape">
 
-TYPEWRITING PAPER | |
-Thick T.s. | 5§x 82(As5) | = 15-27
-Thick 1.3. | Bxar8(A4) | 15-28
-Thin E.s. sex 8h(As5) 15-81
-Thin E.s. 84 x 113 (Ag) 15-80
-Extra Thin | 5x 8k(As5) | 15-77
-Extra Thin 8EX113(A4) 15-76
+| Description | Size<br/>(inches) | Code No. |
+| - | - | - |
+| <h5>Typewriting paper</h5>                |||
+| Thick T.S.                                | 5&frac78; &times; 8&frac14; (A5)  | 15&ndash;27 |
+| Thick T.S.                                | 8&frac14; &times; 11&frac34; (A4) | 15&ndash;28 |
+| Thin E.S.                                 | 5&frac78; &times; 8&frac14; (A5)  | 15&ndash;81 |
+| Thin E.S.                                 | 8&frac14; &times; 11&frac34; (A4) | 15&ndash;80 |
+| Extra Thin                                | 5&frac78; &times; 8&frac14; (A5)  | 15&ndash;77 |
+| Extra Thin                                | 8&frac14; &times; 11&frac34; (A4) | 15&ndash;76 |
+| <h5>Writing paper </h5>                   |||
+| Cream Wove E.S., R.A. (printed)           | 5&frac78; &times; 8&frac14; (A5)  | 18&ndash;100 |
+| Cream Wove E.S., R.A. (printed)           | 8&frac14; &times; 11&frac34; (A4) | 18&ndash;101 |
+| Bank Blue Wove T.S., R.A. (printed), A.M. | 5&frac78; &times; 8&frac14; (A5)  | 18&ndash;104 |
+| Bank Blue Wove T.S., R.A. (printed), A.M. | 8&frac14; &times; 11&frac34; (A4) | 18&ndash;105 |
+| Blue Laid, All Rag, R.A. (diestamped)     | 5&frac78; &times; 8&frac14; (A5)  | 19&ndash;100 |
+| Blue Laid, All Rag, R.A. (diestamped)     | 8&frac14; &times; 11&frac34; (A4) | 19&ndash;101 |
+| Cream Wove, All Rag, R.A. (diestamped)    | 5&frac78; &times; 8&frac14; (A5)  | 19&ndash;108 |
+| Cream Wove, All Rag, R.A. (diestamped)    | 8&frac14; &times; 11&frac34; (A4) | 19&ndash;109 |
 
-| |
-WRITING PAPER | |
-Cream Wove E.s., R.A. (printed) | Sex 84(A5) 18-100
-Cream Wove E.S., R.A. (printed) 8¢x113(A4) | 18-101
-Bank Blue Wove T.s., R.A. (printed), A.M. | 54x 8k(As5) | 18-104
-Bank Blue Wove T.s., R.A. (printed), A.M. | 8tx112(A4) | 18-105
-Blue Laid, All Rag, R.a. (diestamped) | 54x 84(As) | 19-100
-Blue Laid, All Rag, R.a. (diestamped) | 84 x 112 (A4) Ig-IOI
-Cream Wove, All Rag, R.a. (diestamped) | 5¢X 84(As) | 19-108
-Cream Wove, All Rag, R.A. (diestamped) | 8k x11(A4) 19-109
-NOTE: E.S.=engine sized; T.s.=tub sized; R.A.=bearing Royal Arms; A.M.=Air Mail.
+</div>
+
+NOTE: E.S.=engine sized; T.S.=tub sized; R.A.=bearing Royal Arms; A.M.=Air Mail.
