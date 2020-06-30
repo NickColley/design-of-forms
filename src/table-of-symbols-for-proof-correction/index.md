@@ -86,20 +86,20 @@ underlined). The table begins on page 161.
 | 11 | Change to lower case | Encircle characters to be altered | ![](lc.jpg) |
 | 12 | Change to roman type | Encircle characters to be altered | ![](rom.jpg) |
 | 13 | Wrong fount. Replace by letter of correct fount | Encircle characters to be altered | ![](wf.jpg) |
-| 14 | Invert type | Encircle character to be altered | ![](forwards-slash.jpg) | ![]() |
-| 15 | Change damaged character(s) | Encircle character(s) to be altered | ![]() |
-| 16 | Substitute or insert character(s) under which this mark is placed, in ‘superior’ position | through character or where required | ![]() under character (e.g. )  |
-| 17 | Substitute or insert character(s) over which this mark is placed, in ‘inferior’ position | through character or where required | ![]() over character (e.g. ) |
-| 18 | Underline word or words | under words affected | ![]() |
-| 19 | Use ligature (e.g. ffi) or diphthong (e.g. ce) | enclosing letters to be altered | ![]()  enclosing ligature or diphthong required |
-| 20 | Substitute separate letters for ligature or diphthong | through ligature or diphthong to be altered | ![]() write out separate letters followed by / |
-| 21 | Close up—delete space between characters | linking characters | ![]() |
-| 22 | Insert space<sup>*</sup> | | ![]() |
-| 23 | Insert space between lines or paragraphs<sup>*</sup> | between lines to be spaced | ![]() |
-| 24 | Reduce space between lines<sup>*</sup> | connecting lines to be closed up | ![]() |
-| 25 | Make space appear equal between words | / between words | ![]() |
-| 26 | Reduce space between words<sup>*</sup> | / between words | ![]() |
-| 27 | Add space between letters<sup>*</sup> | between tops of letters requiring space | ![]() |
+| 14 | Invert type | Encircle character to be altered | ![](swirl.jpg) |
+| 15 | Change damaged character(s) | Encircle character(s) to be altered | ![](x.jpg) |
+| 16 | Substitute or insert character(s) under which this mark is placed, in ‘superior’ position | ![](forwards-slash.jpg) through character or ![](h.jpg) where required | ![](7.jpg) under character (e.g. ![](7-example.jpg))  |
+| 17 | Substitute or insert character(s) over which this mark is placed, in ‘inferior’ position | ![](forwards-slash.jpg) through character or ![](h.jpg) where required | ![](hat.jpg) over character (e.g. ![](hat-example.jpg)) |
+| 18 | Underline word or words | ![](underline.jpg) under words affected | ![](underline-word.jpg) |
+| 19 | Use ligature (e.g. ffi) or diphthong (e.g. ce) | ![](circle-brackets.jpg) enclosing letters to be altered | ![](circle-brackets.jpg) enclosing ligature or diphthong required |
+| 20 | Substitute separate letters for ligature or diphthong | ![](forwards-slash.jpg) through ligature or diphthong to be altered | ![]() write out separate letters followed by ![](forwards-slash.jpg) |
+| 21 | Close up—delete space between characters | ![](circle-brackets.jpg) linking characters | ![](circle-brackets.jpg) |
+| 22 | Insert space<sup>*</sup> |![](h.jpg) | ![](pound.jpg) |
+| 23 | Insert space between lines or paragraphs<sup>*</sup> | ![](greater-than.jpg) between lines to be spaced | ![](pound.jpg) |
+| 24 | Reduce space between lines<sup>*</sup> | ![](left-circle-bracket.jpg) connecting lines to be closed up | ![](less.jpg) ![](pound.jpg) |
+| 25 | Make space appear equal between words | ![](forwards-slash.jpg) between words | ![](eq.jpg) ![](pound.jpg) |
+| 26 | Reduce space between words<sup>*</sup> | ![](forwards-slash.jpg) between words | ![](less.jpg) ![](pound.jpg) |
+| 27 | Add space between letters<sup>*</sup> | ![](quotation-marks.jpg) between tops of letters requiring space | ![](letter.jpg) ![](pound.jpg) |
 | 28 | Transpose | between characters or words, numbered when necessary | |
 | 29 | Place in centre of line | Indicate position with | |
 | 30 | Indent one em | | |
@@ -117,25 +117,25 @@ underlined). The table begins on page 161.
 | 42 | Begin a new paragraph | before first word of new paragraph |
 | 43 | No fresh paragraph here | between paragraphs |
 | 44 | Spell out the abbreviation or figure in full | Encircle words or figures to be altered |
-| 45 | Insert omitted portion of copy<sup>‡</sup> | |
-| 46 | Substitute or insert comma | through character or where required |
-| 47 | Substitute or insert semi-colon | through character or where required |
-| 48 | Substitute or insert full stop | through character or where required |
-| 49 | Substitute or insert colon | through character or where required |
-| 50 | Substitute or insert interrogation mark | through character or where required |
-| 51 | Substitute or insert exclamation mark | through character or where required |
+| 45 | Insert omitted portion of copy<sup>‡</sup> | ![](h.jpg) | |
+| 46 | Substitute or insert comma | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
+| 47 | Substitute or insert semi-colon | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
+| 48 | Substitute or insert full stop | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
+| 49 | Substitute or insert colon | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
+| 50 | Substitute or insert interrogation mark | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
+| 51 | Substitute or insert exclamation mark | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
 | 52 | Insert parentheses | or |
 | 53 | Insert (square) brackets | or |
 | 54 | Insert hyphen | |
 | 55 | Insert en (half-em) rule | |
 | 56 | Insert one-em rule | |
 | 57 | Insert two-em rule | |
-| 58 | Insert apostrophe | | |
-| 59 | Insert single quotation marks | | |
-| 60 | Insert double quotation marks | | |
-| 61 | Insert ellipsis<sup>§</sup> | | |
-| 62 | Insert leader | | |
-| 63 | Insert shilling stroke | | |
+| 58 | Insert apostrophe | ![](h.jpg) | |
+| 59 | Insert single quotation marks | ![](h.jpg) or ![](h.jpg)![](h.jpg) | |
+| 60 | Insert double quotation marks | ![](h.jpg) or ![](h.jpg)![](h.jpg) | |
+| 61 | Insert ellipsis<sup>§</sup> | ![](h.jpg) | |
+| 62 | Insert leader | ![](h.jpg) | |
+| 63 | Insert shilling stroke | ![](h.jpg) | |
 | 64 | Refer to appropriate authority anything of doubtful accuracy | Encircle words, etc. affected | |
 
 <div>
