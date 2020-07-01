@@ -8,8 +8,7 @@ pageNumber:
     end: 119
 ---
 
-Each type face may offer a wide choice of alphabets, e.g. capitals and lower case
-(see page 119). The use of different alphabets can help to provide the contrast necessary
+Each type face may offer a wide choice of alphabets, e.g. capitals and lower case. The use of different alphabets can help to provide the contrast necessary
 to avoid making the form look dull in appearance. A reasonable way of using the type
 available is to employ Roman for the bulk of the work, Italic for instructions, and Bold
 Face for emphasis—a better expedient than underlining.
@@ -25,7 +24,7 @@ Small capitals may be used for occasional emphasis or minor headings, and capita
 reserved for the more important headings. However, capitals do not invariably domi-
 nate lower case. T'ypographers frequently reverse the traditional order by having a
 main heading in large capitals and lower case, and the small heading in capitals as
-on page 112. Much depends on the length of wording in the respective lines.
+on [page 112](/the-form-in-print/the-layout-of-the-printed-matter/). Much depends on the length of wording in the respective lines.
 
 ![](1.jpg)
 

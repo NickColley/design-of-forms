@@ -22,7 +22,7 @@ Times Roman, Plantin, Garamond. There are hundreds of different kinds of type
 faces but they all fall into families or groups, e.g. those with bracketed serifs (small feet
 on the ends of the strokes); those with squared-slab serifs, and those without serifs,
 i.e. ‘sans serifs’ or ‘block letter’. This paragraph is set in a type face with bracketed
-serifs on the ends of the strokes (see page 119).
+serifs on the ends of the strokes (see [page 119](/the-form-in-print/alphabets/)).
 
 <div class="sans-serif">
 

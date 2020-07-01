@@ -39,7 +39,7 @@ the preceding word.
 Normally, only matter actually to be inserted or added to the existing text should be
 written on the proof. If, however, any comments or instructions are written on the
 proof, they should be encircled, and preceded by the word PRINTER (in capitals and
-underlined). The table begins on page 161.
+underlined).
 
 \* Extracted from British Standard 1219
 

@@ -52,7 +52,7 @@ required. If the space to be filled is too small for clear hand lettering write 
 lettering on the margin of the draft or on a separate sheet with a cross reference to the
 space on the form. Indicate words to be printed in bold type or in italics etc. by red
 ink underlining: wavy for bold, or straight for italic, with a marginal note in addition
-(see B.S.I. standard printers’ marks beginning on page 161).
+(see [B.S.I. standard printers’ marks beginning on page 161](/table-of-symbols-for-proof-correction/)).
 
 (6) Sketch punched holes or perforations with a marginal explanation.
 

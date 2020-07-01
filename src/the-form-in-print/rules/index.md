@@ -33,7 +33,7 @@ Original ‘copy’ and layout for this special form are shown overleaf for comp
 Original ‘copy’ for a numbered and metal-tagged form on stout paper, obviating the
 writing out of a separate order, label and contractor’s charge slip and involving only the
 crossing out of instructions that do not apply. The final layout is shown opposite, and the
-final printed form is illustrated on page 123
+final [printed form is illustrated on page 123](http://localhost:8080/the-form-in-print/rules/)
 
 ![](7.jpg)
 

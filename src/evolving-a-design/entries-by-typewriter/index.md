@@ -31,7 +31,7 @@ unless continuous stationery or a holding device is used.
 
 The width of the form must be related to the width of the platen of the typewriter likely to be used in completing it. If this is not known it may be as well to design the form for the (minimum) 12” platen which takes paper 11” wide and provides a 10” writing line.
 
-(See page 52 for section on VARITY PING)
+(See [page 52 for section on VARITYPING](/evolving-a-design/use-of-typewriter-characters-for-forms-design#varityping))
 
 ![](1.jpg)
 

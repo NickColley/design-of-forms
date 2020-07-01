@@ -54,7 +54,7 @@ Unless the place for putting a cross is specified, errors can arise in relating 
 the caption. A box avoids this difficulty
 
 ![](7.jpg)
-See also the illustration of a hospital form created by dyeline copying, page 146
+See also the illustration of a hospital form created by dyeline copying, [page 146](/copying/making-copies-by-photocopying-methods/)
 
 ![](8.jpg)
 

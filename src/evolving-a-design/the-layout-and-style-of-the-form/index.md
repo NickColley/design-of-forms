@@ -69,7 +69,7 @@ A line down the middle of the form can ensure a tidy arrangement of entries. But
 
 ![](5.jpg)
 
-Disjointed and untidy appearance. Insufficient attention given to continuity in the vertical lines between entry spaces. The captions and action to be taken in completing the form are also not clear. Capitals should be used consistently (there are three errors in the lower example on page 14)
+Disjointed and untidy appearance. Insufficient attention given to continuity in the vertical lines between entry spaces. The captions and action to be taken in completing the form are also not clear. Capitals should be used consistently (there are three errors in the lower example on [page 14](/deciding-requirements/collecting-assembling-and-analysing-relevant-information/))
 
 ![](6.jpg)
 
