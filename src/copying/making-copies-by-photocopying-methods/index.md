@@ -2,7 +2,6 @@
 layout: page.njk
 title: Making copies by photocopying methods
 section: Copying
-status: cleanup
 tags: page
 pageNumber:
     start: 145

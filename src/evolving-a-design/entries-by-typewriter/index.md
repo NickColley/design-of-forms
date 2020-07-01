@@ -2,7 +2,6 @@
 layout: page.njk
 title:  Entries by typewriter
 section: Evolving a Design
-status: cleanup
 tags: page
 pageNumber:
     start: 48

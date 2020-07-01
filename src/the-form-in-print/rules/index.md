@@ -2,7 +2,6 @@
 layout: page.njk
 title: Rules
 section: The Form in Print
-status: cleanup
 tags: page
 pageNumber:
     start: 120

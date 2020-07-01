@@ -2,7 +2,6 @@
 layout: page.njk
 title: Design to simplify adding and calculating
 section: Evolving a Design
-status: cleanup
 tags: page
 pageNumber:
     start: 68

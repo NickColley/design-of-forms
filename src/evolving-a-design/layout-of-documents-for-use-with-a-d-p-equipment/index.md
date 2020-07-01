@@ -2,7 +2,6 @@
 layout: page.njk
 title: Layout of documents for use with A.D.P. equipment
 section: Evolving a Design
-status: cleanup
 tags: page
 pageNumber:
     start: 63

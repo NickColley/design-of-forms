@@ -2,7 +2,6 @@
 layout: page.njk
 title: Internal transit documents
 section: Transit and Mailing Documents
-status: cleanup
 tags: page
 pageNumber:
     start: 103

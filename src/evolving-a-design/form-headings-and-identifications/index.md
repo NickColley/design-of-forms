@@ -2,7 +2,6 @@
 layout: page.njk
 title:  Form headings and identifications
 section: Evolving a Design
-status: cleanup
 tags: page
 pageNumber:
     start: 17

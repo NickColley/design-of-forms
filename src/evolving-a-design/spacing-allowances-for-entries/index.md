@@ -2,7 +2,6 @@
 layout: page.njk
 title:  Spacing allowances for entries
 section: Evolving a Design
-status: cleanup
 tags: page
 pageNumber:
     start: 45

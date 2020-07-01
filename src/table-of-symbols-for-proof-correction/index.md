@@ -2,7 +2,6 @@
 layout: page.njk
 title: Table of Symbols for Proof Correction
 section: Back matter
-status: cleanup
 tags: page
 pageNumber:
     start: 159

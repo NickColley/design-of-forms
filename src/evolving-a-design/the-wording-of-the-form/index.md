@@ -2,7 +2,6 @@
 layout: page.njk
 title:  The wording of the form
 section: Evolving a Design
-status: cleanup
 tags: page
 pageNumber:
     start: 21

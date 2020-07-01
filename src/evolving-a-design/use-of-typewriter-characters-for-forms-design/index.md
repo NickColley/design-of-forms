@@ -2,7 +2,6 @@
 layout: page.njk
 title: Use of typewriter characters for forms design
 section: Evolving a Design
-status: cleanup
 tags: page
 pageNumber:
     start: 51

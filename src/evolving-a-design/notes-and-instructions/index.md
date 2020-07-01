@@ -2,7 +2,6 @@
 layout: page.njk
 title:  Notes and instructions
 section: Evolving a Design
-status: cleanup
 tags: page
 pageNumber:
     start: 32

@@ -2,7 +2,6 @@
 layout: page.njk
 title: Use of carbon papers or carbon coatings
 section: Copying
-status: cleanup
 tags: page
 pageNumber:
     start: 133

@@ -2,7 +2,6 @@
 layout: page.njk
 title: Collecting, Assembling and Analysing
 section: Deciding Requirements
-status: cleanup
 tags: page
 pageNumber:
     start: 11

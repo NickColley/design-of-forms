@@ -2,7 +2,6 @@
 layout: page.njk
 title: The value of well-designed forms
 section: Introduction
-status: cleanup
 tags: page
 pageNumber:
     start: 9
