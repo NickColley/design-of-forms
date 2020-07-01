@@ -9,6 +9,8 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addNunjucksFilter("groupByNested", groupByNested)
     eleventyConfig.addNunjucksFilter("sortNested", sortNested)
 
+    eleventyConfig.setLibrary("md", require('./markdown.js'))
+
     return {
         dir: {
             input: "src"

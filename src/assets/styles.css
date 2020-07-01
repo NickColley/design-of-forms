@@ -66,11 +66,15 @@ body {
   color: inherit;
 }
 
-:focus {
+:focus:not([aria-hidden=true]) {
   outline: 4px solid var(--text-color);
   outline-offset: 0;
   background: var(--text-color);
   color: var(--background-color);
+}
+
+[aria-hidden=true]:focus {
+  outline: 0;
 }
 
 * {
@@ -86,6 +90,17 @@ h6,
 .heading {
   font-family: var(--font-family-sans-serif);
   font-weight: bold;
+}
+
+/* for heading anchors */
+h1[id],
+h2[id],
+h3[id],
+h4[id],
+h5[id],
+h6[id] {
+  position: relative;
+  display: inline-block;
 }
 
 h1 {
@@ -372,6 +387,27 @@ th, td {
   clip-path: inset(50%);
   border: 0;
   white-space: nowrap;
+}
+
+.header-anchor {
+  display: inline-block;
+  width: 1ch;
+  margin-right: .4ch;
+  margin-left: -1.4ch;
+  text-decoration: none;
+}
+
+.header-anchor::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+:not(:hover):not(:target) > .header-anchor {
+  visibility: hidden;
 }
 
 /* /the-form-in-print/typography */
