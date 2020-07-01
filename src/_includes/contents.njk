@@ -7,7 +7,6 @@
                     {{- item.data.title -}}
                 </a>
                 {{ item.data.pageNumber.start }}
-                <span data-status="{{ item.data.status }}">{{ item.data.status }}</span>
             </h3>
         {% endfor %}
     {% else %}
@@ -24,7 +23,6 @@
                 <dd>
                     {% if itemSection === 'Introduction' %}page {% endif %}
                     {{ item.data.pageNumber.start }}
-                    <span data-status="{{ item.data.status }}">{{ item.data.status }}</span>
                 </dd>
             {% endfor %}
         </dl>

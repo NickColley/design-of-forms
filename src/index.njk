@@ -107,17 +107,6 @@ layout: default.njk
     Contents
 </h2>
 
-<h3>
-    Progress
-</h3>
-<ul class="progress-bar">
-    {% for group, items in collections.page | groupByNested("data.status") %}
-        <li data-status="{{ group }}" style="min-width: {{ items.length / collections.page.length * 100 }}%">
-            {{ group }}: {{ items.length }}
-        </li>
-    {% endfor %}
-</ul>
-
 <hr />
 
 {% include 'contents.njk' %}
