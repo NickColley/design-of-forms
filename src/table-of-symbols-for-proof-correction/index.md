@@ -2,7 +2,7 @@
 layout: page.njk
 title: Table of Symbols for Proof Correction
 section: Back matter
-status: needs images
+status: cleanup
 tags: page
 pageNumber:
     start: 159
@@ -99,44 +99,44 @@ underlined). The table begins on page 161.
 | 24 | Reduce space between lines<sup>*</sup> | ![](left-circle-bracket.jpg) connecting lines to be closed up | ![](less.jpg) ![](pound.jpg) |
 | 25 | Make space appear equal between words | ![](forwards-slash.jpg) between words | ![](eq.jpg) ![](pound.jpg) |
 | 26 | Reduce space between words<sup>*</sup> | ![](forwards-slash.jpg) between words | ![](less.jpg) ![](pound.jpg) |
-| 27 | Add space between letters<sup>*</sup> | ![](quotation-marks.jpg) between tops of letters requiring space | ![](letter.jpg) ![](pound.jpg) |
-| 28 | Transpose | between characters or words, numbered when necessary | |
-| 29 | Place in centre of line | Indicate position with | |
-| 30 | Indent one em | | |
-| 31 | Indent two ems | | |
-| 32 | Move matter to right | at left side of group to be moved | |
-| 33 | Move matter to left | at right side of group to be moved | |
-| 34 | Move matter to position indicated | at limits of required position | |
-| 35 | Take over character(s) or line to next line, column or page | | |
-| 36 | Take back character(s) or line to previous line, column or page | | |
-| 37 | Raise lines<sup>†</sup> | over lines to be moved <br/> under lines to be moved | |
-| 38 | Lower lines<sup>†</sup> | over lines to be moved <br/> under lines to be moved | |
-| 39 | Correct the vertical alignment | | |
-| 40 | Straighten lines | through lines to be straightened | |
-| 41 | Push down space | Encircle space affected |
-| 42 | Begin a new paragraph | before first word of new paragraph |
-| 43 | No fresh paragraph here | between paragraphs |
-| 44 | Spell out the abbreviation or figure in full | Encircle words or figures to be altered |
-| 45 | Insert omitted portion of copy<sup>‡</sup> | ![](h.jpg) | |
-| 46 | Substitute or insert comma | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
-| 47 | Substitute or insert semi-colon | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
-| 48 | Substitute or insert full stop | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
-| 49 | Substitute or insert colon | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
-| 50 | Substitute or insert interrogation mark | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
-| 51 | Substitute or insert exclamation mark | ![](forwards-slash.jpg) through character or ![](h.jpg) where required |
-| 52 | Insert parentheses | or |
-| 53 | Insert (square) brackets | or |
-| 54 | Insert hyphen | |
-| 55 | Insert en (half-em) rule | |
-| 56 | Insert one-em rule | |
-| 57 | Insert two-em rule | |
-| 58 | Insert apostrophe | ![](h.jpg) | |
-| 59 | Insert single quotation marks | ![](h.jpg) or ![](h.jpg)![](h.jpg) | |
-| 60 | Insert double quotation marks | ![](h.jpg) or ![](h.jpg)![](h.jpg) | |
-| 61 | Insert ellipsis<sup>§</sup> | ![](h.jpg) | |
-| 62 | Insert leader | ![](h.jpg) | |
-| 63 | Insert shilling stroke | ![](h.jpg) | |
-| 64 | Refer to appropriate authority anything of doubtful accuracy | Encircle words, etc. affected | |
+| 27 | Add space between letters<sup>*</sup> | ![](quote-marks.jpg) between tops of letters requiring space | ![](letter.jpg) ![](pound.jpg) |
+| 28 | Transpose | ![](un.jpg) between characters or words, numbered when necessary | ![](trs.jpg) |
+| 29 | Place in centre of line | Indicate position with ![](top-left-right-corners.jpg) | ![](centre.jpg) |
+| 30 | Indent one em | ![](left-indent-em.jpg) | ![](box.jpg) |
+| 31 | Indent two ems | ![](left-indent-two-ems.jpg) | ![](two-box.jpg) |
+| 32 | Move matter to right | ![](left-indent-em.jpg) at left side of group to be moved | ![](left-indent-em.jpg) |
+| 33 | Move matter to left | ![](right-indent-em.jpg) at right side of group to be moved | ![](right-indent-em.jpg)  |
+| 34 | Move matter to position indicated | ![](long-brackets.jpg) at limits of required position | ![](move.jpg) |
+| 35 | Take over character(s) or line to next line, column or page | ![](long-left-bracket.jpg) | ![](take-over.jpg) |
+| 36 | Take back character(s) or line to previous line, column or page | ![](long-right-bracket.jpg) | ![](take-back.jpg) |
+| 37 | Raise lines<sup>†</sup> | ![](top-arrow-line.jpg) over lines to be moved <br/> ![](top-indent) under lines to be moved | ![](raise.jpg) |
+| 38 | Lower lines<sup>†</sup> | ![](bottom-arrow-line.jpg) over lines to be moved <br/> ![](bottom-indent) under lines to be moved | ![](lower.jpg) |
+| 39 | Correct the vertical alignment | ![](two-vertical-lines.jpg) | ![](two-vertical-lines.jpg) |
+| 40 | Straighten lines | ![](two-horizontal-lines.jpg) through lines to be straightened |![](two-horizontal-lines.jpg)  |
+| 41 | Push down space | Encircle space affected | ![](upside-down-T.jpg) |
+| 42 | Begin a new paragraph | ![](short-left-bracket.jpg)  before first word of new paragraph | ![](np.jpg) | 
+| 43 | No fresh paragraph here | ![](long-s.jpg) between paragraphs | ![](run-on.jpg) |
+| 44 | Spell out the abbreviation or figure in full | Encircle words or figures to be altered | ![](spell-out.jpg) |
+| 45 | Insert omitted portion of copy<sup>‡</sup> | ![](h.jpg) | ![](out-see-copy.jpg) |
+| 46 | Substitute or insert comma | ![](forwards-slash.jpg) through character or ![](h.jpg) where required | ![](comma-forwards-slash.jpg) |
+| 47 | Substitute or insert semi-colon | ![](forwards-slash.jpg) through character or ![](h.jpg) where required | ![](semi-colon-forwards-slash.jpg) |
+| 48 | Substitute or insert full stop | ![](forwards-slash.jpg) through character or ![](h.jpg) where required | ![](circle-period.jpg) |
+| 49 | Substitute or insert colon | ![](forwards-slash.jpg) through character or ![](h.jpg) where required | ![](circle-colon.jpg) |
+| 50 | Substitute or insert interrogation mark | ![](forwards-slash.jpg) through character or ![](h.jpg) where required | ![](question-mark-forwards-slash.jpg) |
+| 51 | Substitute or insert exclamation mark | ![](forwards-slash.jpg) through character or ![](h.jpg) where required | ![](bang-forwards-slash.jpg) |
+| 52 | Insert parentheses | ![](h.jpg) or ![](h.jpg)![](h.jpg) | ![](circle-brackets-forwards-slash.jpg) |
+| 53 | Insert (square) brackets | ![](h.jpg) or ![](h.jpg)![](h.jpg) | ![](long-brackets-forwards-slash.jpg) |
+| 54 | Insert hyphen | ![](h.jpg) | ![](dash-forwards-slash.jpg) |
+| 55 | Insert en (half-em) rule | ![](h.jpg) | ![](en.jpg) |
+| 56 | Insert one-em rule | ![](h.jpg) | ![](em.jpg) |
+| 57 | Insert two-em rule | ![](h.jpg) | ![](2em.jpg) |
+| 58 | Insert apostrophe | ![](h.jpg) | ![](quote-7.jpg) |
+| 59 | Insert single quotation marks | ![](h.jpg) or ![](h.jpg)![](h.jpg) | ![](single-quotes-7.jpg) |
+| 60 | Insert double quotation marks | ![](h.jpg) or ![](h.jpg)![](h.jpg) | ![](double-quotes-7.jpg) |
+| 61 | Insert ellipsis<sup>§</sup> | ![](h.jpg) | ![](dotdotdot-forwards-slash.jpg) |
+| 62 | Insert leader | ![](h.jpg) | ![](circle-dotdotdot.jpg) |
+| 63 | Insert shilling stroke | ![](h.jpg) | ![](circle-forwards-slash.jpg) |
+| 64 | Refer to appropriate authority anything of doubtful accuracy | Encircle words, etc. affected | ![](circle-question-mark.jpg) |
 
 <div>
 
