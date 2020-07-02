@@ -8,29 +8,30 @@ pageNumber:
     end: 107
 ---
 
-Envelopes are divided into two main styles—‘Banker’ envelopes, and ‘Pocket’
-envelopes. The standard sizes of official envelopes are:
-Banker shape Pocket shape
-(inches) (inches)
-33 X58 82X 53
-38 X83 9 xX 4
-34X49 9 X 6
-4X5 98x 45
-4 X6 10 xX 7
-5 x74 10 xX 8
-53 X83 11}X 94
-14 X 9
-15 xX 6
-15 XIo
+Envelopes are divided into two main styles—‘Banker’ envelopes, and ‘Pocket’ envelopes.
+The standard sizes of official envelopes are:
+
+| Banker shape<br/>(inches) | Pocket shape<br/>(inches) |
+| - | - |
+| 3&frac18; &times; 5&frac38; | 8&frac12; &times; 5&frac12;  |
+| 3&frac58; &times; 8&frac12; | 9 &times; 4                  |
+| 3&frac34; &times; 4&frac34; | 9 &times; 6                  |
+| 4 &times; 5                 | 9&frac78; &times; 4&frac78;  |
+| 4 &times; 6                 | 10 &times; 7                 |
+| 5 &times; 7&frac12;         | 10 &times; 8                 |
+| 5&frac12; &times; 8&frac12; | 11&frac12; &times; 9&frac14; |
+|                             | 14 &times; 9                 |
+|                             | 15 &times; 6                 |
+|                             | 15 &times; 10                |
 
 With the introduction of the new international standard sizes the banker shape
-envelopes listed above will in time be replaced by the new standard sizes C7 (3}” x43"),
-C6 (44” x63”) and C5/6 (42” x 88").
+envelopes listed above will in time be replaced by the new standard sizes C7 (3&frac14;&Prime; &times; 4&frac12;&Prime;),
+C6 (4&frac12;&Prime; &times; 6&frac12;&Prime;) and C5/6 (4&frac14;&Prime; &times; 8&frac58;&Prime;).
 The measurements of an envelope are quoted in relation to the opening. Thus in
 this table of envelope sizes the dimension from the top edge of the flap to the bottom
-of the envelope is given first, ie. depth x width. The sizes and terms used to describe
+of the envelope is given first, i.e. depth &times; width. The sizes and terms used to describe
 commercial envelopes are given in British Standard 917:1949. Manufacturers’
-machinery precludes the possibility of an exact standard and variations of +4” may
+machinery precludes the possibility of an exact standard and variations of &plusmn;&frac18;&Prime; may
 occur from standard size between one manufacturer and another.
 
 Ordinary ‘stock’ envelopes should be utilised on all possible occasions; every effort
@@ -44,9 +45,9 @@ standard sizes.
 
 The smallest practicable size of envelope should be used, having regard to the time,
 cost and method of folding the enclosure, and to the fact that envelopes larger than
-9” x4" have to be date stamped by hand and sorted separately by the Post Office.
+9&Prime; &times; 4&Prime; have to be date stamped by hand and sorted separately by the Post Office.
 Large covers are inconvenient to handle in the post and covers larger than foolscap
-size (3§” x 83”) should be used sparingly. :
+size (3&frac58;&Prime; &times; 8&frac12;&Prime;) should be used sparingly.
 
 For details of quality in the various stock sizes, e.g. Buff, Thick Buff, Glazed
 Brown, Kraft, waxed paper under flap, and printing see H.M. Stationery Office List of
@@ -74,7 +75,7 @@ economy labels. Aperture envelopes are not normally re-usable. The range of size
 these types of envelopes is limited and H.M. Stationery Office should be consulted
 about availability in the early stages of designing the form as an enclosure. Aperture
 envelopes for use with payable orders are stocked by H.M. Stationery Office (size
-38" X53” Ajcs. Gen. 15a).
+3&frac18;&Prime; &times; 5&frac38;&Prime; A/cs. Gen. 15a).
 
 All correspondence must be made up to Post Office requirements about addresses,
 size, weight, colour and printing etc. Particular care should be taken to observe the
@@ -86,7 +87,7 @@ A packet enclosed in a window envelope must conform to the following conditions:
 
 (1) The panel must extend parallel to the length of the envelope.
 
-(2) A space of 1} inches must be left above the panel for the postage stamp and
+(2) A space of 1&frac12; inches must be left above the panel for the postage stamp and
 the date-stamp impression.
 
 (3) No writing or printing other than the address may be displayed through the
@@ -99,9 +100,9 @@ and thus cause the address to be hidden.
 A packet enclosed in an ‘aperture’ envelope (an envelope with an open panel) must
 conform to the following conditions:
 
-(1) The open (cut-out) panel must not exceed 33” in length by 1}” in width.
+(1) The open (cut-out) panel must not exceed 3&frac34;&Prime; in length by 1&frac14;&Prime; in width.
 
-(2) The requirements shown in (r), (2), (3), (4), in the preceding paragraph concerning transparent panels.
+(2) The requirements shown in (1), (2), (3), (4), in the preceding paragraph concerning transparent panels.
 
 (3) A minimum space of at least half an inch must be left within the sides and base
 of the cut-out panel and the respective edges of the envelopes.
@@ -114,21 +115,23 @@ fitted with sprocket feed attachments.
 
 ECONOMY LABELS of the following sizes are stocked by H.M. Stationery Office:
 
-Size Code Number
-(inches)
-24 X4} ee : .
-a eh ee For use with economy envelopes
-38X42 7-20
-4 X44 7-29
-ub 8 73° For use with used non-economy
-7x43 £78, | envelopes
-4k X43 7-29 |
-43 X 83 7-30
-72 X3r 7-31
-32X4 7-38 For use with C7 envelopes
-* These larger sizes may be used as wrappers for circulars and correspondence of a nonpermanent character without the use of envelopes.
+| Size<br/>(inches) | Code Number |
+| - | - |
+| 2&frac12; &times; 4&frac14;  | 7&ndash;21 | For use with economy envelopes |
+| 2&frac34; &times; 5&frac34;* | 7&ndash;22 | |
+| 3&frac78; &times; 4&frac12;  | 7&ndash;20 | |
+| 4&frac14; &times; 4&frac12;  | 7&ndash;29 | |
+| 4&frac12; &times; 8&frac12;  | 7&ndash;30 | For use with used non-economy envelopes |
+| 7&frac12; &times; 4&frac12;  | 7&ndash;20 | |
+| 4&frac14; &times; 4&frac12;  | 7&ndash;29 | |
+| 4&frac12; &times; 8&frac12;  | 7&ndash;30 | |
+| 7&frac12; &times; 3&frac14;  | 7&ndash;31 | |
+| 3&frac34; &times; 4          | 7&ndash;38 | For use with C7 envelopes |
+
+\* These larger sizes may be used as wrappers for circulars and correspondence of a non-permanent character without the use of envelopes.
 It may sometimes be necessary to consider certain features of mail handling
 equipment:
+
 (1) ENVELOPE OPENING MACHINES: the size of the document and envelope
 should permit the contents of the envelope to be shaken down below the depth of the
 cutting edge, to avoid mutilation of the contents.
@@ -147,13 +150,13 @@ indicate when empty would add to the usefulness of this internal transit documen
 the single-fold to the more complicated accordion folds. Folding is so accurate that it
 facilitates the tuck-in of documents designed as postal folders, or the correct placing
 of the address when the document is despatched in a window envelope. A range of
-paper sizes, normally up to 12” x 19", can be passed through the machine.
+paper sizes, normally up to 12&Prime; &times; 19&Prime;, can be passed through the machine.
 
 (3) WRAPPING MACHINES for magazines, catalogues and periodicals up to about
-14” X12” which can be rolled in wrappers up to 12” 14".
+14&Prime; &times; 12&Prime; which can be rolled in wrappers up to 12&Prime; &times; 14&Prime;.
 
 (4) ENVELOPE INSERTING AND SEALING MACHINES which can take document
-sizes from 4" x 4” to 84” x 13” and envelopes up to 9” x4”.
+sizes from 4&Prime; &times; 4&Prime; to 84&Prime; &times; 13&Prime; and envelopes up to 9&Prime; &times; 4&Prime;.
 
 ![](2.jpg)
 

@@ -25,9 +25,7 @@ stamp cancelling machine and this layout helps to reduce the possibility of dama
 difficulty during this machine process. Flimsy or dark paper is unsuitable for postal
 purposes.
 
-For postal folders there are several alternative designs available; those shown follow-
-
-ing form part of the Post Office leaflet ‘Folders Suitable for Postal Purposes’
+For postal folders there are several alternative designs available; those shown following form part of the Post Office leaflet ‘Folders Suitable for Postal Purposes’
 (HQ 72/58) the content of which is as follows:
 The use of folders for postal purposes is, in general deprecated by the Post Office, as
 folders tend to be more difficult to handle than envelopes or cards. For example, they are
@@ -40,15 +38,15 @@ It is realised, however, that many posters find folders very convenient and obje
 not be raised to their use provided that they are made up on the lines indicated in the
 diagrams in this leaflet and that the following requirements are observed:
 
-(1) Limits of size: Minimum 4” x23”
+(1) Limits of size: Minimum 4” &times; 23”
 
-Maximum 6” x 33”
+Maximum 6” &times; 33”
 NOTE: The minimum dimensions quoted apply to envelopes and cards generally. It is
 often found that folders designed to fold to these dimensions are, owing to faulty printing
 or folding, below the minimum size. Moreover, after adequate space has been left for the
 postage stamp and date-stamp impression (see (2)) the minimum depth of 23” leaves little
 room for the address. It is therefore recommended that the minimum size should be taken
-as 4” X3”.
+as 4” &times; 3”.
 
 (2) A space of at least 13” for date-stamp impressions must be left above the address.
 
