@@ -76,18 +76,18 @@ according to circumstances, but the following should invariably be asked:
 purposes of the form, the operation, the procedure etc.; what are the essential needs
 or unalterable limitations?
 
-(2) How is the work done? i.e. what are the processes, operations and documents
+(2) HOW is the work done? i.e. what are the processes, operations and documents
 involved;
 
-(3) Wuy is the work done in the manner prescribed?
+(3) WHY is the work done in the manner prescribed?
 
-(4) WuHo does the work and to what extent?
+(4) WHO does the work and to what extent?
 
 (5) WHERE is the work done and what limitations does this impose?
 
 (6) WHEN is the work done and what limitations does this impose?
 
-(7) WuICcH related activities elsewhere need consideration with the form or work
+(7) WHICH related activities elsewhere need consideration with the form or work
 being studied?
 
 Whenever practicable figures should be obtained indicative of:
@@ -139,7 +139,7 @@ entries and explanatory notes on the form itself.
 
 The important questions are:
 
-(x) Can anything be eliminated—whether procedure, entry, copy or other feature?
+(1) Can anything be eliminated—whether procedure, entry, copy or other feature?
 
 (2) Is everything that is provided for essential and not merely desirable? If any
 feature is not strictly essential what inconvenience or loss would result from dispensing

@@ -47,8 +47,8 @@ the file.
 Exact measurements for all punched holes must be specified, including the size and
 shape of the hole, the distance from the side and top edges of the paper to the centre
 of the hole, and the distance between the centres of the holes. The size of the holes
-should include a small clearance allowance of 4,” to +” more than the diameter of the
-binding post etc. A spacing of 8 cm. between the centre of holes is common to a large
+should include a small clearance allowance of 1/32&Prime; to 1/16&Prime; more than the diameter of the
+binding post etc. A spacing of 8cm. between the centre of holes is common to a large
 variety of binders. When an unusual arrangement of punched holes is required, H.M.
 Stationery Office should be consulted.
 
@@ -76,27 +76,25 @@ other forms used on the case
 
 ![](2.jpg)
 
-Specification: Punch 2 round holes }” in diameter, centrally on binding edge, at centres
-of 8 cm. with centres of holes 4” from binding edge
+Specification: Punch 2 round holes &frac14;&Prime; in diameter, centrally on binding edge, at centres
+of 8cm. with centres of holes &frac18;&Prime; from binding edge
 
 ![](3.jpg)
 
-Specification: Punch 4 round holes }” in diameter, centrally on binding edge, at centres
-of #§” + 1%” + 3” = 34”, with centres of holes }” from binding edge
+Specification: Punch 4 round holes &frac14;&Prime; in diameter, centrally on binding edge, at centres
+of 13/16&Prime; &plus; 1&frac78;&Prime; &plus; 13/16&Prime; = 3&frac12;&Prime;, with centres of holes &frac18;&Prime; from binding edge
 
 ![](4.jpg)
 
-Specification: Multi-punch with round holes 4” in diameter on binding edge at centres
-of 3” with centres of holes ;” from binding edge
+Specification: Multi-punch with round holes 7/32&Prime; in diameter on binding edge at centres of &frac38;&Prime; with centres of holes 5/16&Prime; from binding edge
 
 ![](5.jpg)
 
-Specification: Punch 2 round slotted holes #4” in diameter, centrally on binding edge, at
-centres of 104”
+Specification: Punch 2 round slotted holes 11/32&Prime; in diameter, centrally on binding edge, at centres of 10&frac12;&Prime;
 
 ![](6.jpg)
 
-Specification: Punch 2 thong slots, centrally on binding edge, at centres of 54”
+Specification: Punch 2 thong slots, centrally on binding edge, at centres of 5&frac12;&Prime;
 
 Standard punching gauges should be used as much as possible. H.M. Stationery Office
 should not be committed to proprietary brands of filing equipment or punching without
@@ -111,7 +109,8 @@ CORRECTION
 
 Page 85, lines 2 and 4
 
-For ‘}" from binding edge’ read ‘3" from binding edge’
+For ‘&frac18;&Prime; from binding edge’ read ‘&frac38;&Prime; from binding edge’
+
 LONDON: HER MAJESTY’S STATIONERY OFFICE: 1962
 
 ![](7.jpg)

@@ -22,7 +22,7 @@ may be produced on the form but each requires a separate printing operation.
 
 Compared with letterpress printing the main disadvantages of the offset-litho process are:
 
-(x) Since the typewriter is the main instrument used the range of type faces and
+(1) Since the typewriter is the main instrument used the range of type faces and
 sizes etc. is limited (this is so even if a Varityper is available).
 
 (2) The scope for good layout is reduced.

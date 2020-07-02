@@ -20,10 +20,10 @@ subtracted.
 they should not be separated by other figures.
 
 (4) If cross casting is necessary it will be done more easily, quickly, and with fewer ,
-errors if items such as £ s. d., or tons, cwts., and lb. etc. are staggered diagonally;
+errors if items such as &pound; s. d., or tons, cwts., and lb. etc. are staggered diagonally;
 (this arrangement of totals on a columnar sheet need not involve the use of extra space,
-as a vertical space of $” between the horizontal lines is sufficient to provide the diagonal
-pattern required, i.e. 2” in all for £ s. d.).
+as a vertical space of &frac18;&Prime; between the horizontal lines is sufficient to provide the diagonal
+pattern required, i.e. &frac38;&Prime; in all for &pound; s. d.).
 
 When it is necessary to add items in a series of similar forms the items can be
 positioned at the edge of the forms enabling them to be overlapped for totalling. This

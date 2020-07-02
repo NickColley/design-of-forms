@@ -46,13 +46,13 @@ latter are now coming into greater use in the United Kingdom. The International 
 series consists of a logically-planned range of trimmed sizes formed in such a manner
 that each size is obtained by dividing the one immediately above it into two equal parts,
 the division being parallel to the shorter side. The ‘basic’ size has an area of one square
-metre. The most widely used sizes are A4, measuring 210 mm. x 297 mm. (approximately 81” x 113”) which can replace the traditional British 8” x 10” and 8” x 13” sizes,
+metre. The most widely used sizes are A4, measuring 210 mm. &times; 297 mm. (approximately 81&Prime; &times; 113&Prime;) which can replace the traditional British 8&Prime; &times; 10&Prime; and 8&Prime; &times; 13&Prime; sizes,
 and As which is exactly half the size of A4. By halving or doubling these sizes one
 obtains an A size to meet virtually any requirements from a sizeable poster to a small
 visiting card. There is, in addition, a subsidiary B series for special requirements.
 
-A4 and As sizes have now been standardised for official letter paper (see Letterheadings for the Public Service: H.M. Stationery Office: 1959) and so far as correspondence is concerned, the usual foolscap files will accommodate the A size of papers. The
-common 9g” x4” envelope is quite suitable for several A sheets folded in four across
+A4 and As sizes have now been standardised for official letter paper (see Letterheadings for the Public Service: H.M. Stationery Office: 1959) and so far as correspondence is concerned, the usual foolscap files will accommodate the A size of papers.
+The common 9&Prime; &times; 4&Prime; envelope is quite suitable for several A sheets folded in four across
 their width. Most of the current office duplicating and other equipment can handle
 A4 without difficulty, but some A sizes do not suit current machines. A general change
 to the A and B sizes for forms etc. may be expected only gradually. Meanwhile, A size
@@ -137,8 +137,8 @@ follows:
 
 </div>
 
-Minute sheets are trimmed to 13” x 8” and 8” x 64”.
-Letter/note paper is supplied in the sizes A5 (5$” x 8}” approx.) and A4 (8}” x 112” approx.)
+Minute sheets are trimmed to 13&Prime; &times; 8&Prime; and 8&Prime; &times; 6&frac12;&Prime;.
+Letter/note paper is supplied in the sizes A5 (5&frac78;&Prime; &times; 8&frac14;&Prime; approx.) and A4 (8&frac14;&Prime; &times; 11&frac34;&Prime; approx.)
 
 ### H.M.S.O. stock paper sizes
 
@@ -181,13 +181,15 @@ of each sheet to avoid ‘set-off’.
 All machines are built to take foolscap sizes and the most economical page sizes for
 duplicating are:
 
-Foolscap 13” x16" Foolscap Folio 8” x 13”
+- Foolscap 13&Prime; &times; 16&Prime;
+- Foolscap Folio 8&Prime; &times; 13&Prime;
+- Foolscap Quarto 6&frac12;&Prime; &times; 8&Prime;
+- Foolscap Octavo 4&Prime; &times; 6&frac12;&Prime;
 
-Foolscap Quarto 64” x 8” Foolscap Octavo 4” x 64”
 Non-standard sizes have to be specially cut; stencils and labour are saved by keeping
-to the foolscap size, or sub-divisions thereof, rather than sizes 9” x'7}", 83” x7” etc.
-Two pages of 8” x64” can be typed on one stencil and used for duplicating both sides
-of an 8” x62” sheet.
+to the foolscap size, or sub-divisions thereof, rather than sizes 9&frac12;&Prime; &times; 7&frac12;&Prime;, 8&frac34;&Prime; &times; 7&Prime; etc.
+Two pages of 8&Prime; &times; 6&frac12;&Prime; can be typed on one stencil and used for duplicating both sides
+of an 8&Prime; &times; 6&frac12;&Prime; sheet.
 
 #### Stock spirit duplicating papers
 

@@ -76,4 +76,4 @@ Copies of a form distinguished by bold patches of different colours; the colours
 
 ![](3.jpg)
 
-Copies of a set of forms distinguished both by coloured corner patches and copy numbers; the colour of the patch on each copy being the same as the colours of the rest of the printing on that copy. Note that the patch does not ‘bleed’ off the edge of the form—a margin of 3/16" is desirable
+Copies of a set of forms distinguished both by coloured corner patches and copy numbers; the colour of the patch on each copy being the same as the colours of the rest of the printing on that copy. Note that the patch does not ‘bleed’ off the edge of the form—a margin of 3/16&Prime; is desirable

@@ -38,17 +38,17 @@ It is realised, however, that many posters find folders very convenient and obje
 not be raised to their use provided that they are made up on the lines indicated in the
 diagrams in this leaflet and that the following requirements are observed:
 
-(1) Limits of size: Minimum 4” &times; 23”
+(1) Limits of size: Minimum 4&Prime; &times; 2&frac34;&Prime;
 
-Maximum 6” &times; 33”
+Maximum 6&Prime; &times; 3&frac12;&Prime;
 NOTE: The minimum dimensions quoted apply to envelopes and cards generally. It is
 often found that folders designed to fold to these dimensions are, owing to faulty printing
 or folding, below the minimum size. Moreover, after adequate space has been left for the
-postage stamp and date-stamp impression (see (2)) the minimum depth of 23” leaves little
+postage stamp and date-stamp impression (see (2)) the minimum depth of 23&Prime; leaves little
 room for the address. It is therefore recommended that the minimum size should be taken
-as 4” &times; 3”.
+as 4&Prime; &times; 3&Prime;.
 
-(2) A space of at least 13” for date-stamp impressions must be left above the address.
+(2) A space of at least 1&frac12;&Prime; for date-stamp impressions must be left above the address.
 
 (3) Any printing on the address side, other than the address, must be confined to the
 left-hand half of that side.
@@ -97,7 +97,7 @@ NOTE: The tongue & slot
 side should not be used
 for the address. The slot
 should preferably be at least
-1}” below the top edge
+1&frac12;&Prime; below the top edge
 when folder is made up.
 
 ![](7.jpg)

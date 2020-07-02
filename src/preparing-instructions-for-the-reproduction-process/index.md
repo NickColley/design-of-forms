@@ -36,8 +36,9 @@ PRINTING INSTRUCTIONS
 Complete instructions for the Departmental Clerk of Stationery (and, through him,
 H.M. Stationery Office) will include information on some or all of the following:
 
-(x) A draft of the form—represented by a written note of content and a sketch of
+(1) A draft of the form—represented by a written note of content and a sketch of
 the layout.
+
 (2) The specification for reproducing the form.
 
 (3) Samples.
@@ -65,9 +66,13 @@ set out under appropriate headings, e.g.:
 
 (1) Size of the cut form
 
-fa Eahen orpata ee These details will include the surface required for
+(2) Paper or card:
 
-cae pen, or pencil etc., erasing quality
+- Grade
+- Weight
+- Colour
+
+These details will include the surface required for pen, or pencil etc., erasing quality
 
 (3) Make-up—e.g. Sheets, Sets, Pads, Bound Books, Stitching, Gumming, Cut
 corners, Serial numbering etc. (In describing the make-up of books a page should
@@ -78,21 +83,27 @@ on back and front.)
 
 (5) Printing one or both sides of the paper: ‘tumbler’ printing or ‘head-to-head’
 
-(6) Lines: Printed or pen-ruled
+(6) Lines:
 
-Thickness
-Colours
-Stippling
-(7) Printers’ Type: Type faces (The choice can sometimes be left to the printer if
-a general indication is given)
-Alphabets
-Sizes
+- Printed or pen-ruled
+- Thickness
+- Colours
+- Stippling
+
+(7) Printers’ Type:
+
+- Type faces (The choice can sometimes be left to the printer if a general indication is given)
+- Alphabets
+- Sizes
+
 (8) Ink: Colours
-(9) Punching: Shape of holes
-Size
-Distance from the side and top edges of the paper to the centre of
-the hole
-Distance between the centres of holes
+(9) Punching:
+
+- Shape of holes
+- Size
+- Distance from the side and top edges of the paper to the centre of the hole
+- Distance between the centres of holes
+
 (10) Perforating
 (11) Scoring
 (12) Folding

@@ -36,8 +36,8 @@ stating that the outline indicates ‘trim’ and should not be printed (see pag
 
 (2) The drafting should be on one side of the paper only; draft the back and front
 of a form either side by side on one sheet or on separate sheets, noting in the outer
-margin which is the ‘back’ and which is the ‘front’. Paper with 1” printed squares and
-subdivisions at 4,” or 4” may be used (preferably printed in light blue, as the camera
+margin which is the ‘back’ and which is the ‘front’. Paper with 1&Prime; printed squares and
+subdivisions at /12&Prime; or &frac16;&Prime; may be used (preferably printed in light blue, as the camera
 will not reproduce this colour), to facilitate spacing entries etc.
 
 (3) In the normal case margins should be left inside the edge of the form to show
@@ -55,6 +55,6 @@ ink underlining: wavy for bold, or straight for italic, with a marginal note in 
 
 (6) Sketch punched holes or perforations with a marginal explanation.
 
-(7) If asmall number of copies is needed for testing purposes or to show to persons
+(7) If a small number of copies is needed for testing purposes or to show to persons
 responsible for the work, draft on a translucent paper and make copies by the dyeline
 process.

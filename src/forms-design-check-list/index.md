@@ -44,7 +44,7 @@ suggestions?
     - *Would particular features of the designs help arithmetical, sorting or selecting work?*
     - *Would any special devices or items of equipment save work?*
 - What similar or related forms, documents, equipment, and machines should be considered?
-    - *Forms or documents from which the original data 1s obtained?*
+    - *Forms or documents from which the original data is obtained?*
     - *Ledgers, envelopes, files?*
     - *General Service forms?*
     - *Is the size or layout limited by equipment or machines?*

@@ -79,7 +79,7 @@ arranged so that the tear-off portion of the document is along the shortest dime
 as this will help to speed up separation.
 
 When it is especially necessary to minimise the risk that a perforation may be torn
-accidentally, it should end about 3” from the edges of the forms, but this requirement
+accidentally, it should end about 3&Prime; from the edges of the forms, but this requirement
 should not be specified unless it is essential.
 
 SCORING consists of making a crease in the paper to assist folding. Normally,

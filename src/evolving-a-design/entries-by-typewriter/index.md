@@ -8,9 +8,9 @@ pageNumber:
     end: 50
 ---
 
-Printed writing lines are rarely necessary on forms completed by typewriter (except to divide groups of entries) as they impede typing when it becomes necessary to adjust the machine platen to the line. Nor are vertical lines needed between { s. d. columns if the tabulator stops can be used (unless such lines are required to assist subsequent work with the form).
+Printed writing lines are rarely necessary on forms completed by typewriter (except to divide groups of entries) as they impede typing when it becomes necessary to adjust the machine platen to the line. Nor are vertical lines needed between &pound; s. d. columns if the tabulator stops can be used (unless such lines are required to assist subsequent work with the form).
 
-As a general rule, entry spacing can be based on ten (pica) or twelve (elite) characters to the horizontal inch. Most typewriters space to }” vertically. The spacing of type on many continuous stationery machines and electric typewriters is different from the standard typewriter.
+As a general rule, entry spacing can be based on ten (pica) or twelve (elite) characters to the horizontal inch. Most typewriters space to &frac16;&Prime; vertically. The spacing of type on many continuous stationery machines and electric typewriters is different from the standard typewriter.
 
 Forms for use in typewriters should be designed to avoid the need for hand positioning the platen and to minimise use of the space bar. The following layout arrangements will help to reduce carriage movement and facilitate completion of the form:
 
@@ -24,22 +24,22 @@ Forms for use in typewriters should be designed to avoid the need for hand posit
 
 (a) from one side of the form to the other, enabling bring forward figures to be copied whilst the form is in the machine, or (6) when documents such as ledger sheets or postcards are typed on both sides.
 
-5. Entries should not be positioned near the top and bottom of the form; it is usually difficult to type within 1” from the top, or $” from the bottom of a document
+5. Entries should not be positioned near the top and bottom of the form; it is usually difficult to type within 1&Prime; from the top, or &frac12;&Prime; from the bottom of a document
 unless continuous stationery or a holding device is used.
 
 6. Guide lines or marks at the edge of the form can assist in finding the entry position, or be used as a warning signal that the bottom of the form is about to be reached.
 
-The width of the form must be related to the width of the platen of the typewriter likely to be used in completing it. If this is not known it may be as well to design the form for the (minimum) 12” platen which takes paper 11” wide and provides a 10” writing line.
+The width of the form must be related to the width of the platen of the typewriter likely to be used in completing it. If this is not known it may be as well to design the form for the (minimum) 12&Prime; platen which takes paper 11&Prime; wide and provides a 10&Prime; writing line.
 
 (See [page 52 for section on VARITYPING](/evolving-a-design/use-of-typewriter-characters-for-forms-design#varityping))
 
 ![](1.jpg)
 
-This layout, spacing and the use of dotted lines hinders typing. Frequent typewriter adjustments are necessary to complete the entries (10 horizontal and 4 vertical) because tabulator stops cannot be used for groups of entries and because vertical spacing is not at 1/3” intervals. This wastes much time in the aggregate and the information stands out less clearly than in the ‘boxing’ layout below
+This layout, spacing and the use of dotted lines hinders typing. Frequent typewriter adjustments are necessary to complete the entries (10 horizontal and 4 vertical) because tabulator stops cannot be used for groups of entries and because vertical spacing is not at 1/3&Prime; intervals. This wastes much time in the aggregate and the information stands out less clearly than in the ‘boxing’ layout below
 
 ![](2.jpg)
 
-In this revised layout captions are placed in the top left corner of each panel so that they will not be obscured by the typewriter ribbon when entering; and so that tabulator stops can be used at A, B and C. However, vertical spacing should be in multiples of 1/6” to fit the typewriter
+In this revised layout captions are placed in the top left corner of each panel so that they will not be obscured by the typewriter ribbon when entering; and so that tabulator stops can be used at A, B and C. However, vertical spacing should be in multiples of 1/6&Prime; to fit the typewriter
 
 ![](3.jpg)
 
