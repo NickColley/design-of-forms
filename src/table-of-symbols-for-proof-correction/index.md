@@ -45,29 +45,6 @@ underlined).
 
 (Words in italics in the marginal marks column are instructions and not part of the marks)
 
-<style>
-    .table-symbols table {
-        border-collapse: collapse;
-        font-size: 1rem;
-    }
-    .table-symbols th,
-    .table-symbols td {
-        border: 1px solid;
-    }
-    .table-symbols th:first-child,
-    .table-symbols td:first-child {
-        border-left: 0;
-    }
-    .table-symbols th:last-child,
-    .table-symbols td:last-child {
-        border-right: 0;
-    }
-    .table-symbols img {
-        max-width: 2em;
-        max-height: 1.5em;
-        vertical-align: middle;
-    }
-</style>
 <div class="table-symbols">
 
 | No. | Instruction | Textual mark | Marginal mark |

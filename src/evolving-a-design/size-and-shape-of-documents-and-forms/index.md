@@ -75,36 +75,6 @@ sizes approved by the British Standards Institution.
 The sub-divisions of printing and writing papers most frequently used are as
 follows:
 
-
-<style>
-    .table-size-and-shape table {
-        border-collapse: collapse;
-        border-bottom: 1px solid;
-        border-top: 1px solid;
-    }
-    .table-size-and-shape thead {
-        border-bottom: 1px solid;
-    }
-    .table-size-and-shape th:not(:first-child),
-    .table-size-and-shape td:not(:first-child) {
-        border-left: 1px solid;
-    }
-    .table-size-and-shape td:not(:first-child) {
-        white-space: nowrap;
-        text-align: center;
-    }
-    
-    .table-size-and-shape td {
-        padding-top: .1rem;
-        padding-bottom: .1rem;
-    }
-    .table-size-and-shape tr:first-child * {
-        padding-top: 1rem;
-    }
-    .table-size-and-shape tr:last-child * {
-        padding-bottom: 1rem;
-    }
-</style>
 <div class="table-size-and-shape">
 
 #### Printing papers

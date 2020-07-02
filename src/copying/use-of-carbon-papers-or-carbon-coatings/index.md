@@ -114,42 +114,6 @@ made through cards on an Underwood Elliot Fisher flat-bed machine.
 
 When it is intended to obtain copies on papers of other than ‘standard’ weights and
 
-<style>
-    .table-carbon-papers table {
-        border-collapse: collapse;
-        border-bottom: 1px solid;
-        border-top: 1px solid;
-    }
-    .table-carbon-papers thead {
-        border-bottom: 1px solid;
-    }
-    .table-carbon-papers th:not(:first-child),
-    .table-carbon-papers td:not(:first-child) {
-        border-left: 1px solid;
-    }
-    .table-carbon-papers td:not(:first-child):not(:last-child) {
-        white-space: nowrap;
-        text-align: center;
-    }
-    
-    .table-carbon-papers td {
-        padding-top: .1rem;
-        padding-bottom: .1rem;
-    }
-    .table-carbon-papers tr:first-child * {
-        padding-top: 1rem;
-    }
-    .table-carbon-papers tr:last-child * {
-        padding-bottom: 1rem;
-    }
-    /* TODO: Is there a way to do this in markup? */
-    .table-carbon-papers tbody tr:nth-child(4) td,
-    .table-carbon-papers tbody tr:nth-child(8) td,
-    .table-carbon-papers tbody tr:nth-child(15) td,
-    .table-carbon-papers tbody tr:nth-child(19) td {
-        border-bottom: 1px solid;
-    }
-</style>
 <div class="table-carbon-papers">
 
 #### Carbon papers

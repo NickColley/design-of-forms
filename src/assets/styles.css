@@ -378,3 +378,97 @@ th, td {
 .sans-serif {
   font-family: var(--font-family-sans-serif);
 }
+
+/* TODO: Deduplcate tables once I know all the tables we have */
+
+/* /copying/use-of-carbon-papers-or-carbon-coatings */
+
+.table-carbon-papers table {
+    border-collapse: collapse;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+}
+.table-carbon-papers thead {
+    border-bottom: 1px solid;
+}
+.table-carbon-papers th:not(:first-child),
+.table-carbon-papers td:not(:first-child) {
+    border-left: 1px solid;
+}
+.table-carbon-papers td:not(:first-child):not(:last-child) {
+    white-space: nowrap;
+    text-align: center;
+}
+
+.table-carbon-papers td {
+    padding-top: .1rem;
+    padding-bottom: .1rem;
+}
+.table-carbon-papers tr:first-child * {
+    padding-top: 1rem;
+}
+.table-carbon-papers tr:last-child * {
+    padding-bottom: 1rem;
+}
+/* TODO: Is there a way to do this in markup? */
+.table-carbon-papers tbody tr:nth-child(4) td,
+.table-carbon-papers tbody tr:nth-child(8) td,
+.table-carbon-papers tbody tr:nth-child(15) td,
+.table-carbon-papers tbody tr:nth-child(19) td {
+    border-bottom: 1px solid;
+}
+
+/* evolving-a-design/size-and-shape-of-documents-and-forms */
+
+
+.table-size-and-shape table {
+  border-collapse: collapse;
+  border-bottom: 1px solid;
+  border-top: 1px solid;
+}
+.table-size-and-shape thead {
+  border-bottom: 1px solid;
+}
+.table-size-and-shape th:not(:first-child),
+.table-size-and-shape td:not(:first-child) {
+  border-left: 1px solid;
+}
+.table-size-and-shape td:not(:first-child) {
+  white-space: nowrap;
+  text-align: center;
+}
+
+.table-size-and-shape td {
+  padding-top: .1rem;
+  padding-bottom: .1rem;
+}
+.table-size-and-shape tr:first-child * {
+  padding-top: 1rem;
+}
+.table-size-and-shape tr:last-child * {
+  padding-bottom: 1rem;
+}
+
+/* table-of-symbols-for-proof-correction */
+
+.table-symbols table {
+  border-collapse: collapse;
+  font-size: 1rem;
+}
+.table-symbols th,
+.table-symbols td {
+  border: 1px solid;
+}
+.table-symbols th:first-child,
+.table-symbols td:first-child {
+  border-left: 0;
+}
+.table-symbols th:last-child,
+.table-symbols td:last-child {
+  border-right: 0;
+}
+.table-symbols img {
+  max-width: 2em;
+  max-height: 1.5em;
+  vertical-align: middle;
+}
