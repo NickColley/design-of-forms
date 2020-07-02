@@ -472,3 +472,19 @@ th, td {
   max-height: 1.5em;
   vertical-align: middle;
 }
+
+/* /index */
+
+.index-list ul {
+  /* TODO: Add back semantics? */
+  list-style: none;
+}
+
+.index-list > ul {
+  column-count: 2;
+  padding-left: 0;
+}
+
+.index-list p {
+  margin-bottom: 0;
+}
