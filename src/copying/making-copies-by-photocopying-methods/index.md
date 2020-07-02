@@ -18,8 +18,7 @@ This method has advantages when:
 
 (1) It is not practicable to obtain the desired number of completed copies when the
 original entries are made, e.g. when a document is completed by a member of the
-public and it is unreasonable to expect more than one copy or because it is not prac-
-ticable to obtain all the copies required by more conventional means such as carbon
+public and it is unreasonable to expect more than one copy or because it is not practicable to obtain all the copies required by more conventional means such as carbon
 
 (2) the number of copies required varies according to circumstances
 

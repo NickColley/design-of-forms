@@ -14,8 +14,7 @@ Some factors to be taken into account are:
 
 ## Is a new form necessary?
 
-1. Can an existing form be adapted to suit the need. An existing form can some-
-times be modified in such a way to cater for slight variations, so that one form can be used on a number of occasions.
+1. Can an existing form be adapted to suit the need. An existing form can sometimes be modified in such a way to cater for slight variations, so that one form can be used on a number of occasions.
 
 2. Can an existing General Service form or accounting form with stock rulings be used (there is a range of G.S. forms available for accounts, establishment and registry work as catalogued in H.M.S.O. *List of Standard Books, Forms etc. for use in the Public Service.* Code No. 10-15-0). In some instances stock items can be overprinted to meet small departmental requirements.
 

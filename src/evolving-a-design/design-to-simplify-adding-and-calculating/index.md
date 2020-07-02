@@ -188,8 +188,7 @@ risk of error
 ![](21.jpg)
 
 
-This method of coded analysis uses a small sheet and provides proof of correct summarisa-
-tion. The sundry payments shown are treated as follows:
+This method of coded analysis uses a small sheet and provides proof of correct summarisation. The sundry payments shown are treated as follows:
 
 (1) Classify each amount in Col. 3 by placing a code number in Col. 5; this code number
 is selected from those pre-printed in Col. 8—the number in Col. 8 is crossed through when
@@ -200,8 +199,7 @@ transferred to the summary in Col. 6. (4) Multiply each code number in Col. 5 by
 of times it is used and enter the product in Col. 7 also on the same line as the corresponding
 code number of Col. 8—the tick in Col. 4 is crossed through as each code is summarised for
 Col. 7. (5) Total Cols. 6 and 7—which should agree with the totals for Cols. 3 and 5 if correct.
-With a little practice this method is easy to use. The idea can be adapted to suit require-
-ments (e.g. for a different layout, or used without pre-printed code numbers in Col. 8
+With a little practice this method is easy to use. The idea can be adapted to suit requirements (e.g. for a different layout, or used without pre-printed code numbers in Col. 8
 when more than 25 classifications are needed). Where a wide variety of transactions occur
 infrequently this method could dispense with the need for recording in several separate
 books of account

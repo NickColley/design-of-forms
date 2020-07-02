@@ -102,8 +102,7 @@ instructions precise, for example, specimens of the coloured ink or paper requir
 or of unusual punched holes. They should be cancelled and clearly marked ‘not for
 reproduction’. When the entry spaces on the form must register with those on an
 existing form, a specimen of the latter should always be provided. Samples will often
-prevent the ambiguity in instructions due to misreading of terms such as those men-
-tioned above. When forms are to be used in conjunction with mechanical posting it is
+prevent the ambiguity in instructions due to misreading of terms such as those mentioned above. When forms are to be used in conjunction with mechanical posting it is
 of great assistance to the printer if the ‘copy’ is accompanied by an actual ‘print’ from
 the machine to show column widths etc.
 
@@ -112,8 +111,7 @@ copy is given to the printer. When proofs are desired, only a small number shoul
 asked for and they should be regarded as specimens on which to decide whether the
 printer has interpreted the copy correctly; they should not be regarded as ‘fair drafts’
 of the design on which the need for further amendments can be judged more easily
-than with a hand draft. Changes at the proof stage can delay delivery and add con-
-siderably to the cost of the form in resetting type.
+than with a hand draft. Changes at the proof stage can delay delivery and add considerably to the cost of the form in resetting type.
 
 Proofs are not always printed on the same class of paper as will be used for the
 supply of copies; the appearance of proof copies is, therefore, not necessarily that of
@@ -141,8 +139,7 @@ them. The type will be reproofed and checked by the printer. These alterations w
 cost as much as 2s. 6d.
 
 A few words added or deleted may mean the respacing of a large number of words
-by the compositor, or resetting the whole paragraph, with all the subsequent opera-
-tions. Authors should consider whether the alterations are sufficiently important to
+by the compositor, or resetting the whole paragraph, with all the subsequent operations. Authors should consider whether the alterations are sufficiently important to
 warrant the cost, which in this example might be 5s.
 
 ![](2.jpg)
@@ -174,16 +171,13 @@ that he should indicate the rate of consumption and how that rate is likely to c
 in the course of (say) the next six months.
 
 If the form is likely to be reprinted, every effort should be made to see that it is in
-a final design when first reproduced, so that no alterations which are really after-
-thoughts need be made on reprinting. Production costs are reduced if the same type
+a final design when first reproduced, so that no alterations which are really afterthoughts need be made on reprinting. Production costs are reduced if the same type
 etc. can be used again, and if repeat orders are likely after a certain period this should
 be stated. The type-standing procedure is explained more fully in H.M. Stationery
 Office Guide, Part 1: Notes for Clerks of Stationery. If at any time it is proposed that a
 
 
-form, previously printed, should in future be reproduced by a Departmental Repro-
-duction Service, H.M.S.O. should be informed so that any printing contract arrange-
-ments can be altered.
+form, previously printed, should in future be reproduced by a Departmental Reproduction Service, H.M.S.O. should be informed so that any printing contract arrangements can be altered.
 
 Where a new form is required for an important new procedure, it may be wiser to
 assume that experience of using the form will show that minor changes in design are
@@ -215,8 +209,7 @@ replenishment of any particular item should bring the stock up to the maximum
 holding quantity having regard to any quantities due to be delivered against any
 outstanding demand.
 
-THE DELIVERY DATE and place of delivery should be stated, including the quan-
-tities required on various dates if delivery will be spread over a period. When a new
+THE DELIVERY DATE and place of delivery should be stated, including the quantities required on various dates if delivery will be spread over a period. When a new
 form involves a major change in procedure, or a changeover to machine working,
 forms must be delivered in adequate time beforehand so that staff will have an
 opportunity to familiarise themselves with the new arrangements. Items such as

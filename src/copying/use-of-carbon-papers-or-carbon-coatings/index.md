@@ -17,10 +17,8 @@ USE OF CARBON PAPERS OR CARBON COATINGS
 ### Carbon papers
 
 Various grades of paper and carbon paper, suitable for different methods of entry
-and yielding different numbers of copies are obtainable. For good results it is impor-
-tant to ensure that the right kind of carbon paper is used with a suitable paper, both
-when trying out new ideas and for the finished forms. Slight differences in the per-
-formance of carbon papers may occur from time to time, and it may be necessary to
+and yielding different numbers of copies are obtainable. For good results it is important to ensure that the right kind of carbon paper is used with a suitable paper, both
+when trying out new ideas and for the finished forms. Slight differences in the performance of carbon papers may occur from time to time, and it may be necessary to
 make some allowance for these unavoidable manufacturing variations. When necessary
 H.M. Stationery Office should be consulted on special technical points about the
 matching of suitable papers for copying purposes.
@@ -210,11 +208,9 @@ copies respectively.
 ### Carbon coating
 
 The carbon-coated type of form can be used when ordinary carbon paper is not
-suitable for making manifold entries, for example when it is necessary to avoid inter-
-leaving with separate sheets of carbon paper or when certain entries only are required.
+suitable for making manifold entries, for example when it is necessary to avoid interleaving with separate sheets of carbon paper or when certain entries only are required.
 
-Production facilities for carbon-coated forms are limited because only a few manu-
-facturers undertake this work. They are about two-thirds more costly than forms used
+Production facilities for carbon-coated forms are limited because only a few manufacturers undertake this work. They are about two-thirds more costly than forms used
 with ordinary carbon even when relatively large quantities are ordered. For smaller
 quantities, i.e. 50,000, the cost may be as much as three times the cost of an ordinary
 form. Accordingly H.M. Stationery Office normally require evidence of savings in
@@ -352,8 +348,7 @@ positioned correctly and easily on the next line of entry on the cheque register
 ![](5.jpg)
 
 
-Semi-continuous forms can be supplied in perforated strips (4 forms per sheet) to facili-
-tate preparation, by typewriter, of returns of certain payments. After separation the slips
+Semi-continuous forms can be supplied in perforated strips (4 forms per sheet) to facilitate preparation, by typewriter, of returns of certain payments. After separation the slips
 are used as unit documents for assembling particulars of the earnings of the individual
 recipients. Similar type forms can be produced as continuous stationery with sprocket
 holes for use in accounting machines

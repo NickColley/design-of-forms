@@ -101,8 +101,7 @@ conform to the following conditions:
 
 (1) The open (cut-out) panel must not exceed 33” in length by 1}” in width.
 
-(2) The requirements shown in (r), (2), (3), (4), in the preceding paragraph con-
-cerning transparent panels.
+(2) The requirements shown in (r), (2), (3), (4), in the preceding paragraph concerning transparent panels.
 
 (3) A minimum space of at least half an inch must be left within the sides and base
 of the cut-out panel and the respective edges of the envelopes.
@@ -127,8 +126,7 @@ ub 8 73° For use with used non-economy
 43 X 83 7-30
 72 X3r 7-31
 32X4 7-38 For use with C7 envelopes
-* These larger sizes may be used as wrappers for circulars and correspondence of a non-
-permanent character without the use of envelopes.
+* These larger sizes may be used as wrappers for circulars and correspondence of a nonpermanent character without the use of envelopes.
 It may sometimes be necessary to consider certain features of mail handling
 equipment:
 (1) ENVELOPE OPENING MACHINES: the size of the document and envelope

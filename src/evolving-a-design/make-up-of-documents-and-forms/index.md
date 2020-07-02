@@ -15,8 +15,7 @@ comprise one form, and the way in which a number of forms are made up into
 MULTI-PART FORMS consist of several separate sheets; these may be folded sheets,
 sheets of different size, with or without perforations and punched holes, and may be
 joined and held together by folding, stapling, gumming, or stitching according to the
-requirements for making entries at different stages, and the need for accurate registra-
-tion for each entry (see Section entitled ‘Registration of entries by carbon’). If entries
+requirements for making entries at different stages, and the need for accurate registration for each entry (see Section entitled ‘Registration of entries by carbon’). If entries
 are to be made by typewriter, stapling cannot be conveniently used and it may be
 worthwhile to gum sets of forms at the top so that corrections by erasing may be made
 without removing the form from the machine.
@@ -56,8 +55,7 @@ forms. Points to note are:
 
 (4) When the fixed leaves are used to take a carbon copy of the entries, they
 need not be printed if the entries are intelligible without captions; both sides of the
-fixed leaf can be used (so saving paper) by adopting one of the following two arrange-
-ments—the book can be used first from front to back, and then turned over and used
+fixed leaf can be used (so saving paper) by adopting one of the following two arrangements—the book can be used first from front to back, and then turned over and used
 from back to front; or the book can be used from front to back only and entries
 made alternately on the right and left hand pages of an opening. (Two removable
 sheets and a fixed sheet for opening.)
@@ -65,16 +63,14 @@ sheets and a fixed sheet for opening.)
 (5) Registration of copies is moderately good.
 
 PUNCHED HOLES may be needed for filing, sorting, selecting, or signalling purposes.
-Various kinds of slotted holes can be made to enable documents to be inserted or with-
-drawn from a binder or file unit etc. without removing other documents. (The
+Various kinds of slotted holes can be made to enable documents to be inserted or withdrawn from a binder or file unit etc. without removing other documents. (The
 strength of the material must be determined in the light of the frequency of removal
 from the binder.) When forms are to be produced on office duplicators, holes should be
 punched after duplicating.
 
 PERFORATIONS of two distinct kinds can be obtained. Machine perforation is
 undertaken separately, after printing. The perforation may be slots or round holes in
-various sizes. Alternatively, the form may be perforated at press. In this case the per-
-forating forms part of the printing process. It is less costly than machine perforation.
+various sizes. Alternatively, the form may be perforated at press. In this case the perforating forms part of the printing process. It is less costly than machine perforation.
 It is preferable to explain to H.M. Stationery Office what requirements the perforation
 must meet, since the style used may depend on production facilities.
 
@@ -104,8 +100,7 @@ generally advantageous when totals have to be carried forward from one side of t
 form to a grand total on the other side, or when a figure entry on one side of the form
 can be copied from the other side by turning or lifting the edge of the form; for some
 
-jobs ‘tumbler’ printing may be the natural method of handling or turning the docu-
-ments. It is useful when forms are held vertically in a tray or bound at top or bottom.
+jobs ‘tumbler’ printing may be the natural method of handling or turning the documents. It is useful when forms are held vertically in a tray or bound at top or bottom.
 
 ROUNDED CORNERS instead of square corners help to keep the forms in better
 condition when exceptional conditions make this rather expensive refinement desirable.
@@ -136,8 +131,7 @@ into relief and break up the pattern
 ### Continuous stationery
 
 Forms made up as continuous stationery are in common use on many types of
-machines; indeed they may be essential to gain the maximum advantage from mecha-
-nisation. They facilitate a continuous and rapid output from the machine: they also
+machines; indeed they may be essential to gain the maximum advantage from mechanisation. They facilitate a continuous and rapid output from the machine: they also
 save time by reducing the work involved in interleaving and extracting carbon paper.
 Semi-continuous stationery in strips or perforated sheets like postage stamps may also
 facilitate the handling of small documents such as receipts or gummed labels.
@@ -151,8 +145,7 @@ between each set of forms.
 Continuous stationery facilitates the rapid feeding of forms into manifold registers,
 typewriters, accounting machines, and addressing equipment, since the next form
 can be pulled through to the printing position before the previous form is torn off.
-Another advantage is that one or more copies of the form can be retained in a con-
-tinuous strip, which may make the storage of such copies more secure, as well as
+Another advantage is that one or more copies of the form can be retained in a continuous strip, which may make the storage of such copies more secure, as well as
 preserving them in the order of making out.
 
 Strips of continuous forms can be designed for use with an ordinary typewriter and
@@ -170,8 +163,7 @@ set for use in a register is normally six. With some registers a security copy o
 can be retained in a locked compartment.
 
 Except for forms in short strips of say 2 or 3 feet, most types of continuous forms
-must be printed on reels of paper on rotary presses, a method which is only econo-
-nomical for long runs (say 50,000 forms or more). Printing from rotary presses
+must be printed on reels of paper on rotary presses, a method which is only econonomical for long runs (say 50,000 forms or more). Printing from rotary presses
 restricts the depth of the forms, but varying widths of parts can be provided so that
 data can be omitted from some copies, or to suit the filing equipment etc.
 
@@ -180,8 +172,7 @@ the same quality of paper. Sets of forms made up in strips can be printed on dif
 grades of paper, e.g. thin paper for the top copy to facilitate carbon copying on an
 under copy of more durable paper retained for reference.
 
-Apart from the simpler kinds of strips of forms or perforated sheets of labels, pro-
-duction facilities for continuous stationery are limited and it is advisable to consult
+Apart from the simpler kinds of strips of forms or perforated sheets of labels, production facilities for continuous stationery are limited and it is advisable to consult
 H.M. Stationery Office at an early stage.
 
 Continuous stationery usually costs more than separate forms or padded stationery.

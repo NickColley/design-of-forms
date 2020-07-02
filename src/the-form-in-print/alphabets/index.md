@@ -21,8 +21,7 @@ to read than capitals in long lines. For two or more lines to be read together l
 is always better than capitals: compare pages 126 and 127.
 
 Small capitals may be used for occasional emphasis or minor headings, and capitals
-reserved for the more important headings. However, capitals do not invariably domi-
-nate lower case. T'ypographers frequently reverse the traditional order by having a
+reserved for the more important headings. However, capitals do not invariably dominate lower case. T'ypographers frequently reverse the traditional order by having a
 main heading in large capitals and lower case, and the small heading in capitals as
 on [page 112](/the-form-in-print/the-layout-of-the-printed-matter/). Much depends on the length of wording in the respective lines.
 

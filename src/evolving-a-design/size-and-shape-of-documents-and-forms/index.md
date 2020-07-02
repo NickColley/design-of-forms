@@ -10,8 +10,7 @@ pageNumber:
 
 The following factors particularly affect the size and shape of documents:
 
-(1) There are advantages in restricting the forms used in one department to a com-
-paratively few ‘standard’ sizes. Folders, binders, filing cabinets and other equipment
+(1) There are advantages in restricting the forms used in one department to a comparatively few ‘standard’ sizes. Folders, binders, filing cabinets and other equipment
 in which form size is relevant can then be used more effectively and ‘stock’ items such
 as carbon paper and envelopes will be needed in fewer sizes.
 
@@ -27,8 +26,7 @@ carriage actually available at the point where the form is completed.
 it more difficult to face them up in the same direction. Large forms, especially if they
 are long and narrow, are awkward to sort unless they are folded.
 
-(5) Whenever possible the form should fit one of the stock sizes of envelopes avail-
-able to make for the utmost economy in envelope production. Small folds in the form
+(5) Whenever possible the form should fit one of the stock sizes of envelopes available to make for the utmost economy in envelope production. Small folds in the form
 should be avoided. Most folding machines fold one way at a time and all folds should
 therefore be arranged in the same direction as far as this is possible.
 
@@ -48,15 +46,12 @@ latter are now coming into greater use in the United Kingdom. The International 
 series consists of a logically-planned range of trimmed sizes formed in such a manner
 that each size is obtained by dividing the one immediately above it into two equal parts,
 the division being parallel to the shorter side. The ‘basic’ size has an area of one square
-metre. The most widely used sizes are A4, measuring 210 mm. x 297 mm. (approxi-
-mately 81” x 113”) which can replace the traditional British 8” x 10” and 8” x 13” sizes,
+metre. The most widely used sizes are A4, measuring 210 mm. x 297 mm. (approximately 81” x 113”) which can replace the traditional British 8” x 10” and 8” x 13” sizes,
 and As which is exactly half the size of A4. By halving or doubling these sizes one
 obtains an A size to meet virtually any requirements from a sizeable poster to a small
 visiting card. There is, in addition, a subsidiary B series for special requirements.
 
-A4 and As sizes have now been standardised for official letter paper (see Letter-
-headings for the Public Service: H.M. Stationery Office: 1959) and so far as correspon-
-dence is concerned, the usual foolscap files will accommodate the A size of papers. The
+A4 and As sizes have now been standardised for official letter paper (see Letterheadings for the Public Service: H.M. Stationery Office: 1959) and so far as correspondence is concerned, the usual foolscap files will accommodate the A size of papers. The
 common 9g” x4” envelope is quite suitable for several A sheets folded in four across
 their width. Most of the current office duplicating and other equipment can handle
 A4 without difficulty, but some A sizes do not suit current machines. A general change
@@ -68,8 +63,7 @@ When designing forms which will be used mainly by business and commercial
 organisations (e.g. order forms, invoices, delivery notes, packing slips, advice notes
 and statements of account) the size and layout of these documents should conform to
 British Standard 1808:1951 Sizes and Recommended Layout of Commercial Forms,
-whenever official requirements permit this. This Standard specifies the overall dimen-
-sions of this type of form, and the position for the main blocks of information, but does
+whenever official requirements permit this. This Standard specifies the overall dimensions of this type of form, and the position for the main blocks of information, but does
 not attempt to lay down precise rulings or spacings. The Standard does not necessarily
 apply to continuous stationery.
 
@@ -148,10 +142,8 @@ Letter/note paper is supplied in the sizes A5 (5$” x 8}” approx.) and A4 (8}
 
 ### H.M.S.O. stock paper sizes
 
-Two grades of duplicating paper are supplied by H.M. Stationery Office—Semi-
-absorbent and Grade A. Five coloured papers are also stocked, blue, pink, green,
-yellow, and orange, all of which are semi-absorbent. For statistical records and docu-
-ments which are not to be written on, the semi-absorbent paper may be used generally,
+Two grades of duplicating paper are supplied by H.M. Stationery Office—Semiabsorbent and Grade A. Five coloured papers are also stocked, blue, pink, green,
+yellow, and orange, all of which are semi-absorbent. For statistical records and documents which are not to be written on, the semi-absorbent paper may be used generally,
 but if the work is to be signed afterwards or any writing to be added, the Grade A
 paper should be used. Non-absorbent papers can be used for duplicating (e.g. writing
 papers) but this involves interleaving with ordinary blotting paper to dry the ink as

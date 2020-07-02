@@ -109,8 +109,7 @@ Assembling data
 
 A record of the procedures involved in the use of the form, setting out in sequence
 
-all the operations concerned, will establish the facts and aid analysis. Usually a narra-
-tive, step by step, record is adequate, but sometimes other forms of record or chart are
+all the operations concerned, will establish the facts and aid analysis. Usually a narrative, step by step, record is adequate, but sometimes other forms of record or chart are
 
 ## COLLECTING, ASSEMBLING AND ANALYSING RELEVANT INFORMATION
 

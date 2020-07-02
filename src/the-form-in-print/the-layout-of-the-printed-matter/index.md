@@ -18,8 +18,7 @@ in his instructions a sketch of the form as he intends it to appear in print.
 
 The sketch should be drawn to the correct size and should indicate exactly how it is
 proposed the items on the form should be positioned and spaced. The sketch should
-ensure that the required material—in the chosen type face—will fit the space avail-
-able. (If the form is an old one which is to be changed only to a minor extent, it should
+ensure that the required material—in the chosen type face—will fit the space available. (If the form is an old one which is to be changed only to a minor extent, it should
 be possible to use a copy of the old form, suitably annotated in place of the sketch.)
 
 The drafting of a form will be started by considering any fixed features such as those

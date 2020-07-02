@@ -10,8 +10,7 @@ pageNumber:
 
 Postal folders, cards and labels can be designed for ‘two-way’ use. Forms designed as
 a postal folder not only eliminate a covering letter, but also cut out the cost and work
-involved in using envelopes; they are particularly suitable when the information trans-
-mitted is not confidential, and when the folder makes it easier for the recipient to deal
+involved in using envelopes; they are particularly suitable when the information transmitted is not confidential, and when the folder makes it easier for the recipient to deal
 with the reply in this way.
 
 Folding marks and folding instructions on the form should be printed where they

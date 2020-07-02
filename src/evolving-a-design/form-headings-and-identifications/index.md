@@ -24,16 +24,14 @@ numbers in the top right hand corner of a card index etc.
 
 All forms used by the public or those handled or distributed by the Post Office, or
 HM. Stationery Office on behalf of departments require the name of the originating
-department to facilitate identification. On many of these forms the name of the depart-
-ment is best placed at the top of the form, but should not be prominent enough to
+department to facilitate identification. On many of these forms the name of the department is best placed at the top of the form, but should not be prominent enough to
 overshadow the form title; it can appear in smaller type than that used for the form
 title and need not always be placed in the centre at the top of the form.
 
 If the originating department’s address is included to show where the form or
 enquiries are to be sent, it may be possible to eliminate or reduce separate reference
 to the name of the department elsewhere on the form, e.g. when the departmental
-address appears on a postal folder form, or when the address is included in an instruc-
-tion near the heading.
+address appears on a postal folder form, or when the address is included in an instruction near the heading.
 
 A form-numbering system aids storage and distribution. A form number may also
 help members of the public-to distinguish one form from another of similar appearance.
@@ -65,8 +63,7 @@ sorting or selection easier and the form of the symbol and its position on the f
 depend on its purpose.
 
 The use of the Garter Arms, St. Edward’s Crown, the Royal Emblem, or a
-departmental badge may provide a useful distinguishing ‘trade mark’ for some docu-
-ments, or enhance the appearance of certain forms used by the public; advice about
+departmental badge may provide a useful distinguishing ‘trade mark’ for some documents, or enhance the appearance of certain forms used by the public; advice about
 
 ![](1.jpg)
 
