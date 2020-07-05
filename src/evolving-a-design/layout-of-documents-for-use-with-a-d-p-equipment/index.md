@@ -12,7 +12,7 @@ The general approach to the design and layout of documents needed for automatic 
 
 The design of documents used for the output of A.D.P. machines is generally influenced by the features of the particular equipment used. As with other machines, it is a matter of designing a document which, although subject to the limitations imposed by the machine itself, serves the purposes of the recipient of the document satisfactorily.
 
-![](1.jpg)
+![]({{ page.url }}1.jpg)
 
 This form was designed for submission as a requisition for up to 25 different items. It has
 the following special features:
@@ -29,4 +29,4 @@ the following special features:
 
 A clerical check would cover the reason for demand, or authority for issue, and that the demand was signed by a responsible officer of appropriate rank. The computer would check to see whether the latest vocabulary reference number had been quoted, whether this number agreed with the designation, or whether the quantity demanded was a multiple of the primary packaged quantity. Receipt vouchers would also be dealt with by the computer. The card punching would be done after the clerical scrutiny and coding
 
-![](2.jpg)
+![]({{ page.url }}2.jpg)

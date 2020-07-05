@@ -32,18 +32,18 @@ When items are being totalled at the foot of the column, the space required for 
 
 2. By staggering £ s. d. totals at the foot of the column.
 
-![](1.jpg)
+![]({{ page.url }}1.jpg)
 
 Headings for narrow columns arranged diagonally—sometimes saves space and makes for easier reading
 
-![](2.jpg)
+![]({{ page.url }}2.jpg)
 
 Adequate space should be provided at the foot of a form for the tails of letters in a signature placed near the bottom edge
 
-![](3.jpg)
+![]({{ page.url }}3.jpg)
 
 One column used for two related entries, thereby avoiding excess width in a columnar form
 
-![](4.jpg)
+![]({{ page.url }}4.jpg)
 
 Methods of providing extra space for a total of entries in narrow columns

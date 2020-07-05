@@ -114,13 +114,13 @@ withdrawn simultaneously by gripping and pulling the visible corners of the carb
 paper. The top right hand corner of a card may be cut diagonally to facilitate the
 detection of a card missorted or wrongly filed.
 
-![](1.jpg)
+![]({{ page.url }}1.jpg)
 
 Cut corners may help to detect mis-sorts or missing documents, or facilitate the extraction
 of carbon papers in one pulling operation
 
 
-![](2.jpg)
+![]({{ page.url }}2.jpg)
 
 On this combined record of Allocations, Dues In, and Stocks, the space at the top edge
 can be clipped to assist selection of a particular class of cards, or coloured signal clips
@@ -178,7 +178,7 @@ H.M. Stationery Office at an early stage.
 Continuous stationery usually costs more than separate forms or padded stationery.
 The additional costs must be justified by the procedural savings made.
 
-![](3.jpg)
+![]({{ page.url }}3.jpg)
 
 
 Make-up of continuous stationery.
@@ -188,7 +188,7 @@ Illustrations B and D_ show the ‘interfold’
 method in which copies of the same
 form are not joined together
 
-![](4.jpg)
+![]({{ page.url }}4.jpg)
 
 
 Continuous stationery for machines can be made up in packs, with that number of forms

@@ -21,20 +21,20 @@ As precision printing cannot always be guaranteed, where possible a reasonable l
 
 A type of continuous stationery provides for the creation of an address stencil in the process of typing other documents, e.g. a set of invoice/advice notes. This stencil is then used to imprint addresses on packages or other documents.
 
-![](1.jpg)
+![]({{ page.url }}1.jpg)
 
 Subscribers’ particulars are entered simultaneously in four places on this set of documents by one impression of the addressing plate. The two-ply form, edge gummed at the bottom, is printed on NCR paper and consists of a statement of account and counterfoil (top sheet) and ledger sheet and stub (bottom sheet). Perforations facilitate separation of the counterfoil from the statement and the stub from the ledger sheet
 
-![](2.jpg)
+![]({{ page.url }}2.jpg)
 
 Address plate entries on several related forms. The complete impression of six lines is shown on the Earnings Record
 Form (bottom). The first line has been masked for the five line impression on the Clock Card (top left) and Pay Envelope (top right) from which the dates of birth and appointment etc. are also omitted.
 On the Pay Sheet (centre) an impression has been taken from the first line only
 
-![](3.jpg)
+![]({{ page.url }}3.jpg)
 
 ABOVE: shaded rectangles represent a stencil in the address position
 
-![](4.jpg)
+![]({{ page.url }}4.jpg)
 
 Addressing stencil attached to continuous stationery; cut when typing basic data, enabling that data to be imprinted on a series of other documents

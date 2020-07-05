@@ -65,7 +65,7 @@ depend on its purpose.
 The use of the Garter Arms, St. Edward’s Crown, the Royal Emblem, or a
 departmental badge may provide a useful distinguishing ‘trade mark’ for some documents, or enhance the appearance of certain forms used by the public; advice about
 
-![](1.jpg)
+![]({{ page.url }}1.jpg)
 
 If the heading of a form is cluttered up with detail it may make it look forbidding and unnecessarily complicated (1, 2 and 3); if a title can be introduced as a simple and clear heading the form may have a more effective impact on those who use it (4 and 5); the name of the department rarely needs to be very prominent and a title indicating the purpose of the form would have been better than a series of references to laws (6) using the Royal Arms, the Scottish Royal Arms, the Arms of Northern Ireland and the Welsh Garter, is given in H.M. Stationery Office Guide: Part 2, Standards for Authors and Printers.
 
@@ -78,7 +78,7 @@ The printing of serial numbers (with or without prefixes), in sequence upon each
 
 <figure>
 
-![](2.jpg)
+![]({{ page.url }}2.jpg)
 
 <figcaption>
 Copies of a form distinguished by bold numbers. The serial number of the set is repeated on these five forms. All copies printed throughout in black ink
