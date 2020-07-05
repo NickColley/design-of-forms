@@ -214,16 +214,16 @@ details > summary + * {
   margin-top: 1rem;
 }
 
-main > figure > p > img,
-main td > img,
-main > p > img {
+main > figure > p > picture > img,
+main td > picture > img,
+main > p > picture > img {
   mix-blend-mode: darken;
 }
 
 @media only screen and (max-width: 900px) {
-  main > figure > p > img,
-  main td > img,
-  main > p > img {
+  main > figure > p > picture > img,
+  main td > picture > img,
+  main > p > picture > img {
     max-width: 100%;
     height: auto;
   }
