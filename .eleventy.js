@@ -1,4 +1,5 @@
 const { groupByNested, sortNested } = require('./lib/filters.js')
+const markdown = require('./markdown.js')
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/assets")
@@ -9,7 +10,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addNunjucksFilter("groupByNested", groupByNested)
     eleventyConfig.addNunjucksFilter("sortNested", sortNested)
 
-    eleventyConfig.setLibrary("md", require('./markdown.js'))
+    eleventyConfig.setLibrary("md", markdown)
 
     return {
         dir: {
