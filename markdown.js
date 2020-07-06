@@ -23,12 +23,13 @@ function imageSizeAttributes(markdown, options) {
             token.attrSet('width', width)
             token.attrSet('height', height)
           }
+          token.attrSet('id', 'image-' + imageSource.replace(/.*\/(.+)\.jpg/g, '$1'))
           token.attrSet('loading', 'lazy')
       }
 
       return `
 <picture>
-<source srcset="${imageSource.replace('.jpg', '.webp')}" type="image/webp">
+<!-- <source srcset="${imageSource.replace('.jpg', '.webp')}" type="image/webp"> -->
 ${defaultImageRenderer(tokens, index, options, env, self)}
 </picture>
 `

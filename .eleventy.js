@@ -1,5 +1,9 @@
+const fg = require('fast-glob');
+
 const { groupByNested, sortNested } = require('./lib/filters.js')
 const markdown = require('./markdown.js')
+
+const galleryImages = fg.sync(['**/*.jpg', '!**/_site']);
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/assets")
@@ -12,6 +16,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addNunjucksFilter("sortNested", sortNested)
 
     eleventyConfig.setLibrary("md", markdown)
+    eleventyConfig.addCollection('gallery', () => galleryImages.map(image => image.replace('src/', '/')))
 
     return {
         dir: {
