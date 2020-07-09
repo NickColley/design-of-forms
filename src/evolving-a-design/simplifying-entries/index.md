@@ -25,46 +25,46 @@ If it is anticipated that most of the answers to a series of questions will cons
 
 Rubber stamps to imprint official entries or entry spaces may save space on the form and help to simplify its printed appearance. The position of these entry spaces should facilitate turning over the forms for repetitive stamping; and should reduce the danger of obscuring other entries by faulty stamping.
 
-![](1.jpg)
+![]({{ page.url }}1.jpg)
 
 Captions should be placed close to the boxes to avoid confusion and error
 
-![](2.jpg)
+![]({{ page.url }}2.jpg)
 
 It may be difficult to relate entries to captions when they are placed between boxes
 
-![](3.jpg)
+![]({{ page.url }}3.jpg)
 
 
 A mixture of methods indicating a choice may lead to errors in completing the form
 
-![](4.jpg)
+![]({{ page.url }}4.jpg)
 
 The arrangement on the left is (in each case) preferable and reduces the need for an
 instruction about deleting words not applicable
 
-![](5.jpg)
+![]({{ page.url }}5.jpg)
 
 Choice is indicated by an X in the selected box(es). Rearrangement would avoid repetition
 of the words ‘Save’ and ‘Improve’
 
-![](6.jpg)
+![]({{ page.url }}6.jpg)
 
 Unless the place for putting a cross is specified, errors can arise in relating the entry to
 the caption. A box avoids this difficulty
 
-![](7.jpg)
+![]({{ page.url }}7.jpg)
 See also the illustration of a hospital form created by dyeline copying, [page 146](/copying/making-copies-by-photocopying-methods/)
 
-![](8.jpg)
+![]({{ page.url }}8.jpg)
 
 Methods of indicating a choice between alternatives
 
-![](9.jpg)
+![]({{ page.url }}9.jpg)
 
 Methods of indicating a choice between alternatives
 
-![](10.jpg)
+![]({{ page.url }}10.jpg)
 
 A duplicated form: note the clear and friendly instructions given to disabled persons
 completing this form and the method adopted for recording alternative answers

@@ -16,7 +16,7 @@ The standard sizes combine well together thus—one line of 72 point type will a
 fit in perfectly alongside two of 36 point, four of 18 point, six of 12 point, eight of
 9 point etc.
 
-![](1.jpg)
+![]({{ page.url }}1.jpg)
 
 Type is composed either by hand or machine. With machine composition it is not
 practicable freely to mix a number of type faces (or sizes) on one line.

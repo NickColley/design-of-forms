@@ -10,7 +10,7 @@ pageNumber:
 
 If the form will be duplicated the type faces available can be used to give varying degrees of emphasis.
 
-![](1.jpg)
+![]({{ page.url }}1.jpg)
 
 It is important, however, not to be too lavish with emphasis. If there is both underlining and capital letters for minor items there will be insufficient means of emphasising the major ones.
 
@@ -20,8 +20,8 @@ Special typewriters are manufactured which have a range of interchangeable type 
 
 *(a) Suitable for stencil-typing or photolitho reproduction*
 
-![](2.jpg)
+![]({{ page.url }}2.jpg)
 
 *(b) Suitable for photolitho reproduction only*
 
-![](3.jpg)
+![]({{ page.url }}3.jpg)

@@ -51,76 +51,76 @@ Various other devices assist the identification of entries and make completion o
 
 Various illustrations follow showing how the style and layout of a form can aid the identification of entries or improve the suitability of the form for the job.
 
-![](1.jpg)
+![]({{ page.url }}1.jpg)
 
 Sets of similar entries with captions printed once only. Note the use of the shading to ensure that the address is indented, thereby enabling a name to be seen more easily in a long list
 
-![](2.jpg)
+![]({{ page.url }}2.jpg)
 
 Use of stippling (a) to make a pattern to assist entry and reading (gross figures are entered in the stippled sections and the white spaces are for cumulative figures) and (6) to enable two sets of figures to be entered, distinctively, in one column
 
-![](3.jpg)
+![]({{ page.url }}3.jpg)
 
 Line numbers, and entries on the edge enable the form to be overlapped on a board for summarisation at Regional Offices. It is printed throughout in blue ink on white paper
 
-![](4.jpg)
+![]({{ page.url }}4.jpg)
 
 A line down the middle of the form can ensure a tidy arrangement of entries. But if item 20 were rearranged in three short lines of type, the central upright line could be moved to the left, thus giving more space for entries
 
-![](5.jpg)
+![]({{ page.url }}5.jpg)
 
 Disjointed and untidy appearance. Insufficient attention given to continuity in the vertical lines between entry spaces. The captions and action to be taken in completing the form are also not clear. Capitals should be used consistently (there are three errors in the lower example on [page 14](/deciding-requirements/collecting-assembling-and-analysing-relevant-information/))
 
-![](6.jpg)
+![]({{ page.url }}6.jpg)
 
 Some panel arrangements make the form look untidy and unnecessarily complex Below is a suggested restyling
 
-![](7.jpg)
-![](8.jpg)
+![]({{ page.url }}7.jpg)
+![]({{ page.url }}8.jpg)
 
 Captions placed in the top left-hand corner facilitate typing and help to keep the appearance of the form simple and tidy. An exception is a position at the bottom of the panel which would make reference to names and numbers clearer, e.g. when a panel is placed at the top edge of a form to facilitate filing and indexing
 
-![](9.jpg)
+![]({{ page.url }}9.jpg)
 
 Sample entry in one set of entry spaces instead of worded instruction for using the form
 
-![](10.jpg)
+![]({{ page.url }}10.jpg)
 
 
 Thicker lined boxes to emphasise particular entries
 
-![](11.jpg)
+![]({{ page.url }}11.jpg)
 
 Captions placed in a second position at the foot of long columns to help the eye
 
-![](12.jpg)
+![]({{ page.url }}12.jpg)
 
 The printed word ‘Continuation’ distracts the eye from the surname entry and could have been placed elsewhere, away from the reference panel
 
-![](13.jpg)
+![]({{ page.url }}13.jpg)
 
 
 Various aids to the completion of the form
 
-![](14.jpg)
+![]({{ page.url }}14.jpg)
 
 These heavy black lines have a tiring effect on the eyes and overshadow the captions because there is insufficient contrast. The substitution of some fine or dotted lines would help
 
-![](15.jpg)
+![]({{ page.url }}15.jpg)
 
 
 An example of the effective use of dotted lines for entries, with heavy lines to mark every fifth horizontal line, double thin vertical lines to divide columns, and double thick vertical lines to divide the main sections
 
-![](16.jpg)
+![]({{ page.url }}16.jpg)
 
 
 A subject, name index, or contents list of this kind does not require rows of dotted lines to guide the eye from the first to the second column. A space left after every third line avoids the distracting effect of dots and serves as a more effective guide for the eye. When there is insufficient room to provide the blank space, a line drawn after every third line of print will serve the same purpose
 
-![](17.jpg)
+![]({{ page.url }}17.jpg)
 
 
 Boxes for large numbers, dates etc. make reading and reference easier
 
-![](18.jpg)
+![]({{ page.url }}18.jpg)
 
 When a charge for each service remains constant, serially numbered sets of receipts can be provided for each denomination. This avoids detailed recording and provides a simple analysis

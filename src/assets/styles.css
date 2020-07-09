@@ -214,11 +214,19 @@ details > summary + * {
   margin-top: 1rem;
 }
 
-main > figure > p > img,
-main td > img,
-main > p > img {
-  max-width: 100%;
+main > figure > p > picture > img,
+main td > picture > img,
+main > p > picture > img {
   mix-blend-mode: darken;
+}
+
+@media only screen and (max-width: 900px) {
+  main > figure > p > picture > img,
+  main td > picture > img,
+  main > p > picture > img {
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 figure {
@@ -451,6 +459,11 @@ th, td {
 
 /* table-of-symbols-for-proof-correction */
 
+.center {
+  margin: auto;
+  display: block;
+}
+
 .table-symbols table {
   border-collapse: collapse;
   font-size: 1rem;
@@ -468,8 +481,6 @@ th, td {
   border-right: 0;
 }
 .table-symbols img {
-  max-width: 2em;
-  max-height: 1.5em;
   vertical-align: middle;
 }
 

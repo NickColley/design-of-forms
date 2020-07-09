@@ -22,10 +22,10 @@ Checking and comparing may also be assisted by the use of transparent templates,
 
 When entries are carried forward from one accounting document to another, e.g. for summarising entries on a series of accounting forms, it is sometimes helpful to auditors and new staff if each entry has by it a simple indication of its source.
 
-![](1.jpg)
+![]({{ page.url }}1.jpg)
 
 Documents designed so that the entry spaces are correctly aligned when placed side by side for checking, comparing, or copying entries from one to the other. The stub or spine of the book is provided at the top instead of the side
 
-![](2.jpg)
+![]({{ page.url }}2.jpg)
 
 Form with a mask to assist reading. Standard times are entered on the mask and after aligning the cut-out portion of the mask with the appropriate column of the attendance record, the times recorded on the attendance record are compared

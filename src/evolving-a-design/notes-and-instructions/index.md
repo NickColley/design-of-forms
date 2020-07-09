@@ -41,11 +41,11 @@ For example, a request ‘Please do not fold’ may be difficult to meet if the 
 
 Storage of the form is another factor to be considered when considering the quantity of notes and instructions. When the notes etc. are unavoidably lengthy they can sometimes be printed on a separate sheet and are then retained by the person filling in the form.
 
-![](1.jpg)
+![]({{ page.url }}1.jpg)
 
 The sketches at the bottom emphasise (with a minimum of wording) the request to pass on the document quickly
 
-![](2.jpg)
+![]({{ page.url }}2.jpg)
 
 A form used to aid analysis of injuries caused by aircraft accidents. The diagrams obviate the need for lengthy explanatory instructions about technical terms
 
@@ -70,14 +70,14 @@ Problems of this kind are a challenge to the ingenuity of the form designer and 
 
 For an internal form (or whenever a book of forms is supplied) a set of instructions (with or without specimen entries) on the inside cover of the pad etc. may facilitate the work and reduce the consumption of paper.
 
-![](3.jpg)
+![]({{ page.url }}3.jpg)
 
 When notes and instructions are placed in several different places on the form with various styles and sizes of type, the document tends to lose its simplicity and look unnecessarily complicated
 
-![](4.jpg)
+![]({{ page.url }}4.jpg)
 
 General notes and instructions are classified and grouped together in one place on the form to assist comprehension
 
-![](5.jpg)
+![]({{ page.url }}5.jpg)
 
 A layout such as this separates entry instructions from the entries overleaf and may increase the possibility of error. Turning the page to read the instruction is even more inconvenient if the form is in a typewriter. Instructions (a , (b) and (f) could be eliminated by re-wording the entry captions, thus reducing the amount of text to a minimum
