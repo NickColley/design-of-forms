@@ -14,25 +14,29 @@ function imageSizeAttributes(markdown, options) {
       const imageSource = token.attrGet('src')
       const filePath = 'src' + imageSource
       if (filePath.endsWith('.jpg') && fs.existsSync(filePath)) {
-          const dimensions = sizeOf(filePath)
-          let { width, height } = dimensions;
-          const ratio = 1
-          width = Math.floor(width / ratio)
-          height = Math.floor(height / ratio)
-          if (dimensions) {
-            token.attrSet('width', width)
-            token.attrSet('height', height)
-          }
-          token.attrSet('id', 'image-' + imageSource.replace(/.*\/(.+)\.jpg/g, '$1'))
-          token.attrSet('loading', 'lazy')
-      }
+        const dimensions = sizeOf(filePath)
+        let { width, height } = dimensions;
+        const ratio = 1
+        width = Math.floor(width / ratio)
+        height = Math.floor(height / ratio)
+        if (dimensions) {
+          token.attrSet('width', width)
+          token.attrSet('height', height)
+        }
+        token.attrSet('id', 'image-' + imageSource.replace(/.*\/(.+)\.jpg/g, '$1'))
+        token.attrSet('loading', 'lazy')
 
-      return `
-<picture>
-<!-- <source srcset="${imageSource.replace('.jpg', '.webp')}" type="image/webp"> -->
-${defaultImageRenderer(tokens, index, options, env, self)}
-</picture>
-`
+        const webpFilepath = imageSource.replace('.jpg', '.webp')
+        const webpExists = fs.existsSync(webpFilepath)
+        return `
+          <picture>
+            ${webpExists ? `<source srcset="${webpFilepath}" type="image/webp">` : ''}
+            ${defaultImageRenderer(tokens, index, options, env, self)}
+          </picture>
+        `
+      } else {
+        return defaultImageRenderer(tokens, index, options, env, self);
+      }
     };
   };
 
