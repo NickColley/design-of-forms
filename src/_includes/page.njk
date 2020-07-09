@@ -1,31 +1,31 @@
 ---
-layout: default.njk
+layout: base.njk
 ---
 
-<header class="mb8">
-    <h1>
-        <a href="/#contents">
-            The Design of Forms
-            <small class="upper spacing">in Government departments</small></a>
-        {%- if section and section != 'Back matter' -%}
-            &nbsp;–
-            <a class="inline-block upper spacing" href="/#{{ section | lower | replace(' ', '-') }}">
-                <small>
-                    {{- section -}}
-                </small></a>
-        {%- endif -%}
-        {%- if title -%}
-            &nbsp;– 
-            <small class="inline-block">
-                {{ title }}
-            </small>
-        {%- endif -%}
-    </h1>
+<header class="mb8 heading">
+    <a href="/#contents">
+        The Design of Forms
+        <small class="upper spacing">in Government departments</small></a>
+    {%- if section and section != 'Back matter' -%}
+        &nbsp;–
+        <a class="inline-block upper spacing" href="/#{{ section | lower | replace(' ', '-') }}">
+            <small>
+                {{- section -}}
+            </small></a>
+    {%- endif -%}
+    {%- if title -%}
+        &nbsp;– 
+        <small class="inline-block">
+            {{ title }}
+        </small>
+    {%- endif -%}
 </header>
 
-<h1>{{ title }}</h1>
+<main id="main" role="main">
+    <h1>{{ title }}</h1>
 
-{{ content | safe }}
+    {{ content | safe }}
+</main>
 
 <hr/>
 

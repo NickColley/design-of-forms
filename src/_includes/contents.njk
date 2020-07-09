@@ -1,30 +1,31 @@
-<span id="table-of-contents"></span>
-{% for itemSection, items in collections.page | sortNested(false, false, 'data.pageNumber.start') | groupByNested("data.section") %}
-    {% if itemSection === 'Back matter' %}
-        {% for item in items %}
-            <h3 id="{{ item.data.title | lower | replace(' ', '-') }}" class="upper mb3">
-                <a href="{{ item.url }}">
-                    {{- item.data.title -}}
-                </a>
-                {{ item.data.pageNumber.start }}
-            </h3>
-        {% endfor %}
-    {% else %}
-        <h3 id="{{ itemSection | lower | replace(' ', '-') }}" class="upper mb1">
-            {{ itemSection }}
-        </h3>
-        <dl>
+<nav id="table-of-contents">
+    {% for itemSection, items in collections.page | sortNested(false, false, 'data.pageNumber.start') | groupByNested("data.section") %}
+        {% if itemSection === 'Back matter' %}
             {% for item in items %}
-                <dt>
+                <h3 id="{{ item.data.title | lower | replace(' ', '-') }}" class="upper mb3">
                     <a href="{{ item.url }}">
                         {{- item.data.title -}}
                     </a>
-                </dt>
-                <dd>
-                    {% if itemSection === 'Introduction' %}page {% endif %}
                     {{ item.data.pageNumber.start }}
-                </dd>
+                </h3>
             {% endfor %}
-        </dl>
-    {% endif %}
-{% endfor %}
+        {% else %}
+            <h3 id="{{ itemSection | lower | replace(' ', '-') }}" class="upper mb1">
+                {{ itemSection }}
+            </h3>
+            <dl>
+                {% for item in items %}
+                    <dt>
+                        <a href="{{ item.url }}">
+                            {{- item.data.title -}}
+                        </a>
+                    </dt>
+                    <dd>
+                        {% if itemSection === 'Introduction' %}page {% endif %}
+                        {{ item.data.pageNumber.start }}
+                    </dd>
+                {% endfor %}
+            </dl>
+        {% endif %}
+    {% endfor %}
+</nav>
