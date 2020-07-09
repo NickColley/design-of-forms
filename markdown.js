@@ -16,7 +16,7 @@ function imageSizeAttributes(markdown, options) {
       if (filePath.endsWith('.jpg') && fs.existsSync(filePath)) {
         const dimensions = sizeOf(filePath)
         let { width, height } = dimensions;
-        const ratio = 1
+        const ratio = 1.3
         width = Math.floor(width / ratio)
         height = Math.floor(height / ratio)
         if (dimensions) {
@@ -27,7 +27,7 @@ function imageSizeAttributes(markdown, options) {
         token.attrSet('loading', 'lazy')
 
         const webpFilepath = imageSource.replace('.jpg', '.webp')
-        const webpExists = fs.existsSync(webpFilepath)
+        const webpExists = fs.existsSync('src' + webpFilepath)
         return `
           <picture>
             ${webpExists ? `<source srcset="${webpFilepath}" type="image/webp">` : ''}
