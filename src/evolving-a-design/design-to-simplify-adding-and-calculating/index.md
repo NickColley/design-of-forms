@@ -10,16 +10,16 @@ pageNumber:
 
 The following arrangements may help to simplify arithmetical work on documents:
 
-(1) A form designed for vertical addition and subtraction will be easier to use than
+1. A form designed for vertical addition and subtraction will be easier to use than
 one designed horizontally.
 
-(2) Items to be subtracted should be arranged below the items from which they are
+2. Items to be subtracted should be arranged below the items from which they are
 subtracted.
 
-(3) Items to be added or subtracted should be arranged in adjacent entry spaces;
+3. Items to be added or subtracted should be arranged in adjacent entry spaces;
 they should not be separated by other figures.
 
-(4) If cross casting is necessary it will be done more easily, quickly, and with fewer ,
+4. If cross casting is necessary it will be done more easily, quickly, and with fewer ,
 errors if items such as &pound; s. d., or tons, cwts., and lb. etc. are staggered diagonally;
 (this arrangement of totals on a columnar sheet need not involve the use of extra space,
 as a vertical space of &frac18;&Prime; between the horizontal lines is sufficient to provide the diagonal
@@ -38,13 +38,13 @@ forward on individual sheets.
 
 Accounting work may sometimes be facilitated by:
 
-(1) READY RECKONERS specially designed for use with the form.
+1. READY RECKONERS specially designed for use with the form.
 
-(2) CARBONISED POSTING STRIPS to provide a record of the postings made; these
+2. CARBONISED POSTING STRIPS to provide a record of the postings made; these
 strips provide a total for control purposes, and proof of posting the right amount to
 the right account.
 
-(3) ‘EXCEPTION’ OR ‘NEGATIVE’ POSTING, e.g. recording only individual
+3. ‘EXCEPTION’ OR ‘NEGATIVE’ POSTING, e.g. recording only individual
 amounts not paid, or only the items to which attention must be directed.
 
 ![]({{ page.url }}1.jpg)
@@ -164,7 +164,7 @@ devices can be used to keep the overlapped forms in position for totalling
 Arrangement of entry spaces and use of stippling to facilitate addition. In each period the
 operations are:
 
-(1) Add ‘Basic’ to ‘Total variations’ to give ‘New totals’. (2) Add ‘Permanent variations’
+1. Add ‘Basic’ to ‘Total variations’ to give ‘New totals’. (2) Add ‘Permanent variations’
 to ‘Basic’ and enter total against ‘Basic’ on the next lower set of entry spaces.
 The items have been arranged so that all additions are carried out over adjoining entry
 spaces, without jumping over entries. The entries which are relevant to one period only
@@ -190,7 +190,7 @@ risk of error
 
 This method of coded analysis uses a small sheet and provides proof of correct summarisation. The sundry payments shown are treated as follows:
 
-(1) Classify each amount in Col. 3 by placing a code number in Col. 5; this code number
+1. Classify each amount in Col. 3 by placing a code number in Col. 5; this code number
 is selected from those pre-printed in Col. 8—the number in Col. 8 is crossed through when
 first used to indicate the codes used. (2) Total the amounts and code numbers in Cols. 3 and
 5. (3) Summarise the amounts in Col. 3 for each code and enter each total in Col. 6 on the same

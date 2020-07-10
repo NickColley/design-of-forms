@@ -22,14 +22,14 @@ may be produced on the form but each requires a separate printing operation.
 
 Compared with letterpress printing the main disadvantages of the offset-litho process are:
 
-(1) Since the typewriter is the main instrument used the range of type faces and
+1. Since the typewriter is the main instrument used the range of type faces and
 sizes etc. is limited (this is so even if a Varityper is available).
 
-(2) The scope for good layout is reduced.
+2. The scope for good layout is reduced.
 
-(3) The effect of (1) and (2) is that the form tends to be larger than if printed.
+3. The effect of (1) and (2) is that the form tends to be larger than if printed.
 
-(4) ‘Finishing’ operations, e.g. folding, perforations etc. cannot always be undertaken in the reproduction unit concerned.
+4. ‘Finishing’ operations, e.g. folding, perforations etc. cannot always be undertaken in the reproduction unit concerned.
 
 STENCIL METHODS. The stencil duplicator may occasionally be suitable for the
 departmental production of very simple forms not used in large quantities. However,

@@ -36,18 +36,18 @@ PRINTING INSTRUCTIONS
 Complete instructions for the Departmental Clerk of Stationery (and, through him,
 H.M. Stationery Office) will include information on some or all of the following:
 
-(1) A draft of the form—represented by a written note of content and a sketch of
+1. A draft of the form—represented by a written note of content and a sketch of
 the layout.
 
-(2) The specification for reproducing the form.
+2. The specification for reproducing the form.
 
-(3) Samples.
+3. Samples.
 
-(4) Proofs.
+4. Proofs.
 
-(5) Supply arrangements.
+5. Supply arrangements.
 
-(6) Delivery date.
+6. Delivery date.
 
 THE DRAFT
 
@@ -64,9 +64,9 @@ draft form, but it is unwise to confuse a draft with lengthy instructions which 
 easily be given separately. ‘The instructions should be clear and concise and should be
 set out under appropriate headings, e.g.:
 
-(1) Size of the cut form
+1. Size of the cut form
 
-(2) Paper or card:
+2. Paper or card:
 
 - Grade
 - Weight
@@ -74,30 +74,30 @@ set out under appropriate headings, e.g.:
 
 These details will include the surface required for pen, or pencil etc., erasing quality
 
-(3) Make-up—e.g. Sheets, Sets, Pads, Bound Books, Stitching, Gumming, Cut
+3. Make-up—e.g. Sheets, Sets, Pads, Bound Books, Stitching, Gumming, Cut
 corners, Serial numbering etc. (In describing the make-up of books a page should
 mean either the left or right hand side of an ‘opening’; a ‘leaf’ is a sheet with a page
 on back and front.)
 
-(4) Carbon coating in bands or patches, or one-time carbon
+4. Carbon coating in bands or patches, or one-time carbon
 
-(5) Printing one or both sides of the paper: ‘tumbler’ printing or ‘head-to-head’
+5. Printing one or both sides of the paper: ‘tumbler’ printing or ‘head-to-head’
 
-(6) Lines:
+6. Lines:
 
 - Printed or pen-ruled
 - Thickness
 - Colours
 - Stippling
 
-(7) Printers’ Type:
+7. Printers’ Type:
 
 - Type faces (The choice can sometimes be left to the printer if a general indication is given)
 - Alphabets
 - Sizes
 
-(8) Ink: Colours
-(9) Punching:
+8. Ink: Colours
+9. Punching:
 
 - Shape of holes
 - Size
@@ -206,13 +206,13 @@ H.M. Stationery Office ‘Maximum Holding System’. A maximum holding should be
 established for each item held in each Stationery Store, the holding being assessed on
 the following basis:
 
-(1) An estimate of the quantity likely to be used during the period for which the
+1. An estimate of the quantity likely to be used during the period for which the
 demand for replenishment of stock is normally placed.
 
-(2) An amount to cover the estimated consumption of the item for the period it
+2. An amount to cover the estimated consumption of the item for the period it
 normally takes for the goods to be delivered.
 
-(3) A working reserve (as a general guide an amount equal to one month’s con-
+3. A working reserve (as a general guide an amount equal to one month’s con-
 
 sumption should be adequate).
 The maximum holding quantities should be reviewed periodically. A demand for the

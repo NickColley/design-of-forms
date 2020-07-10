@@ -27,25 +27,25 @@ on [page 112](/the-form-in-print/the-layout-of-the-printed-matter/). Much depend
 
 ![]({{ page.url }}1.jpg)
 
-(1) The original form, before redesign
+1. The original form, before redesign
 
 ![]({{ page.url }}2.jpg)
 
-(2) A preliminary draft by department (not to scale). Where alterations are as extensive
+2. A preliminary draft by department (not to scale). Where alterations are as extensive
 as this, retyping might save time and money
 
 ![]({{ page.url }}3.jpg)
 
-(3) Final draft sketch by department, ready for submission to H.M.S.O.
+3. Final draft sketch by department, ready for submission to H.M.S.O.
 
 ![]({{ page.url }}4.jpg)
 
-(4) The same draft, ‘marked up’ by H.M.S.O. with instructions to printer. Typed copy
+4. The same draft, ‘marked up’ by H.M.S.O. with instructions to printer. Typed copy
 should be attached
 
 ![]({{ page.url }}5.jpg)
 
-(5) The final printed form, as restyled
+5. The final printed form, as restyled
 
 Specimens of type faces and their related alphabets (capitals, lower case, etc.) are given
 opposite, with notes. Some type faces have ‘ranging’ numerals: 123456; others have

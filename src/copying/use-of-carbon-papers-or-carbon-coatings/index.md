@@ -25,15 +25,15 @@ matching of suitable papers for copying purposes.
 
 The main groups into which carbon papers can be divided are:
 
-(1) Pencil carbons, one or two-sided
+1. Pencil carbons, one or two-sided
 
-(2) Pen carbons
+2. Pen carbons
 
-(3) Typewriter carbons
+3. Typewriter carbons
 
-(4) Hectographic and spirit duplicator carbons
+4. Hectographic and spirit duplicator carbons
 
-(5) One-time carbons, either as separate sheets, or as carbonised forms; these are
+5. One-time carbons, either as separate sheets, or as carbonised forms; these are
 used for handwriting and for typewriting etc.
 
 Carbon papers in Groups (1)-(4) above are stocked by H.M. Stationery Office, but
@@ -90,19 +90,19 @@ Pen’ (Code No. 50-66) is the most suitable for producing copies from pen carbo
 TYPEWRITER CARBONS are stocked by H.M. Stationery Office, in two weights but
 only one colour (black), as follows:
 
-(1) Light, which will give up to 8 copies at one time on normal weights of paper.
+1. Light, which will give up to 8 copies at one time on normal weights of paper.
 
-(2) Extra light, which will give up to 15 copies at one time on thin paper.
+2. Extra light, which will give up to 15 copies at one time on thin paper.
 
 The number of carbon copies obtainable with a typewriter will depend on:
 
-(1) The weight and quality of the stationery used.
+1. The weight and quality of the stationery used.
 
-(2) The make, age, state of repair and cleanliness of the machine used.
+2. The make, age, state of repair and cleanliness of the machine used.
 
-(3) The hardness and condition of the typewriter platen.
+3. The hardness and condition of the typewriter platen.
 
-(4) The touch of the operator.
+4. The touch of the operator.
 
 There is a limit to the total thickness of paper which may be passed into a typewriter
 and good copies cannot be produced if too many sheets of paper are used.
@@ -225,25 +225,25 @@ copies by printers’ ornaments, or heavy black shading.
 
 The main advantages of carbon-coated forms are:
 
-(1) Greater convenience in handling.
+1. Greater convenience in handling.
 
-(2) Selective copying is possible thus freeing space on the under-copy or enabling
+2. Selective copying is possible thus freeing space on the under-copy or enabling
 the size to be reduced.
 
 The main disadvantages of carbon-coated forms are their greater cost and limited
 production facilities. Other less important disadvantages include:
 
-(1) The paper used is limited to that suitable for carbon coating.
+1. The paper used is limited to that suitable for carbon coating.
 
-(2) Some recipients of forms do not like carbon coating. The carbon coating may
+2. Some recipients of forms do not like carbon coating. The carbon coating may
 rub off and soil the hands, or adjacent papers in files.
 
-(3) The carbon coating tends to soak through the paper, darkening the writing
+3. The carbon coating tends to soak through the paper, darkening the writing
 surface, and reducing the legibility of pencil entries on the carbon-coated form.
 
-(4) Alteration and correction can be made only by crossing out and re-writing.
+4. Alteration and correction can be made only by crossing out and re-writing.
 
-(5) Carbon-coated forms are not good salvage.
+5. Carbon-coated forms are not good salvage.
 
 In view of the difficulties associated with the supply of carbon-coated forms, early
 consultation with H.M. Stationery Office is advisable, after other and possibly more
@@ -263,14 +263,14 @@ with large forms unless special devices are used.
 
 The following methods may be used to facilitate registration:
 
-(1) Providing deeper or larger entry spaces on the under copies or dispensing with
+1. Providing deeper or larger entry spaces on the under copies or dispensing with
 lines and boxes for some parts of the form.
 
-(2) Ruling heavy lines to help the eye when aligning forms of different size.
+2. Ruling heavy lines to help the eye when aligning forms of different size.
 
-(3) Stapling or padding sets of forms.
+3. Stapling or padding sets of forms.
 
-(4) Using holding devices such as peg boards, or a folded card, to align and hold
+4. Using holding devices such as peg boards, or a folded card, to align and hold
 documents in position during the writing of entries. (The registration and the feed of
 multi-part forms used in some accounting machines, teleprinters, or with hand
 registers, can be controlled by sprocket devices engaging in a series of holes punched

@@ -38,7 +38,7 @@ It is realised, however, that many posters find folders very convenient and obje
 not be raised to their use provided that they are made up on the lines indicated in the
 diagrams in this leaflet and that the following requirements are observed:
 
-(1) Limits of size: Minimum 4&Prime; &times; 2&frac34;&Prime;
+1. Limits of size: Minimum 4&Prime; &times; 2&frac34;&Prime;
 
 Maximum 6&Prime; &times; 3&frac12;&Prime;
 NOTE: The minimum dimensions quoted apply to envelopes and cards generally. It is
@@ -48,17 +48,17 @@ postage stamp and date-stamp impression (see (2)) the minimum depth of 23&Prime;
 room for the address. It is therefore recommended that the minimum size should be taken
 as 4&Prime; &times; 3&Prime;.
 
-(2) A space of at least 1&frac12;&Prime; for date-stamp impressions must be left above the address.
+2. A space of at least 1&frac12;&Prime; for date-stamp impressions must be left above the address.
 
-(3) Any printing on the address side, other than the address, must be confined to the
+3. Any printing on the address side, other than the address, must be confined to the
 left-hand half of that side.
 
-(4) Stout paper should be used. White paper is preferable, but there is no objection to
+4. Stout paper should be used. White paper is preferable, but there is no objection to
 the use of pale shades of buff, yellow, green or blue. It is essential, however, that the ink
 used on coloured paper should be in sharp contrast with the tint of the paper. Printing in
 red ink is objectionable.
 
-(5) Wire clips, staples or stitches should not be used to secure folders.
+5. Wire clips, staples or stitches should not be used to secure folders.
 
 NOTE: Packets intended for transmission at the Printed Paper rate must comply with the
 regulations of that rate. (See Post Office Guide, or leaflet P386, obtainable at any Head
@@ -66,23 +66,23 @@ Post Office.)
 
 ![]({{ page.url }}1.jpg)
 
-(1) Single: minimum size
+1. Single: minimum size
 
 ![]({{ page.url }}2.jpg)
 
-(2) Single: maximum size
+2. Single: maximum size
 
 ![]({{ page.url }}3.jpg)
 
-(3) Single: alternative layout showing economical method of cutting
+3. Single: alternative layout showing economical method of cutting
 
 ![]({{ page.url }}4.jpg)
 
-(4) Reply folder
+4. Reply folder
 
 ![]({{ page.url }}5.jpg)
 
-(5) Reply folder: alternative layout
+5. Reply folder: alternative layout
 
 NOTE: When it is necessary to type both addresses on a reply folder (see No. 4) before
 despatch, it is not possible to design a layout which avoids taking the folders out of the
@@ -91,7 +91,7 @@ end as that to which the postage stamp or ‘Official Paid’ design is attached
 
 ![]({{ page.url }}6.jpg)
 
-(1) Single Folder
+1. Single Folder
 
 NOTE: The tongue & slot
 side should not be used
@@ -102,11 +102,11 @@ when folder is made up.
 
 ![]({{ page.url }}7.jpg)
 
-(2) Double journey folder
+2. Double journey folder
 
 ![]({{ page.url }}8.jpg)
 
-(3) Alternative type of reply or double journey folders
+3. Alternative type of reply or double journey folders
 
 NOTE: This arrangement saves the use
 of a label to cover old postmarks, etc.

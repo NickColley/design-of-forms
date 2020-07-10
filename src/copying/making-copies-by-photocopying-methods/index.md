@@ -16,13 +16,13 @@ of the form (as completed after use) by the dyeline process.
 
 This method has advantages when:
 
-(1) It is not practicable to obtain the desired number of completed copies when the
+1. It is not practicable to obtain the desired number of completed copies when the
 original entries are made, e.g. when a document is completed by a member of the
 public and it is unreasonable to expect more than one copy or because it is not practicable to obtain all the copies required by more conventional means such as carbon
 
-(2) the number of copies required varies according to circumstances
+2. the number of copies required varies according to circumstances
 
-(3) it is necessary to take copies of the entries on documents periodically, and when
+3. it is necessary to take copies of the entries on documents periodically, and when
 the quantity or nature of the entries on those documents varies on each occasion. For
 example, a ledger sheet printed on translucent paper becomes the ‘master’; the
 account can then be compiled, day by day, by handwritten or typed entries and

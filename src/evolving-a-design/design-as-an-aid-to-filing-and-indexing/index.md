@@ -11,25 +11,25 @@ pageNumber:
 Whatever equipment is used the following points apply to the design of the forms or
 documents to be used.
 
-(1) The size of the form or document must be related to the size of the binders,
+1. The size of the form or document must be related to the size of the binders,
 boxes, cabinets, sorting racks, or other equipment used; sufficient space should be left
 for easy handling of the form or document in its container and to give adequate protection to the edges and corners of the form.
 
-(2) The name, number, or symbol etc. used for sorting or filing should be conveniently placed (usually at the edge of the form) to facilitate filing and reference within
+2. The name, number, or symbol etc. used for sorting or filing should be conveniently placed (usually at the edge of the form) to facilitate filing and reference within
 the file.
 
-(3) The space allotted for the filing number, symbol etc. should be boxed in such a
+3. The space allotted for the filing number, symbol etc. should be boxed in such a
 way that there will be no confusion with other data on the form, e.g. Form title or No.
 and so that it will not render the form less effective for its purpose.
 
-(4) If the form is to be kept in some kind of binder, note that the binding margin
+4. If the form is to be kept in some kind of binder, note that the binding margin
 will be on the right-hand edge on one side of the form, and on the left on the other side,
 which may interfere with the easy registration of the form in question with other forms,
 when both sides are prepared by carbon copying. (This difficulty can be avoided by
 having the margin at the top or bottom of the paper, with ‘tumbler’ printing and
 reversed margins, and binding the forms at the top or bottom instead of at the side.)
 
-(5) If further entries will be made on the form after filing, consider how conveniently such entries can be made while the form is in the file. For instance bound
+5. If further entries will be made on the form after filing, consider how conveniently such entries can be made while the form is in the file. For instance bound
 ledger sheets may be difficult to use at the bottom edge because the writer’s hand tends
 to be suspended in mid air; it is awkward to make entries near the binding edge of
 forms in some binders, owing to the curved writing surface caused by the binding.
@@ -54,18 +54,18 @@ Stationery Office should be consulted.
 
 The following may simplify filing and indexing work:
 
-(1) Signalling devices with and without the use of colour, for cards, pockets or
+1. Signalling devices with and without the use of colour, for cards, pockets or
 pouches, and ledger sheets etc.
-(2) Colours to indicate different groups or subjects, e.g. coloured strips for indexes,
+2. Colours to indicate different groups or subjects, e.g. coloured strips for indexes,
 or different colours to indicate documents used in different accounting or other periods
 of the year etc.
 
-(3) Marker cards or slips to indicate when a card or file has been extracted; when
+3. Marker cards or slips to indicate when a card or file has been extracted; when
 several persons use the same record, the use of colours, symbols, numbers or names,
 may add to the usefulness of the marker by providing a ready identification of the
 person who has extracted the particular record.
 
-(4) Guide cards which protrude above the level of the filed documents to indicate
+4. Guide cards which protrude above the level of the filed documents to indicate
 main divisions or groups, e.g. when documents are filed in numerical sequence. It is
 an advantage to have guide cards of a contrasting colour to the index cards.
 

@@ -10,31 +10,31 @@ pageNumber:
 
 The following factors particularly affect the size and shape of documents:
 
-(1) There are advantages in restricting the forms used in one department to a comparatively few ‘standard’ sizes. Folders, binders, filing cabinets and other equipment
+1. There are advantages in restricting the forms used in one department to a comparatively few ‘standard’ sizes. Folders, binders, filing cabinets and other equipment
 in which form size is relevant can then be used more effectively and ‘stock’ items such
 as carbon paper and envelopes will be needed in fewer sizes.
 
-(2) The size of the form should be convenient for use; sometimes it may be required
+2. The size of the form should be convenient for use; sometimes it may be required
 to fit conveniently into a pocket of uniform clothing, or a lady’s handbag, e.g. when
 personal documents such as job cards or payable order books need to be carried about
 without being folded.
 
-(3) The width of a form may be limited by the width of the typewriter or machine
+3. The width of a form may be limited by the width of the typewriter or machine
 carriage actually available at the point where the form is completed.
 
-(4) When sorting is involved, square forms should be avoided, as this shape makes
+4. When sorting is involved, square forms should be avoided, as this shape makes
 it more difficult to face them up in the same direction. Large forms, especially if they
 are long and narrow, are awkward to sort unless they are folded.
 
-(5) Whenever possible the form should fit one of the stock sizes of envelopes available to make for the utmost economy in envelope production. Small folds in the form
+5. Whenever possible the form should fit one of the stock sizes of envelopes available to make for the utmost economy in envelope production. Small folds in the form
 should be avoided. Most folding machines fold one way at a time and all folds should
 therefore be arranged in the same direction as far as this is possible.
 
-(6) The size selected for a form should be either a standard size stocked by H.M.
+6. The size selected for a form should be either a standard size stocked by H.M.
 Stationery Office or a size which H.M. Stationery Office agrees can be cut without
 waste from stocks of paper.
 
-(7) Duplicating processes usually work with cut sheets which are not subsequently
+7. Duplicating processes usually work with cut sheets which are not subsequently
 trimmed, but most reproduction machines require one or more unprinted edges.
 
 Within the various classes of paper there are a number of standard sizes of sheets.

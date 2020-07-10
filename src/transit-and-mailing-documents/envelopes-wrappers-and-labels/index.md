@@ -57,9 +57,9 @@ There are two main kinds of cut out panel envelopes which reduce addressing work
 by making use of the address shown on the document inside the envelope, and which
 also eliminate the possibility of putting an enclosure in the wrong envelope:
 
-(1) ‘Window’ envelopes with a transparent panel.
+1. ‘Window’ envelopes with a transparent panel.
 
-(2) ‘Aperture’ envelopes with an open cut out panel; this kind is inadmissible in the
+2. ‘Aperture’ envelopes with an open cut out panel; this kind is inadmissible in the
 international service.
 
 When window or aperture envelopes are used the enclosure has to be folded with
@@ -85,26 +85,26 @@ out in the current edition of the Post Office Guide, and Post Office Leaflet P.2
 from which the following details are taken.
 A packet enclosed in a window envelope must conform to the following conditions:
 
-(1) The panel must extend parallel to the length of the envelope.
+1. The panel must extend parallel to the length of the envelope.
 
-(2) A space of 1&frac12; inches must be left above the panel for the postage stamp and
+2. A space of 1&frac12; inches must be left above the panel for the postage stamp and
 the date-stamp impression.
 
-(3) No writing or printing other than the address may be displayed through the
+3. No writing or printing other than the address may be displayed through the
 panel and the address must appear through the panel in such a manner as to be read
 with reasonable facility.
 
-(4) The enclosures must be so folded that they cannot move about in the envelope,
+4. The enclosures must be so folded that they cannot move about in the envelope,
 and thus cause the address to be hidden.
 
 A packet enclosed in an ‘aperture’ envelope (an envelope with an open panel) must
 conform to the following conditions:
 
-(1) The open (cut-out) panel must not exceed 3&frac34;&Prime; in length by 1&frac14;&Prime; in width.
+1. The open (cut-out) panel must not exceed 3&frac34;&Prime; in length by 1&frac14;&Prime; in width.
 
-(2) The requirements shown in (1), (2), (3), (4), in the preceding paragraph concerning transparent panels.
+2. The requirements shown in (1), (2), (3), (4), in the preceding paragraph concerning transparent panels.
 
-(3) A minimum space of at least half an inch must be left within the sides and base
+3. A minimum space of at least half an inch must be left within the sides and base
 of the cut-out panel and the respective edges of the envelopes.
 
 Entirely transparent envelopes, and envelopes likely to ‘trap’ other postal items are
@@ -132,7 +132,7 @@ ECONOMY LABELS of the following sizes are stocked by H.M. Stationery Office:
 It may sometimes be necessary to consider certain features of mail handling
 equipment:
 
-(1) ENVELOPE OPENING MACHINES: the size of the document and envelope
+1. ENVELOPE OPENING MACHINES: the size of the document and envelope
 should permit the contents of the envelope to be shaken down below the depth of the
 cutting edge, to avoid mutilation of the contents.
 
@@ -146,16 +146,16 @@ by the typing staff. The address of the customer and typing pool need be written
 only during the life of the folder. Where several typing pools or customer branches are
 involved, a different coloured folder could be used for each one. Punched holes to
 indicate when empty would add to the usefulness of this internal transit document
-(2) FOLDING MACHINES: these machines can make a variety of folds, ranging from
+2. FOLDING MACHINES: these machines can make a variety of folds, ranging from
 the single-fold to the more complicated accordion folds. Folding is so accurate that it
 facilitates the tuck-in of documents designed as postal folders, or the correct placing
 of the address when the document is despatched in a window envelope. A range of
 paper sizes, normally up to 12&Prime; &times; 19&Prime;, can be passed through the machine.
 
-(3) WRAPPING MACHINES for magazines, catalogues and periodicals up to about
+3. WRAPPING MACHINES for magazines, catalogues and periodicals up to about
 14&Prime; &times; 12&Prime; which can be rolled in wrappers up to 12&Prime; &times; 14&Prime;.
 
-(4) ENVELOPE INSERTING AND SEALING MACHINES which can take document
+4. ENVELOPE INSERTING AND SEALING MACHINES which can take document
 sizes from 4&Prime; &times; 4&Prime; to 84&Prime; &times; 13&Prime; and envelopes up to 9&Prime; &times; 4&Prime;.
 
 ![]({{ page.url }}2.jpg)

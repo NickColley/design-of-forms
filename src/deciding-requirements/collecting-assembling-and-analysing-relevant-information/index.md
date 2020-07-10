@@ -42,19 +42,19 @@ information.
 
 Consult
 
-(1) officers responsible for the form or work (and examine completed specimens of
+1. officers responsible for the form or work (and examine completed specimens of
 the forms and any associated documents in use);
 
-(2) staff whose work is or will be associated with the form at any stage, in all
+2. staff whose work is or will be associated with the form at any stage, in all
 branches of the office;
 
-(3) persons who complete or may have to complete the form at any stage, inside or
+3. persons who complete or may have to complete the form at any stage, inside or
 
 outside the department;
 
-(4) any departmental committee established to advise on forms used by the public;
+4. any departmental committee established to advise on forms used by the public;
 
-(5) any other departments or organisations known to use similar forms.
+5. any other departments or organisations known to use similar forms.
 
 Refer to
 
@@ -72,22 +72,22 @@ doing the job in better ways.
 The questions to be asked when collecting data relevant to forms design will vary
 according to circumstances, but the following should invariably be asked:
 
-(1) WHAT causes the work (and therefore gives rise to the form); what are the
+1. WHAT causes the work (and therefore gives rise to the form); what are the
 purposes of the form, the operation, the procedure etc.; what are the essential needs
 or unalterable limitations?
 
-(2) HOW is the work done? i.e. what are the processes, operations and documents
+2. HOW is the work done? i.e. what are the processes, operations and documents
 involved;
 
-(3) WHY is the work done in the manner prescribed?
+3. WHY is the work done in the manner prescribed?
 
-(4) WHO does the work and to what extent?
+4. WHO does the work and to what extent?
 
-(5) WHERE is the work done and what limitations does this impose?
+5. WHERE is the work done and what limitations does this impose?
 
-(6) WHEN is the work done and what limitations does this impose?
+6. WHEN is the work done and what limitations does this impose?
 
-(7) WHICH related activities elsewhere need consideration with the form or work
+7. WHICH related activities elsewhere need consideration with the form or work
 being studied?
 
 Whenever practicable figures should be obtained indicative of:
@@ -139,22 +139,22 @@ entries and explanatory notes on the form itself.
 
 The important questions are:
 
-(1) Can anything be eliminated—whether procedure, entry, copy or other feature?
+1. Can anything be eliminated—whether procedure, entry, copy or other feature?
 
-(2) Is everything that is provided for essential and not merely desirable? If any
+2. Is everything that is provided for essential and not merely desirable? If any
 feature is not strictly essential what inconvenience or loss would result from dispensing
 with it?
 
-(3) Can the present sequence or order of actions be changed or actions combined,
+3. Can the present sequence or order of actions be changed or actions combined,
 with advantage?
 
-(4) Is the same information required in a different order or layout for another
+4. Is the same information required in a different order or layout for another
 purpose? If so can the order be modified so as to enable the two purposes to be met by
 producing copies?
 
-(5) Can action of any kind be simplified?
+5. Can action of any kind be simplified?
 
-(6) Are there any costly features of the form, such as carbon patching, multi-colour
+6. Are there any costly features of the form, such as carbon patching, multi-colour
 printing, etc., which could be replaced by less costly alternatives ?
 
 When these questions have been answered the way is clear to start the design of the
