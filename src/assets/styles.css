@@ -57,6 +57,15 @@ body {
   }
 }
 
+::-moz-selection {
+  background: var(--text-color);
+  color: var(--background-color);
+}
+::selection {
+  background: var(--text-color);
+  color: var(--background-color);
+}
+
 :target {
   scroll-margin: var(--verticle-page-margin) var(--horizontal-page-margin);
 }
