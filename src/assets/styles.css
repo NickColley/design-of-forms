@@ -373,6 +373,10 @@ th, td {
   font-variant: all-small-caps;
 }
 
+.lead-small-caps {
+  font-variant: small-caps;
+}
+
 .spacing {
   letter-spacing: 0.1rem;
 }
