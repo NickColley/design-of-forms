@@ -68,7 +68,7 @@ underlined).
 | 17 | Substitute or insert character(s) over which this mark is placed, in ‘inferior’ position | ![]({{ page.url }}forwards-slash.jpg) through character or ![]({{ page.url }}h.jpg) where required | ![]({{ page.url }}hat.jpg) over character (e.g. ![]({{ page.url }}hat-example.jpg)) |
 | 18 | Underline word or words | ![]({{ page.url }}underline.jpg) under words affected | ![]({{ page.url }}underline-word.jpg) |
 | 19 | Use ligature (e.g. ffi) or diphthong (e.g. ce) | ![]({{ page.url }}circle-brackets.jpg) enclosing letters to be altered | ![]({{ page.url }}circle-brackets.jpg) enclosing ligature or diphthong required |
-| 20 | Substitute separate letters for ligature or diphthong | ![]({{ page.url }}forwards-slash.jpg) through ligature or diphthong to be altered | ![]({{ page.url }}) write out separate letters followed by ![]({{ page.url }}forwards-slash.jpg) |
+| 20 | Substitute separate letters for ligature or diphthong | ![]({{ page.url }}forwards-slash.jpg) through ligature or diphthong to be altered | write out separate letters followed by ![]({{ page.url }}forwards-slash.jpg) |
 | 21 | Close up—delete space between characters | ![]({{ page.url }}circle-brackets.jpg) linking characters | ![]({{ page.url }}circle-brackets.jpg) |
 | 22 | Insert space<sup>*</sup> |![]({{ page.url }}h.jpg) | ![]({{ page.url }}pound.jpg) |
 | 23 | Insert space between lines or paragraphs<sup>*</sup> | ![]({{ page.url }}greater-than.jpg) between lines to be spaced | ![]({{ page.url }}pound.jpg) |
@@ -85,8 +85,8 @@ underlined).
 | 34 | Move matter to position indicated | ![]({{ page.url }}long-brackets.jpg) at limits of required position | ![]({{ page.url }}move.jpg) |
 | 35 | Take over character(s) or line to next line, column or page | ![]({{ page.url }}long-left-bracket.jpg) | ![]({{ page.url }}take-over.jpg) |
 | 36 | Take back character(s) or line to previous line, column or page | ![]({{ page.url }}long-right-bracket.jpg) | ![]({{ page.url }}take-back.jpg) |
-| 37 | Raise lines<sup>†</sup> | ![]({{ page.url }}top-arrow-line.jpg) over lines to be moved <br/> ![]({{ page.url }}top-indent) under lines to be moved | ![]({{ page.url }}raise.jpg) |
-| 38 | Lower lines<sup>†</sup> | ![]({{ page.url }}bottom-arrow-line.jpg) over lines to be moved <br/> ![]({{ page.url }}bottom-indent) under lines to be moved | ![]({{ page.url }}lower.jpg) |
+| 37 | Raise lines<sup>†</sup> | ![]({{ page.url }}top-arrow-line.jpg) over lines to be moved <br/> ![]({{ page.url }}top-indent.jpg) under lines to be moved | ![]({{ page.url }}raise.jpg) |
+| 38 | Lower lines<sup>†</sup> | ![]({{ page.url }}bottom-arrow-line.jpg) over lines to be moved <br/> ![]({{ page.url }}bottom-indent.jpg) under lines to be moved | ![]({{ page.url }}lower.jpg) |
 | 39 | Correct the vertical alignment | ![]({{ page.url }}two-vertical-lines.jpg) | ![]({{ page.url }}two-vertical-lines.jpg) |
 | 40 | Straighten lines | ![]({{ page.url }}two-horizontal-lines.jpg) through lines to be straightened |![]({{ page.url }}two-horizontal-lines.jpg)  |
 | 41 | Push down space | Encircle space affected | ![]({{ page.url }}upside-down-T.jpg) |

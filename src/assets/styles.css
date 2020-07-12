@@ -232,10 +232,6 @@ img {
   mix-blend-mode: darken;
 }
 
-picture > img {
-  display: block;
-}
-
 @media only screen and (max-width: 900px) {
   picture > img {
     max-width: 100%;
@@ -248,9 +244,13 @@ figure {
   padding: 0;
 }
 
-figure,
-picture {
+figure > picture,
+figure > picture > img {
   display: block;
+}
+
+figure,
+main > picture {
   margin-bottom: 3rem;
 }
 
