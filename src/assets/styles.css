@@ -228,16 +228,16 @@ details > summary + * {
   margin-top: 1rem;
 }
 
-main > figure > p > picture > img,
-main td > picture > img,
-main > p > picture > img {
+img {
   mix-blend-mode: darken;
 }
 
+picture > img {
+  display: block;
+}
+
 @media only screen and (max-width: 900px) {
-  main > figure > p > picture > img,
-  main td > picture > img,
-  main > p > picture > img {
+  picture > img {
     max-width: 100%;
     height: auto;
   }
@@ -246,6 +246,16 @@ main > p > picture > img {
 figure {
   margin: 0;
   padding: 0;
+}
+
+figure,
+picture {
+  display: block;
+  margin-bottom: 3rem;
+}
+
+figure > picture {
+  margin-bottom: 1rem;
 }
 
 ol {
