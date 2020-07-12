@@ -1,7 +1,7 @@
 const fg = require('fast-glob');
 
 const { groupByNested, sortNested } = require('./lib/filters.js')
-const markdown = require('./markdown.js')
+const markdown = require('./lib/markdown')
 
 const galleryImages = fg.sync(['**/*.jpg', '!**/_site']);
 
