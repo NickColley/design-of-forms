@@ -100,7 +100,14 @@ It should be remembered, however, that the requirements of design must be reconc
 
 <figure>
 
-![]({{ page.url }}1.jpg)
+![Table with three columns.
+Column 1 has title "Present Entry".
+Column 2 has title "Form no.", with sub columns for each form, for example 1, 1a, 3 etc.
+Column 3 has title "Total Entries"
+In the first row, column 1 has text "Name of Applicant".
+Column 2 "Form no." has either O or A assigned to each form number. Where O = Completed by Applicant and A = Completed by Area Officer.
+Column 3 "Total Entries" contains a tally of O (3) and A (5).
+The example includes additional rows with similar data entries include "Address", "Phone Number", "Type of Licence", "Registration Mark", "Chassis Number", "Seating Capacity", "Type of Fuel", "Techincal details", "Date added and withdrawn".]({{ page.url }}1.jpg)
 
 <figcaption>
 Repetitive data entered on several related forms can be analysed and summarised on these lines to show entries on revised or combined documents.
