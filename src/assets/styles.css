@@ -250,11 +250,11 @@ figure > picture > img {
 
 figure,
 main > picture {
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
 }
 
 figure > picture {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 ol {
@@ -273,6 +273,10 @@ ol li::before {
   content: "(" counter(ordered-list-counter) ")";
   float: left;
   margin-right: .25em;
+}
+
+li {
+  margin-bottom: .5rem;
 }
 
 /* When lists start at a number higher than 1,
