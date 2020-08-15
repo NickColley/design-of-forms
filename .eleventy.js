@@ -1,4 +1,5 @@
 const fg = require('fast-glob');
+const cheerio = require('cheerio');
 
 const { groupByNested, sortNested } = require('./lib/filters.js')
 const markdown = require('./lib/markdown')
@@ -22,12 +23,26 @@ module.exports = function(eleventyConfig) {
     // https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html
     eleventyConfig.addTransform("semantic-lists", async function(content, outputPath) {
         if(outputPath.endsWith(".html")) {
-            content = content.replace(/<ol( .*)>/g, '<ol role="list"$1>')
-            content = content.replace(/<ol>/g, '<ol role="list">')
-            content = content.replace(/<ul( .*)>/g, '<ul role="list"$1>')
-            content = content.replace(/<ul>/g, '<ul role="list">')
-            content = content.replace(/<li( .*)>/g, '<li role="listitem"$1>')
-            content = content.replace(/<li>/g, '<li role="listitem">')
+            const $ = cheerio.load(content);
+            $('ol,ul').attr('role', 'list');
+            $('li').attr('role', 'listitem');
+            content = $.html();
+        }
+        return content;
+    });
+
+    // Make figures work better
+    // https://www.scottohara.me/blog/2019/01/21/how-do-you-figure.html
+    eleventyConfig.addTransform("semantic-figure", async function(content, outputPath) {
+        if(outputPath.endsWith(".html")) {
+            const $ = cheerio.load(content);
+            $('figure').each(function () {
+                const $figure = $(this);
+                const $caption = $figure.find('figcaption');
+                $figure.attr('role', 'figure');
+                $figure.attr('aria-label', $caption.text().trim());
+            })
+            content = $.html();
         }
         return content;
     });
