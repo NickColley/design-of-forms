@@ -74,7 +74,7 @@ back of the tissue paper being read through this paper; thus one sheet of two-si
 carbon paper can be used to produce three copies (a top copy, the tissue copy, and a
 copy underneath the two-sided carbon). In another application of this type of carbon
 the impression on both sides of a sheet makes alteration or falsification more difficult.
-‘Two-sided carbon paper is about 25% more expensive than one-sided carbon and the
+Two-sided carbon paper is about 25% more expensive than one-sided carbon and the
 latter is preferable unless the copying methods offer a compensating saving by the use
 of two-sided carbon and tissue paper.
 

@@ -163,7 +163,7 @@ sizes from 4&Prime; &times; 4&Prime; to 84&Prime; &times; 13&Prime; and envelope
 
 This window envelope is designed with a front flap on which the ‘ Official Paid’ design is
 printed in addition to being printed in the normal position on the front of the envelope
-itself. ‘The flap is tucked inside to send out the blank form; when completed the form is
+itself. The flap is tucked inside to send out the blank form; when completed the form is
 confidential and is returned by sealing the gummed flap on the outside. After this ‘two
 way’ use the envelope can be further used with an economy label.
 

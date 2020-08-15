@@ -8,7 +8,7 @@ pageNumber:
     end: 44
 ---
 
-The work of completing a form may be simplified if a series of likely answers to the question is stated and the means of choosing the appropriate answer indicated. An advantage is that answers are obtained with precision and consistency. ‘The methods
+The work of completing a form may be simplified if a series of likely answers to the question is stated and the means of choosing the appropriate answer indicated. An advantage is that answers are obtained with precision and consistency. The methods
 adopted to indicate a choice may be:
 
 1. Boxes: provided alongside the stated answers requiring a &times; or a tick to be entered opposite the chosen answer.

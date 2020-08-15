@@ -61,7 +61,7 @@ earlier.
 THE SPECIFICATION is the summary of the physical features of the form as a
 direction for reproducing it. Some of these instructions can often be noted on the
 draft form, but it is unwise to confuse a draft with lengthy instructions which can as
-easily be given separately. ‘The instructions should be clear and concise and should be
+easily be given separately. The instructions should be clear and concise and should be
 set out under appropriate headings, e.g.:
 
 1. Size of the cut form

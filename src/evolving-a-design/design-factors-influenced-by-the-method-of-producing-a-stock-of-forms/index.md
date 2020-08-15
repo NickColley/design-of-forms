@@ -34,7 +34,7 @@ sizes etc. is limited (this is so even if a Varityper is available).
 STENCIL METHODS. The stencil duplicator may occasionally be suitable for the
 departmental production of very simple forms not used in large quantities. However,
 the paper which must be used is generally heavier than is needed for printed forms,
-and the range of paper sizes is limited so that there is often waste in production. ‘The
+and the range of paper sizes is limited so that there is often waste in production. The
 forms also tend to be larger than if printed. If semi-absorbent paper is used, the surface
 is not suitable for pen and ink entries; non-absorbent duplicating ‘A’ paper may be
 used if pen and ink entries are required but production of the form takes longer.

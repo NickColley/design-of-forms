@@ -33,7 +33,7 @@ Information should be presented in a straightforward sequence in the order of pu
 
 5. HORIZONTAL OR VERTICAL RECORDING
 
-It is usually easier to record information set out vertically than horizontally. ‘The eye tends to jump off horizontal lines so causing a rather higher proportion of errors. If for various reasons data has to be set out horizontally it may be useful to use a document holder with a line indicator to keep the operator’s eye along each line.
+It is usually easier to record information set out vertically than horizontally. The eye tends to jump off horizontal lines so causing a rather higher proportion of errors. If for various reasons data has to be set out horizontally it may be useful to use a document holder with a line indicator to keep the operator’s eye along each line.
 
 6. BOXES
 
