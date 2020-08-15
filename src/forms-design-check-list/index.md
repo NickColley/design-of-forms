@@ -7,9 +7,12 @@ pageNumber:
     start: 166
     end: 169
 ---
-NOTE: *Not all of these questions need be asked for every form*
 
-### Investigation
+<span class="small-caps">Note</span>: *Not all of these questions need be asked for every form*
+
+## Investigation
+
+<div class="check-list">
 
 - What is the purpose of the form?
 - Has the need for the form been clearly established?
@@ -18,10 +21,10 @@ NOTE: *Not all of these questions need be asked for every form*
 - Are there any statutory, legal or policy questions to be examined?
 - Have all users been consulted about their needs and asked to comment or offer
 suggestions?
-	- Official and public?
-	- Inside and outside the department?
+	- *Official and public?*
+	- *Inside and outside the department?*
 - Who fills it in?
-	- If the information on the form is copied from some other record is copying inevitable?
+	- *If the information on the form is copied from some other record is copying inevitable?*
 - How is the form obtained or delivered?
 	- *By post?*
 	- *From a public counter?*
@@ -31,7 +34,7 @@ suggestions?
     - *Quantity of past, current or future consumption?*
     - *Extent of delay in use of the form?*
     - *Incomplete or unreturned forms?*
-    - *Numbers of queries arising from incorrectly completed *forms?
+    - *Numbers of queries arising from incorrectly completed forms?*
     - *Numbers of copying errors?*
     - *Most frequent source of errors in completion.*
 - How long will the data remain unchanged?
@@ -83,65 +86,67 @@ suggestions?
 - What can be done to simplify the appearance?
 - What refinements can be eliminated to reduce cost?
 
-### Design and Layout
+## Design and Layout
 
-#### Make-up
+### Make-up
 
 - Are loose-leaf sheets, sets, pads, or bound books needed?
 - Could any refinements be eliminated to reduce production costs?
-- Colour printing? Precision printing? Gumming? Ruling?
-- Carbon sheets or coatings?
+    - *Colour printing? Precision printing? Gumming? Ruling?*
+    - *Carbon sheets or coatings?*
 
-#### Size
+### Size
 
 - Is the size appropriate for associated machines, files, envelopes, sorting and other equipment?
 - Has adequate allowance been made for margins (printing, binding etc.)?
 - Is the form of a standard size—or a size approved by H.M. Stationery Office?
 
-#### Materials
+### Materials
 
 - Have the working conditions been adequately catered for?
 - Is the demand for material extravagant? (e.g. card instead of paper).
 
-#### Copies
+### Copies
 
 - Have all the available methods of producing copies been considered?
 - Have tests been made with the right carbon and copy paper?
 
-#### Identification
+### Identification
 
 - Does the heading or title of the form make its purpose clear and self evident? Could it be made briefer? If further identification is necessary what is the most effective marking?
 - Would the use of colour assist sorting and other operations?
 - Would printed symbols, numbers, patches, or coloured labels provide an equally effective method of identification?
 
-#### Notes and instructions
+### Notes and instructions
 
 - Have the notes been classified and grouped to aid comprehension? Could they be reduced by omitting less essential matter? Is the wording simple and clear for all classes of user?
 - Are all general notes grouped together and instructions about entries placed alongside the entries? Has the need for reference to footnotes or notes overleaf during entry been minimised?
 
-#### Questions and entry captions
+### Questions and entry captions
 
 - Is the wording of questions concise and clear?
-Would the pre-printing of likely entries help?
-Have inconsistent methods of recording answers been avoided?
+- Would the pre-printing of likely entries help?
+- Have inconsistent methods of recording answers been avoided?
 
-#### Typography
+### Typography
 
 - Does the style and range of sizes of type used give the needed relative emphasis to the items of the form?
 
-#### Layout and style
+### Layout and style
 
 - Is the layout convenient for entry and subsequent operations? To facilitate a logical sequence of thought? To group related entries? To minimise machine movements?
 - To facilitate copying, comparing and checking? Would ‘tumbler’ printing help arithmetical work? Can cross addition be simplified by staggering totals? Can entries be placed on the edge to facilitate summarisation by overlapping forms? Would shading, stippling etc. help? Are reference entries easy to identify?
 
-#### Transit
+### Transit
 
 - Would a window envelope save work and reduce the risk of error?
 - Have folding marks been provided on the form where suitable?
 - Does the form contravene any current Post Office regulations?
 
-#### Testing
+### Testing
 
 - Has the form been tested with the users in all working conditions?
 - Have all technical and supply matters been cleared with the printers?
 - What special requirements should be brought to the notice of the printer?
+
+</div>

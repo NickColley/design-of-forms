@@ -527,3 +527,18 @@ th, td {
 .index-list p {
   margin-bottom: 0;
 }
+
+/* /forms-design-check-list */
+
+.check-list ul {
+  /* TODO: Add back semantics? */
+  list-style: none;
+}
+
+.check-list > ul {
+  padding-left: 0;
+}
+
+.check-list > ul > li {
+  margin-bottom: 1rem;
+}
