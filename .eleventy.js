@@ -18,6 +18,20 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.setLibrary("md", markdown)
     eleventyConfig.addCollection('gallery', () => galleryImages.map(image => image.replace('src/', '/')))
 
+    // Make sure styled lists keep their correct semantics.
+    // https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html
+    eleventyConfig.addTransform("semantic-lists", async function(content, outputPath) {
+        if(outputPath.endsWith(".html")) {
+            content = content.replace(/<ol( .*)>/g, '<ol role="list"$1>')
+            content = content.replace(/<ol>/g, '<ol role="list">')
+            content = content.replace(/<ul( .*)>/g, '<ul role="list"$1>')
+            content = content.replace(/<ul>/g, '<ul role="list">')
+            content = content.replace(/<li( .*)>/g, '<li role="listitem"$1>')
+            content = content.replace(/<li>/g, '<li role="listitem">')
+        }
+        return content;
+    });
+
     return {
         dir: {
             input: "src"

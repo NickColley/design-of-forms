@@ -157,7 +157,6 @@ button {
 }
 
 .list-item-silent {
-  /* todo add back semantics */
   list-style: none;
 }
 
@@ -515,7 +514,6 @@ th, td {
 /* /index */
 
 .index-list ul {
-  /* TODO: Add back semantics? */
   list-style: none;
 }
 
@@ -531,7 +529,6 @@ th, td {
 /* /forms-design-check-list */
 
 .check-list ul {
-  /* TODO: Add back semantics? */
   list-style: none;
 }
 
