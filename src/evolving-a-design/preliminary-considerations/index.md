@@ -26,7 +26,9 @@ Some factors to be taken into account are:
 
 ## How should the needs of those completing or using the form influence its design ?
 
-5. Especially when a form is to be completed by a member of the general public it should be designed to give him the utmost assistance. Forms which give rise to difficulties for the public will almost certainly cause more work in departments because they are liable to be misunderstood and wrongly completed. If particular requests for information, e.g. to traders, may involve them in expense and trouble every attention should be given to design factors which will reduce their work. Subject to this, especially in relation to services which provide direct benefit to the public, there may be scope for simplifying departmental work as much as possible, e.g. by asking members of the public to fill in address particulars on a document that may have to be returned after departmental action.
+5. Especially when a form is to be completed by a member of the general public it should be designed to give him the utmost assistance. Forms which give rise to difficulties for the public will almost certainly cause more work in departments because they are liable to be misunderstood and wrongly completed.
+<br/><br/>
+If particular requests for information, e.g. to traders, may involve them in expense and trouble every attention should be given to design factors which will reduce their work. Subject to this, especially in relation to services which provide direct benefit to the public, there may be scope for simplifying departmental work as much as possible, e.g. by asking members of the public to fill in address particulars on a document that may have to be returned after departmental action.
 
 ## How will working conditions influence design?
 
@@ -42,6 +44,14 @@ The handling and use of the form may be greatly facilitated by design factors, e
 
 ## Other factors
 
-The departmental Clerk of Stationery will be familiar with the requirements and supplies of H.M. Stationery Office and should normally be consulted; if appropriate he will arrange consultation with H.M. Stationery Office. This will be particularly important where costs of production are significant although such costs are not the only relevant factors when considering whether to redesign a form. Reductions in associated procedures, or savings in the time required by users to deal with the contents, can be costed in the light of potential staff savings and so justify heavier production costs. Conversely, redesign which reduces production costs may not be acceptable because it necessitates greater staff effort, or merely transfers additional operating costs elsewhere.
+The departmental Clerk of Stationery will be familiar with the requirements and supplies of H.M. Stationery Office and should normally be consulted; if appropriate he will arrange consultation with H.M. Stationery Office.
 
-The H.M. Stationery Office Guide: Part 1, *Notes for Clerks of Stationery and Part 2, Standards for Authors and Printers* contain a variety of useful information about stationery and printing supplies and H.M. Stationery Office will advise about printing and typographical matters. The Department’s laboratory for testing and inspecting paper and office requisites is also available to help with special problems covering the quality and performance of paper and supplies, or with special security requirements for documents.
+This will be particularly important where costs of production are significant although such costs are not the only relevant factors when considering whether to redesign a form.
+
+Reductions in associated procedures, or savings in the time required by users to deal with the contents, can be costed in the light of potential staff savings and so justify heavier production costs.
+
+Conversely, redesign which reduces production costs may not be acceptable because it necessitates greater staff effort, or merely transfers additional operating costs elsewhere.
+
+The H.M. Stationery Office Guide: Part 1, *Notes for Clerks of Stationery and Part 2, Standards for Authors and Printers* contain a variety of useful information about stationery and printing supplies and H.M. Stationery Office will advise about printing and typographical matters.
+
+The Department’s laboratory for testing and inspecting paper and office requisites is also available to help with special problems covering the quality and performance of paper and supplies, or with special security requirements for documents.
