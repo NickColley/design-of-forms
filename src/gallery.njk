@@ -1,5 +1,5 @@
 ---
-layout: default.njk
+layout: base.njk
 ---
 
 <style>
@@ -12,9 +12,11 @@ layout: default.njk
         padding: 3rem;
     }
 </style>
-<h1>Gallery</h1>
-{% for image in collections.gallery %}
-    <a href="{{ image | replace(r/(.*\/).+\.jpg/g, '$1') }}#image-{{ image | replace(r/.*\/(.+)\.jpg/g, '$1') }}">
-        <img src="{{image}}" alt="" loading="lazy">
-    </a>
-{% endfor %}
+<main>
+    <h1>Gallery</h1>
+    {% for image in collections.gallery %}
+        <a href="{{ image | replace(r/(.*\/).+\.jpg/g, '$1') }}#image-{{ image | replace(r/.*\/(.+)\.jpg/g, '$1') }}">
+            <img src="{{image}}" alt="" loading="lazy">
+        </a>
+    {% endfor %}
+</main>
