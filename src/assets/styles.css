@@ -279,19 +279,6 @@ li {
   margin-bottom: .5rem;
 }
 
-/* When lists start at a number higher than 1,
-set a CSS custom property to make sure the counter is correct. */
-[start="1"] { --counter-start: 1; }
-[start="2"] { --counter-start: 2; }
-[start="3"] { --counter-start: 3; }
-[start="4"] { --counter-start: 4; }
-[start="5"] { --counter-start: 5; }
-[start="6"] { --counter-start: 6; }
-[start="7"] { --counter-start: 7; }
-[start="8"] { --counter-start: 8; }
-[start="9"] { --counter-start: 9; }
-[start="10"] { --counter-start: 10; }
-
 table {
   margin-left: -1rem;
   margin-right: -1rem;
