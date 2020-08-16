@@ -231,6 +231,24 @@ img {
   mix-blend-mode: darken;
 }
 
+.pagination {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-top: 0.5vh solid;
+  margin-top: 4rem;
+}
+
+.pagination li {
+  margin-bottom: 0;
+  border-bottom: 0.5vh solid;
+}
+
+.pagination a {
+  display: block;
+  padding: 3vh 0;
+}
+
 @media only screen and (max-width: 900px) {
   picture > img {
     max-width: 100%;

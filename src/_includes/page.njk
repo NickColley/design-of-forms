@@ -27,10 +27,10 @@ layout: base.njk
     {{ content | safe }}
 </main>
 
-<hr/>
+<nav>
+    {% include 'pagination.njk' %}
 
-<nav id="table-of-contents">
-    <h2>Contents</h2>
+    <h2 id="table-of-contents">Contents</h2>
 
     {% include 'contents.njk' %}
 </nav>

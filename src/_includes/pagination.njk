@@ -1,0 +1,28 @@
+{% set previousPage = null %}
+{% for item in collections.page | sortNested(false, false, 'data.pageNumber.end')  %}
+    {% if item.data.pageNumber.end < pageNumber.end %}
+        {% set previousPage = item %}
+    {% endif %}
+{% endfor %}
+{% set nextPage = null %}
+{% for item in collections.page | sortNested(false, false, 'data.pageNumber.start') | reverse  %}
+    {% if item.data.pageNumber.start > pageNumber.start %}
+        {% set nextPage = item %}
+    {% endif %}
+{% endfor %}
+<ul class="pagination">
+    {% if previousPage %}
+        <li>
+            <a href="{{ previousPage.url }}">
+                Previous page: {{ previousPage.data.title }}
+            </a>
+        </li>
+    {% endif %}
+    {% if nextPage %}
+        <li>
+            <a href="{{ nextPage.url }}">
+                Next page: {{ nextPage.data.title }}
+            </a>
+        </li>
+    {% endif %}
+</ul>
