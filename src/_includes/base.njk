@@ -21,17 +21,7 @@
     <hr/>
 
     <footer class="highlight-modern">
-      {% if pageNumber %}
-        <p>
-            This content appeared 
-            {% if pageNumber.end > pageNumber.start %}between{% else %}on{% endif %}
-            page{% if pageNumber.end > pageNumber.start %}s{% endif %}
-            {{ pageNumber.start }}
-            {% if pageNumber.end > pageNumber.start %}and {{ pageNumber.end }}{% endif %}
-            in the original book.
-        </p>
-      {% endif %}
-      <details class="mb8">
+      <details class="mb4">
           <summary>Report something wrong with this page</summary>
           <h4 class="mb0">GitHub</h4>
           <p>
@@ -43,7 +33,22 @@
               You can contact me on Twitter at <a href="https://twitter.com/nickcolley">@nickcolley</a>
           </p>
       </details>
-      Made with love by <a href="https://twitter.com/nickcolley">@nickcolley</a>
+      <p>
+        Digitally remastered by <a href="https://twitter.com/nickcolley">@nickcolley</a>
+      </p>
+      {% if pageNumber %}
+        <p>
+            This content appeared
+            {% if pageNumber.end > pageNumber.start %}between{% else %}on{% endif %}
+            page{% if pageNumber.end > pageNumber.start %}s{% endif %}
+            {{ pageNumber.start }}
+            {% if pageNumber.end > pageNumber.start %}and {{ pageNumber.end }}{% endif %}
+            in the original book.
+        </p>
+      {% endif %}
+      <p>
+        Licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International&nbsp;License</a>.
+      </p>
     </footer>
     <script src="/assets/scripts.js"></script>
   </body>
