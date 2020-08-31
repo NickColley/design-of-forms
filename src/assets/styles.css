@@ -294,13 +294,18 @@ ol li {
   counter-increment: ordered-list-counter;
 }
 ol li::before {
-  content: "(" counter(ordered-list-counter) ")";
+  content: "(" counter(ordered-list-counter, var(--counter-list-style, decimal)) ")";
   float: left;
   margin-right: .25em;
 }
 
 li {
   margin-bottom: 1rem;
+}
+
+ol > li > ol {
+  margin-top: .5rem;
+  padding-left: 1rem;
 }
 
 table {
