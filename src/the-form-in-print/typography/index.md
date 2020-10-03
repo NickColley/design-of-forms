@@ -14,7 +14,7 @@ typography will, however, help the forms designer to draft material which is pra
 to set up in type and which will not be unattractive in appearance.
 
 The printer’s type required can be described fully by specifying the name of the
-TYPE FACE, the ALPHABET required, and the SIZE. These terms are explained below:
+<span class="small-caps">type face</span>, the <span class="small-caps">alphabet</span> required, and the <span class="small-caps">size</span>. These terms are explained below:
 Type Face
 
 Each style of type face has a name (often the name of its designer), e.g. Gill Sans,
