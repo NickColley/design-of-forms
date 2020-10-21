@@ -159,7 +159,36 @@ Methods of indicating a choice between alternatives
 
 <figure>
 
-![]({{ page.url }}9.jpg)
+![Form with title: Please supply as under and debit the a/c. of the above named establishment.
+Field for signature and date.
+Table with columns for Commodity, Quantity, Price, Date supplied, and the prices.
+Row 1: NATIONAL DRIED MILK Full Cream, tins, 1/2.
+Row 2: FULL CREAM half cream, tins 1/2.
+Row 3: COD LIVER OIL, bots, 10d.
+Row 4: COD LIVER OIL (BULK SUPPLIES), gals, 17/6.
+Row 5: ORANGE JUICE, bots, 5d.
+Row 6: ORANGE JUICE JELLY, cases, 22/9
+None of the columns have date supplied or prices filled in.
+Two fields for account rendered and total.
+Second form extract with title: 
+I declare that I am entitled to receive the value of the certificates detailed hereon and I request that the amount due may be repaid:-
+Instruction to fill in (A) or (B).
+(A) in case to me at, blank field, POST OFFICE, (see note 1 at back).
+(B) by warrant payable through a bank to:, blank field, (see note 2 at back).
+Third form extract:
+Dear Sir/Madam.
+You have been granted assistance of £, blank field.
+as a first payment and at the weekly rate of £, blank field, thereafter subject
+to any change in your circumstances. I enclose a postal draft for the first
+payment which will be made at the Post Office named.
+Further payment (if required) will be made
+\* (a) in cash on your attendance at this office at, blank field, o'clock
+on, blank field.
+\* (b) by postal draft, following the receipt from you of the enclosed
+Form 0.7, completed, not later than, blank field.
+\* (c) blank field
+The amount payable may be reviewed at any time if your circumstances change.
+If you are dissatisfied with the assistance granted you should let me (extract ends).]({{ page.url }}9.jpg)
 
 <figcaption>
 Methods of indicating a choice between alternatives
@@ -168,7 +197,32 @@ Methods of indicating a choice between alternatives
 
 <figure>
 
-![]({{ page.url }}10.jpg)
+![Four form sections.
+Name field.
+Address field.
+(If this address is not right please correct it).
+If you now have a job, please complete only PART 1.
+If you are out of work, please complete only PART 2 (overleaf).
+You will notice that there are two or more statements in each section and that each statement has usually a little square against it. What you are asked to do is to put an X in the square against each section which applies to you and leave the others blank. Only one square in each section should have an X in it.
+Some of the statements will, if they apply to you, need to have a few details added by you.
+PART 1.
+(IF YOU NOW HAVE A JOB, FILL IN THIS PART OF THE FORM).
+Section 1.
+My present employer is, blank field.
+His address, blank field.
+I am employed as (please give your exact job, for example, engineer's
+fitter, builder's labourer, costing clerk), blank field.
+I have been in this job for, blank field, weeks.
+Section 2.
+Checkbox field, I have had no other work since leaving the Unit.
+Checkbox field, I have had other work besides my present job since leaving the Unit
+(please describe the earlier job or jobs and state how long you
+were in the job and reason for leaving), blank field.
+Section 3.
+Checkbox field, I am getting more money than I had in my last job before I went to the unit.
+Checkbox field, My money is about the same as it was in my last job before I went to the
+Unit.
+Checkbox field, My money is less than it was in my last job before I went to the Unit.]({{ page.url }}10.jpg)
 
 <figcaption>
 A duplicated form: note the clear and friendly instructions given to disabled persons
