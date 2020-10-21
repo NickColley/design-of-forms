@@ -394,7 +394,7 @@ th, td {
 }
 
 fieldset {
-  display: block;
+  display: inline-block;
   margin: 0;
   margin-bottom: 2rem;
   padding: 1rem;
