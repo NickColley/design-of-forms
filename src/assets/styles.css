@@ -1,9 +1,11 @@
 :root {
-  --background-color: #fcf6ea;
-  --text-color: #121211;
+  --color-dark: #121211;
+  --color-light: #fcf6ea;
+  --color-dark-secondary: #3F51B5;
+  --color-light-secondary: white;
 
-  --highlight-modern-background-color: white;
-  --highlight-modern-color: rebeccapurple;
+  --background-color: var(--color-light);
+  --text-color: var(--color-dark);
 
   /**
    * The book itself recommends Gill Sans for use in Government, and the book seems to follow that guidance.
@@ -26,6 +28,12 @@
 
   --verticle-page-margin: 12vh;
   --horizontal-page-margin: 8vw;
+}
+
+/* Dark theme */
+[data-theme="dark"] {
+  --background-color: var(--color-dark);
+  --text-color: var(--color-light);
 }
 
 
@@ -359,13 +367,23 @@ th, td {
 
 /* to highlight things not in the original book */
 .highlight-modern {
-  background: var(--highlight-modern-background-color);
-  color: var(--highlight-modern-color);
+  --border-style: solid;
+  --background-color: var(--color-light-secondary);
+  --text-color: var(--color-dark-secondary);
+  font-family: var(--font-family-sans-serif);
+  font-size: 1.2rem;
+  background: var(--background-color);
+  color: var(--text-color);
   padding: 1rem;
   border: 0;
-  border-style: double;
+  border-style: var(--border-style);
   border-top-width: 3px;
   border-bottom-width: 3px;
+}
+
+[data-theme="dark"] .highlight-modern {
+  --background-color: var(--color-dark-secondary);
+  --text-color: var(--color-light-secondary);
 }
 
 @media only screen and (max-width: 60ch) {
@@ -373,6 +391,70 @@ th, td {
     margin-left: calc(-1* var(--horizontal-page-margin));
     margin-right: calc(-1* var(--horizontal-page-margin));
   }
+}
+
+fieldset {
+  display: block;
+  margin: 0;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  padding-top: 0.5rem;
+  border: 2px var(--border-style, solid);
+}
+legend {
+  margin: 0;
+  padding: 0 .5rem;
+}
+.field {
+  --field-text-color: var(--text-color);
+  --field-background-color: var(--background-color);
+  position: relative;
+  display: inline-block;
+}
+.field:not(:last-child) {
+  margin-right: .5rem;
+}
+.field:focus-within {
+  --field-text-color: var(--background-color);
+  --field-background-color: var(--text-color);
+  outline: 4px solid var(--text-color);
+  outline-offset: 0;
+  background: var(--text-color);
+  color: var(--background-color);
+}
+.field:focus-within input:focus {
+  outline: none;
+}
+.field label,
+.field input {
+  cursor: pointer;
+}
+label::after {
+  content: '';
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  z-index: 0;
+  left: 0;
+  bottom: 0;
+}
+.field input {
+  z-index: 2;
+}
+.field label::before {
+  content: '';
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  border: .1em solid;
+  border-radius: 50%;
+  vertical-align: bottom;
+  margin-right: .4rem;
+}
+.field input:checked + label::before {
+  background: var(--field-text-color);
+  box-shadow: inset 0 0 0 0.2em var(--field-background-color);
 }
 
 .mb0 {
@@ -444,6 +526,10 @@ th, td {
   clip-path: inset(50%);
   border: 0;
   white-space: nowrap;
+}
+
+[hidden] {
+  display: none !important;
 }
 
 /* /the-form-in-print/typography */
