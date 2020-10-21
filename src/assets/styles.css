@@ -533,7 +533,7 @@ label::after {
   white-space: nowrap;
 }
 
-[hidden] {
+.no-js .js-visible {
   display: none !important;
 }
 

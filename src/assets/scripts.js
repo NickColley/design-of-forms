@@ -4,8 +4,6 @@ function setTheme(name) {
 }
 
 const $themeSelect = document.querySelector("[data-theme-select]");
-// JavaScript is avaliable so show the select.
-$themeSelect.removeAttribute("hidden");
 $themeSelect.addEventListener("input", (event) => setTheme(event.target.value));
 
 const $defaultCheckedInput = document.querySelector("[name=theme][checked]");
