@@ -31,7 +31,7 @@
 }
 
 /* Dark theme */
-[data-theme="dark"] {
+[data-theme=dark] {
   --background-color: var(--color-dark);
   --text-color: var(--color-light);
 }
@@ -250,6 +250,11 @@ img {
   mix-blend-mode: darken;
 }
 
+[data-theme=dark] img {
+  filter: invert(1);
+  mix-blend-mode: lighten;
+}
+
 .pagination {
   list-style: none;
   padding: 0;
@@ -381,7 +386,7 @@ th, td {
   border-bottom-width: 3px;
 }
 
-[data-theme="dark"] .highlight-modern {
+[data-theme=dark] .highlight-modern {
   --background-color: var(--color-dark-secondary);
   --text-color: var(--color-light-secondary);
 }
