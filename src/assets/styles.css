@@ -173,7 +173,8 @@ button {
 ul,
 ol,
 dl,
-p {
+p,
+figcaption {
   line-height: 1.5;
 }
 
@@ -259,6 +260,11 @@ img {
   padding: 3vh 0;
 }
 
+.landscape-image img {
+  max-width: 75vw;
+  height: auto;
+}
+
 @media only screen and (max-width: 900px) {
   picture > img {
     max-width: 100%;
@@ -278,6 +284,7 @@ figure > picture > img {
 
 figure,
 main > picture {
+  display: block;
   margin-bottom: 4rem;
 }
 
