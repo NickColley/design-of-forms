@@ -576,3 +576,23 @@ th, td {
 .check-list > ul > li {
   margin-bottom: 1rem;
 }
+
+/* /evolving-a-design/design-as-an-aid-to-filing-and-indexing/ */
+.correction {
+  border-top: 0.5vh solid;
+  border-bottom: 0.5vh solid;
+  margin: 0;
+  padding: 1rem 0;
+  margin-bottom: 4rem;
+}
+
+.correction .title {
+  font-size: 1.2em;
+  font-weight: normal;
+  font-family: inherit;
+  margin-top: 0;
+}
+
+.correction :last-child {
+  margin-bottom: 0;
+}
