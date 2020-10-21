@@ -60,10 +60,10 @@ Sets of similar entries with captions printed once only. Note the use of the sha
 
 <figure>
 
-![Use of stippling (a) to make a pattern to assist entry and reading (gross figures are entered in the stippled sections and the white spaces are for cumulative figures) and (6) to enable two sets of figures to be entered, distinctively, in one column]({{ page.url }}2.jpg)
+![Use of stippling (a) to make a pattern to assist entry and reading (gross figures are entered in the stippled sections and the white spaces are for cumulative figures) and (b) to enable two sets of figures to be entered, distinctively, in one column]({{ page.url }}2.jpg)
 
 <figcaption>
-Use of stippling (a) to make a pattern to assist entry and reading (gross figures are entered in the stippled sections and the white spaces are for cumulative figures) and (6) to enable two sets of figures to be entered, distinctively, in one column
+Use of stippling (a) to make a pattern to assist entry and reading (gross figures are entered in the stippled sections and the white spaces are for cumulative figures) and (b) to enable two sets of figures to be entered, distinctively, in one column
 </figcaption>
 </figure>
 
