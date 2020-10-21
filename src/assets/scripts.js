@@ -1,8 +1,14 @@
+function getCSSCustomPropertyValue (name) {
+    return window.getComputedStyle(document.documentElement).getPropertyValue('--' + name).trim()
+}
+
 function setTheme(name) {
   document.documentElement.dataset.theme = name;
+  $metaThemeColor.content = getCSSCustomPropertyValue('background-color');
   window.localStorage.setItem("theme", name);
 }
 
+const $metaThemeColor = document.querySelector('meta[name="theme-color"]');
 const $themeSelect = document.querySelector("[data-theme-select]");
 $themeSelect.addEventListener("input", (event) => setTheme(event.target.value));
 
