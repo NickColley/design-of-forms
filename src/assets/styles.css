@@ -86,6 +86,7 @@ body {
 :focus {
   outline: 4px solid var(--text-color);
   outline-offset: 0;
+  box-shadow: 0 0 0 4px var(--text-color);
   background: var(--text-color);
   color: var(--background-color);
 }
@@ -424,11 +425,14 @@ legend {
   --field-background-color: var(--text-color);
   outline: 4px solid var(--text-color);
   outline-offset: 0;
+  /* There are sometimes gaps in the multiline, box-shadow helps us plug those. */
+  box-shadow: 0 0 0 4px var(--text-color);
   background: var(--text-color);
   color: var(--background-color);
 }
 .field:focus-within input:focus {
   outline: none;
+  box-shadow: none;
 }
 .field label,
 .field input {
