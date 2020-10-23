@@ -133,7 +133,20 @@ This is a document specially prepared for punching. The variable information is 
 
 <figure>
 
-![]({{ page.url }}3.jpg)
+![Form with title PAPER AND LABELS (cont.).
+Rows of item codes for example:
+Code GP 15, Item 21, Quanity 5500 Shts., Quantity in hand crossed out, For HMSO use ticked.
+Other rows are similar with varied item numbers and quantity numbers.
+Separate section, FOR H.M.S.O. USE ONLY.
+Service chargeable table title with:
+Class: 1.
+Main: 3.
+Sub: 16.
+Sub-off: 293.
+Issue Note No.
+Stamp that reads:
+DIVN 1, SECT3, ISSUE 65432, 26 Jan 60.
+Caption: Metal numbering stamp: division and section cods, plus serial number.]({{ page.url }}3.jpg)
 
 <figcaption>
 Part of a form used by large departments when making periodical demands for stock items of stationery etc. The ‘class’ and ‘main’ codes are preprinted. The ‘sub’ and ‘sub-office’ codes are recorded by the departments and the quantity of each item required entered against the appropriate preprinted item code
@@ -142,7 +155,73 @@ Part of a form used by large departments when making periodical demands for stoc
 
 <figure>
 
-![]({{ page.url }}4.jpg)
+![Form with title MINISTRY OF WORKS - DIRECTOR OF MAINTENANCE SERVICES - ANALYSIS OF BUILDINGS ON CHARGE AS AT 1ST MARCH, 1952
+(for explanation of terms see accompanying memorandum).
+Region: (Hand written)  3.
+Building No.
+Svr. 319
+Eng. 328.
+Both: 048, 019.
+Building & Address: (Hand written) 31 Regent ST., Barchester.
+Occupying Dept: Inland Revenue.
+Section 1 with title Type of User.
+Office (other than TOB or Post Office
+Operational building):-
+(a) Purpose built, blank field.
+(b) Adapted, blank field.
+T.O.B, blank field.
+Storage Accommodation, blank field.
+Slaughterhouse, blank field.
+Hostel, Camp, etc., blank field.
+Factory, Workshop, Garage, (other than P.O.) etc, blank field.
+Research Establishment, blank field.
+Post Office Operational Building:-
+(other then T.R.S & U.A.X), blank field.
+Post Office Building:- (T.R.S. & U.A.X.).
+Coastguard:- Station and/or Cottage, blank field.
+Coastguard:- L.S.A. or Lookout Hut, blank field.
+House or Cottage (other than Coastguard).
+Ancient Monument/Historic Building, blank field.
+Miscellaneous (give brief details here)., blank field.
+Section 2 with title D.L.A FLOOR AREA (SQ.FT.).
+Not available, blank field.
+0 - 500, blank field.
+500 - 1,000, blank field.
+1,000 - 2,000, blank field.
+Section 7 with title Tenure.
+Building on on DLA charge Crown, blank field.
+Rented - Lease over 3 years, blank field.
+Rented = Lease or Tenancy Agreement 3 years or under, blank field.
+Requisition, blank field.
+Varying tenures/requisition within one building , blank field.
+Other arrangements (including Licences) , blank field.
+Building not on DLA charge
+Crown, blank field.
+Other arrangements, blank field.
+Section 8 with title No. of Separate Structures.
+Between 1 end 10, blank field.
+\- 11 and 20, blank field.
+\- 21 and 50, blank field.
+\- 51 and 100, blank field.
+Over 100, blank field.
+Section 9 with title distance from office (miles), blank field.
+Section 13 with title Gardening Carried out by M.O.W.
+No/yes, blank field.
+Under 1 acre, blank field.
+1 - 2 acres, blank field.
+2 - 5 acres, blank field.
+5 - 10 acres, blank field.
+10 - 25 acres, blank field.
+25 - 50 acres, blank field.
+Over 50 acres, blank field.
+Section 14 with title M.O.W. Rsponsible for Sewage Disposal.
+No/yes, blank field.
+Cesspool, blank field.
+Filtration gravity, blank field.
+Filtration pumped, blank field.
+Other arrangements, blank field.
+Section 15 with title Maintenance Responsibility Engineers.
+Maintenance of all normal engineering services, blank field.]({{ page.url }}4.jpg)
 
 <figcaption>
 This precoded form is sent to each Regional or Area Officer for completion in accordance
@@ -152,7 +231,27 @@ with instructions contained in a covering memorandum
 
 <figure>
 
-![]({{ page.url }}5.jpg)
+![Punchcard with column titles:
+Date, Name, Yard No. Centre, Hourly rate, Job Contract No, Head of Charge, Pay Hours, Time of labour, Clock hours, Value, Oncost.
+Sub table.
+Name: Austin G R.
+Yard No: 2G345.
+Centre: -238.
+Rate: S: 3 D: 10, DEC: -73.
+Job Contract No: Blank.
+Ship or centre: 4053.
+Section: 001.
+Sub-section: blank.
+Pay hours: 16/12.
+Type of lab: 1.
+O/C Group: 2/6.
+Clock hours: 16.
+Description of work:
+Warrior 1) 3A, Repaint to w/ T Calium.
+Calendar sub table with days of the week, normal time, absent time, overtime.
+Thurs has normal time as 8 3/4.
+Fri has normal time as 7 1/4.
+Total clock hours 16.]({{ page.url }}5.jpg)
 
 <figcaption>
 Punched cards can be used in the dual capacity of original document and punched card record; provision is made on the card for writing or typing information (either all or in part) which is subsequently punched into it. The top left-hand corner is cut to ensure cards are faced up the right way for the machine
@@ -161,7 +260,79 @@ Punched cards can be used in the dual capacity of original document and punched 
 
 <figure>
 
-![]({{ page.url }}6.jpg)
+![Punch card with title PROBATION OFFICER'S CASE WORK, YEAR 195.
+Section probation area, blank.
+Section probation office, blank.
+Name of ref. of case, blank.
+Section particulars of case with columns:
+Sex, options 1 male 2 female.
+Age when supn. began, blank.
+Case supn began, blank.
+Section type of case col 13:
+1, probation.
+2, supervision.
+3, money payment.
+4, app'd school after care.
+5, borstal after care.
+6, prison after care or licence.
+7, prison after care, voluntary.
+8, detention centre after care, voluntary.
+Section term of order col 14.
+Probation only:-
+1, one year.
+2, over 1 yr. & up to 2 yrs.
+3, over 2 yrs & up to 3 yrs.
+Supervision only:-
+4, one year or less.
+5, over 1 yr. & up to 2 yrs.
+6, over 2 yrs & up to 3 yrs.
+Section court making order col 15.
+1, juvenile.
+2, magistrates.
+3, qtr. sessions
+4, assizes.
+5, c or c. appeal.
+6, scottish.
+Section (for probation cases only).
+If on probation previously col 16.
+0, Nil.
+1, once.
+2, twice.
+3, three or more times.
+Overall section termination of cases during year:
+Section on normal date col 17.
+1, normal completion.
+2, further P.O. in force person was in.
+3, app'd school.
+4, detention centre.
+5, corstal.
+6, prison.
+7, remand home (sec. 54).
+8, supn. impracticable.
+9, lost trace.
+Section in advance of normal date col. 18:
+12, good progress.
+13, further P.O. made.
+0, Fit person order made.
+1, sent to app'd school.
+2, sent to det'n centre.
+3, sent to borstal.
+4, sent to prison.
+5, sent to remand home (sec 54).
+6, otherwise dealt with.
+7, supn. impracticable.
+Section money payment supervision col 19:
+1, paid fine.
+2, committed in default.
+3, otherwise dealt with.
+Section transfers of supervision col 20.
+0, nil.
+1, once.
+2, twice.
+3, three or more.
+Section reasons for transfer col 20.
+4, change of address.
+5, other reasons.]({{ page.url }}6.jpg)
 
 <figcaption>
 This dual purpose punched card provides a number of preprinted entries; those to be recorded are struck out, but could be otherwise indicated
@@ -172,7 +343,45 @@ The use of dual purpose cards has, however, to be restricted to jobs where the a
 
 <figure>
 
-![]({{ page.url }}7.jpg)
+![POST OFFICE TELEPHONES.
+CANTERBURY TELEPHONE MANAGER'S OFFICE,
+TELEPHONE HOUSE, NEW DOVER ROAD, CANTERBURY, KENT.
+Telephone : Canterbury 6811.
+Telex : 89119 (Telman Canterby).
+HALF YEARLY ACCOUNT FOR TELEPHONE SERVICE.
+Prompt payment will be much appreciated.
+It avoids reminders and helps to keep down the cost of the service.
+(Space for a stamp)
+DETAILS OF CHARGES
+† Rental  (quarter in arrear, quarter in advance).
+\* Trunk calls, telegrams, etc,
+Local calls (last half year)
+M = Miscellaneous
+AR = Accounts rendered
+AMOUNT, blank field.
+T = TOTAL
+\* = Statements enclosed
+† = The rental includes recurring charges for spacial directory entries and other services where appropriate.
+FOR DIRECTIONS ABOUT PAYMENT SEE NOTES OVERLEAF
+FOR USE OF SUBSCRIBER, when paying by cheque.
+OFFICE STAMP, (space for a stamp).
+Date paid, blank field.
+Cheque No., blank field.
+Received with thanks the sum of
+£ s. d.
+Initials, blank field, for Postmaster General
+Exempt from Stamp Duty
+Corres, blank field.
+OFFICE STAMP, (space for a stamp).
+(On the side of the perforated sprocket punched line.)
+COUNTERFOIL
+If payment is made by cheque by post, only
+this portion need be returned.
+(see NOTES overleaf)
+CANTERBURY TELEPHONE MANAGER'S OFFICE
+AMOUNT
+Amount Received
+£ s. d.]({{ page.url }}7.jpg)
 
 <figcaption>
 This Half Yearly Account for Telephone Service is designed as two-part continuous stationery (sprocket punched) for use on tabulating machinery
