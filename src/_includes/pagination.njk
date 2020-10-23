@@ -1,15 +1,19 @@
 {% set previousPage = null %}
-{% for item in collections.page | sortNested(false, false, 'data.pageNumber.end')  %}
+{% for item in collections.sortedPages  %}
     {% if item.data.pageNumber.end < pageNumber.end %}
         {% set previousPage = item %}
     {% endif %}
 {% endfor %}
 {% set nextPage = null %}
-{% for item in collections.page | sortNested(false, false, 'data.pageNumber.start') | reverse  %}
+{% for item in collections.sortedPages | reverse  %}
+    {% if item.data.pageNumber.start === pageNumber.start and item.data.pageNumber.end > pageNumber.end %}
+        {% set nextPage = item %}
+    {% endif %}
     {% if item.data.pageNumber.start > pageNumber.start %}
         {% set nextPage = item %}
     {% endif %}
 {% endfor %}
+
 <ul class="pagination">
     {% if previousPage %}
         <li>

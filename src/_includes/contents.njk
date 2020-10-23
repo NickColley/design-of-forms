@@ -1,4 +1,4 @@
-{% for itemSection, items in collections.page | sortNested(false, false, 'data.pageNumber.start') | groupByNested("data.section") %}
+{% for itemSection, items in collections.sortedPages | groupByNested("data.section") %}
     {% if itemSection === 'Back matter' %}
         {% for item in items %}
             <h3 id="{{ item.data.title | lower | replace(' ', '-') }}" class="upper mb3">
