@@ -10,6 +10,12 @@
   </head>
   <body>
     <script>document.documentElement.classList.remove('no-js');</script>
+    {# Set theme inline to prevent flashing of default theme. -#}
+    <script>
+      const theme = localStorage.getItem("theme");
+      if (theme) document.documentElement.dataset.theme = theme;
+    </script>
+
     <a href="#main" class="skip-link">
       Skip to main content
     </a>
