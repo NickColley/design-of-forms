@@ -3,6 +3,14 @@ layout: page.njk
 title: Gallery
 bodyClasses: max-width-100
 ---
+{% set count = 0 %}
+{% for image in collections.gallery %}
+    {% if image.alt === " " %}
+        {% set count = count + 1 %}
+    {% endif %}
+{% endfor %}
+Current progress:
+Alternative text written for {{ collections.gallery.length - count }} of {{ collections.gallery.length }} of images.
 
 {% for section, pages in collections.gallery | groupByNested("page.section") %}
     {% if section === 'Back matter' %}
