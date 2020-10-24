@@ -322,10 +322,10 @@ ol {
   padding-left: 0;
   padding-right: 0;
 }
-ol li {
+ol > li {
   counter-increment: ordered-list-counter;
 }
-ol li::before {
+ol > li::before {
   content: "(" counter(ordered-list-counter, var(--counter-list-style, decimal)) ")";
   float: left;
   margin-right: .25em;
@@ -335,7 +335,10 @@ li {
   margin-bottom: 1rem;
 }
 
-ol > li > ol {
+ul > li > ul,
+ul > li > ol,
+ol > li > ol,
+ol > li > ul {
   margin-top: .5rem;
   padding-left: 1rem;
 }
