@@ -1,6 +1,9 @@
 {% set previousPage = null %}
-{% for item in collections.sortedPages  %}
-    {% if item.data.pageNumber.end < pageNumber.end %}
+{% for item in collections.sortedPages %}
+    {% if item.data.pageNumber.start === pageNumber.start and item.data.pageNumber.end < pageNumber.end %}
+        {% set previousPage = item %}
+    {% endif %}
+    {% if item.data.pageNumber.start < pageNumber.start %}
         {% set previousPage = item %}
     {% endif %}
 {% endfor %}
