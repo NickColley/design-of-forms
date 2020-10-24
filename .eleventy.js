@@ -3,7 +3,6 @@ const fg = require('fast-glob');
 const { groupByNested } = require('./lib/filters.js')
 const markdown = require('./lib/markdown');
 const semanticLists = require('./lib/transforms/semantic-lists.js');
-const semanticFigures = require('./lib/transforms/semantic-figures.js');
 const counterStartLists = require('./lib/transforms/counter-start-lists.js');
 
 const galleryImages = fg.sync(['**/*.jpg', '!**/_site']);
@@ -19,7 +18,6 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.setLibrary("md", markdown)
     eleventyConfig.addTransform("semantic-lists", semanticLists);
-    eleventyConfig.addTransform("semantic-figures", semanticFigures);
     eleventyConfig.addTransform("counter-start-lists", counterStartLists);
 
     eleventyConfig.addCollection('gallery', () => galleryImages.map(image => image.replace('src/', '/')))
