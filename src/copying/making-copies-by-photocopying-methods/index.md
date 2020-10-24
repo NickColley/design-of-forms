@@ -76,28 +76,28 @@ Illustration B
 The tender invitation is printed on transparent film and this is placed in register with the
 translucent paper (Illustration A) and copies produced by the dyeline process
 
-![Good alt text lol]({{ page.url }}3.jpg)
+![Good alt text lol]({{ page.url }}4.jpg)
 
 Illustration C
 
 An appropriate number of tender forms is produced, the names of those invited to tender
 added, and the forms despatched
 
-![Good alt text lol]({{ page.url }}4.jpg)
+![Good alt text lol]({{ page.url }}5.jpg)
 
 Illustrations D
 
 The successful tenderer is selected and his name and address and the prices and costs
 tendered are entered on the original translucent form (Illustration A)
 
-![Good alt text lol]({{ page.url }}5.jpg)
+![Good alt text lol]({{ page.url }}6.jpg)
 
 Illustration E
 
 The text of the order is printed on film, the translucent form and the film placed in register
 and dyeline copies taken
 
-![Good alt text lol]({{ page.url }}6.jpg)
+![Good alt text lol]({{ page.url }}7.jpg)
 
 Illustration F
 

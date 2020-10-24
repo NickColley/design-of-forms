@@ -14,7 +14,7 @@ design. The methods principally used are described below.
 
 USE OF CARBON PAPERS OR CARBON COATINGS
 
-### Carbon papers
+## Carbon papers
 
 Various grades of paper and carbon paper, suitable for different methods of entry
 and yielding different numbers of copies are obtainable. For good results it is important to ensure that the right kind of carbon paper is used with a suitable paper, both
@@ -116,7 +116,7 @@ When it is intended to obtain copies on papers of other than ‘standard’ weig
 
 <div class="table-carbon-papers">
 
-#### Carbon papers
+### Carbon papers
 
 | Description | Size<br/>(inches) | Code<br/>Number | Purpose for which intended |
 | - | - | - | - | - |
