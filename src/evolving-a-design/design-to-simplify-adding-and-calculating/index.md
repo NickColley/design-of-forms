@@ -70,7 +70,8 @@ Skilled: 20,845, Semi-skilled: 22,339, Un-skilled: 14,631, Total: 57,815.
 Staff required.
 Skilled: 23,9921, Semi-skilled: 23,926, Un-skilled: 14,658, Total: 62,575.
 Variation + or -.
-Skilled: + 3,146, Semi-skilled: + 1,587, Un-skilled: + 27, Total: + 4,760.]({{ page.url }}1.jpg)
+Skilled: + 3,146, Semi-skilled: + 1,587, Un-skilled: + 27, Total: + 4,760.
+Data with the same sub-column title are aligned, for example to the top of the cell which allows you to compare between top level columns.]({{ page.url }}1.jpg)
 
 <figcaption>
 When lines of figures are staggered, this not only facilitates totalling and cross casting but also makes it easier to interpret and compare the statistical data for one period with another
@@ -79,7 +80,14 @@ When lines of figures are staggered, this not only facilitates totalling and cro
 
 <figure>
 
-![]({{ page.url }}2.jpg)
+![Top shows series of 3 fields in groups with values:
+3, 17, 6.
+5, 10, 9.
+18, 15, 7.
+1, 16, 11.
+7, 9 11.
+6, 16, (period mark).
+Second example shows same values and grouping but the first number is aligned to the top of the cell, second aligned to the middle, third to the bottom.]({{ page.url }}2.jpg)
 
 <figcaption>
 By staggering cash entries cross addition can be made much easier; this also reduces the possibility of mistakes. Staggering need not take up more space on the form than that used in the non-staggered arrangement
@@ -88,7 +96,9 @@ By staggering cash entries cross addition can be made much easier; this also red
 
 <figure>
 
-![]({{ page.url }}3.jpg)
+![Example of total credits total comparsion form.
+Each group has a blank field for £, s. and d.
+The fields with the same name are on the same row to make it easier to compare, for example £ amounts and then total them.]({{ page.url }}3.jpg)
 
 <figcaption>
 Another method of staggering cash entries for easy cross addition; this method takes up more space than the arrangement shown above but may be more suited to the general pattern of a form
@@ -97,7 +107,52 @@ Another method of staggering cash entries for easy cross addition; this method t
 
 <figure>
 
-![]({{ page.url }}4.jpg)
+![Form with title COST ANALYSIS SHEET.
+STATION: Aden.
+RATE: 19/6 per kg.
+MONTH: May, 1953.
+DEPT: Colonial Office.
+MIN CHARGE: 78/-.
+TYPE OF BAG: Full rate.
+MIN WEIGHT: 4kg.
+Table four columns.
+Column 1 divison,
+Column 2 date of despatch,
+Sub-columns for dates 4, 11, 18, 25.
+Column 3 total weight of goods sent.
+Column 4 allocated cost of monthly freight (shillings).
+Row 1 PRODUCTION SERVICES.
+Date of dispatch: (4) 3 / 3, (11) 1 / 1, (18) 3 / 1, (25) 4 / 0.
+Total weight: 11 / 5.
+Allocated cost: 261.1.
+Row 2 PHOTOGRAPHS.
+Date of dispatch: (4) blank / 9, (11) blank / 2, (18) 1 / 1, (25) blank / 8.
+Total weight: 3 / 0.
+Allocated cost: 68.1.
+Row 3 REFERENCE.
+Date of dispatch: (4) 1 / 0, (11) blank / 7, (18) blank / 9, (25) 1 / 1.
+Total weight: 3 / 7.
+Allocated cost: 84.0.
+Row 4 OVERSEAS PRESS.
+Date of dispatch: (4) blank / 2, (11) blank / 2, (18) blank / 2, (25) blank / 2.
+Total weight: blank / 8.
+Allocated cost: 18.1.
+Row 5 FILMS.
+Date of dispatch: (4) blank / 7, (11) blank / 4, (18) blank / 7, (25) blank / 9.
+Total weight: 2 / 7.
+Allocated cost: 61.3
+Row 6 URGENT GOVT DESPATCH.
+Date of dispatch: (4) 1 / 4, (11) blank / blank, (18) 2 / 1, (25) 4 / 0.
+Total weight: 27 / 5.
+Allocated cost: 170.4.
+Row 7 ACTUAL WEIGHT OF BAG.
+Date of dispatch: (4) 8 / 1, (11) 3 / 2, (18) 8 / 8, (25) 11 / 6.
+Total weight: 29 / 2.
+Allocated cost: 663.0.
+Row 8 BAG NUMBER: (4) 627, (11) 695, (18) 701, (25) 724.
+Row 9 ACTUAL COST OF BAG.
+(4) 8 / 15 / 6, (11) 3 / 18 / 6, (18) 8 / 15 / 6, (25) 11, 14, 0).
+ACTUAL MONTHLY FREIGHT COST: £33-3-0.]({{ page.url }}4.jpg)
 
 <figcaption>
 On this form dotted diagonal lines provide another method of ‘staggering’ to facilitate cross addition of Kilogrammes and the ‘Actual Cost of Bag’ figures at the bottom
@@ -106,7 +161,9 @@ On this form dotted diagonal lines provide another method of ‘staggering’ to
 
 <figure>
 
-![]({{ page.url }}5.jpg)
+![Empty form with columns Date, Voucher, Receipts, Issues, Balance.
+All columns has many rows.
+All columns apart from date have three sub columns.]({{ page.url }}5.jpg)
 
 <figcaption>
 
@@ -116,7 +173,16 @@ This arrangement of columns is less convenient for addition and subtraction than
 
 <figure>
 
-![]({{ page.url }}6.jpg)
+![Form with date field empty.
+Table with columns Date, Voucher, Receipts, Balance, Issues, Date, V.
+Date has entry 19.
+Voucher has entry Bt. fwd.
+Receipts has 4 sub entries: cwt, qrs, lbs, ozs.
+Balance has 4 sub entries: cwt, qrs, lbs, ozs.
+Issues has 4 sub entries: cwt, qrs, lbs, ozs.
+Date has entry 19.
+V has entry B.
+Many empty rows follow.]({{ page.url }}6.jpg)
 
 <figcaption>
 Addition of ‘Receipts’ to ‘Balance’ is made left to right, and the deduction of ‘Issues’ from ‘Balance’ is made right from left. This arrangement helps to reduce the possibility of error; for example, by adding instead of deducting the issues
@@ -125,7 +191,7 @@ Addition of ‘Receipts’ to ‘Balance’ is made left to right, and the deduc
 
 <figure>
 
-![]({{ page.url }}7.jpg)
+![Form with 'carried forward column' at the right most part, which is folded over to the back side of the form.]({{ page.url }}7.jpg)
 
 <figcaption>
 
@@ -135,7 +201,7 @@ Forms can be printed so that closing entries can be used as opening figures for 
 
 <figure>
 
-![]({{ page.url }}8.jpg)
+![Two forms with identical columns: Description, No., Balance Bt. Fwd., Quantity. Form on top is folded slightly to show comparison of form below.]({{ page.url }}8.jpg)
 
 <figcaption>
 If ‘carry forward’ figures can be used to provide the corresponding ‘brought forward’ figures by the use of carbon, not only are time and effort saved, but the risk of error is reduced
@@ -144,7 +210,10 @@ If ‘carry forward’ figures can be used to provide the corresponding ‘broug
 
 <figure>
 
-![]({{ page.url }}9.jpg)
+![Two forms on top of each other.
+Top form has title of second quarter, with totals for 1st Qr. and 2nd Qr.
+The form below has title of fourth quarter, with totals 3rd Qr. and 4th Qr, additionally total Year.
+Both forms include rows with entries for T which have stippled colour and P which are blank.]({{ page.url }}9.jpg)
 
 <figcaption>
 This form is tumbler printed and when turned back, as in the illustration, the column totals for the 1st and 2nd quarters on one side of the form can be aligned with the corresponding totals for the 3rd and 4th quarters on the other side; a total for the year can thus be obtained without writing down and carrying forward a separate sub-total for the 1st and 2nd quarters. Spaces for the entry of temporary variations in pay are stippled
@@ -153,7 +222,19 @@ This form is tumbler printed and when turned back, as in the illustration, the c
 
 <figure>
 
-![]({{ page.url }}10.jpg)
+![Form with title PAY SHEET.
+Columns: No., Basic pay, Overtime, Gross pay, Total deductions, Deductions (H, U, Nat. S, Tax), Net pay
+For first two rows there is card that obscures data apart from Gross pay, total deductions and Net pay.
+Gross pay: 5, 11, (period mark).
+Total deductions: 1, 1, (period mark).
+Net pay: 4, 10, (period mark).
+Unobscured row no 3 shows.
+Basic pay: 4, 7, 6.
+Overtime: 5, 6.
+Gross pay: 4, 13, (period mark).
+Total deductions: 1, 2, (period mark).
+Deductions: (Nat. s) 5, (period mark). (Tax) 17, (period mark).
+Net pay: 3, 11, (period mark).]({{ page.url }}10.jpg)
 
 <figcaption>
 Addition can be made easier by using masks of card or paper which conceal entries not to be used in the calculation
@@ -162,7 +243,43 @@ Addition can be made easier by using masks of card or paper which conceal entrie
 
 <figure>
 
-![]({{ page.url }}11.jpg)
+![Form untitled with PERIOD April — June 1959.
+Column 1 with title Class 1.
+9, 10 ,4.
+12, 9, 8.
+2, 2, -.
+2, 2, -.
+8, 10, -.
+3, 5, 6.
+Total: 37, 19, 6.
+Total: 30, 10, 6.
+Total: 41, 5, -.
+Total: 109, 15, -.
+Column 2 with title Class 2.
+11, 7, 6.
+3, 3, -.
+4, 4, -.
+Total: 18, 14, 6.
+Total: 10, 10, -.
+Total: 20, -, -.
+Total: 49, 4, 6.
+Column 3 with title Class 3.
+10, -, -.
+10, -, -.
+5, -, -.
+5, -, -.
+Total: 30, -, -.
+Total: 15, 15, -.
+Total: 35, -, -.
+Total: 80, 15, -.
+Column 4 with title Class 4.
+10, 4, 6.
+7, 18, -.
+6, 10, -.
+Total: 24, 12, 6.
+Total: 10, 10, 6.
+Total: 11, 7, 6.
+Total: 55, 19, 6.]({{ page.url }}11.jpg)
 
 <figcaption>
 Sheets with identical rulings cut to different depths so that the totals on each are visible for comparison and addition to a grand total
@@ -171,7 +288,7 @@ Sheets with identical rulings cut to different depths so that the totals on each
 
 <figure>
 
-![]({{ page.url }}12.jpg)
+![Card with 4 different tables that reference a main column of references in the middle by folding the paper to align with the reference.]({{ page.url }}12.jpg)
 
 <figcaption>
 
@@ -181,7 +298,68 @@ Ready Reckoners are used as an aid to repetitive calculation, or as an alternati
 
 <figure>
 
-![]({{ page.url }}13.jpg)
+![5 reference tables.
+Table 1 with title 20s. 10d.
+Four columns: No., £, s., d..
+Row 1: 1, 0, 10.
+Row 2: 2, 1, 8.
+Row 3: 3, 2, 6.
+Row 4: 4, 3, 4.
+Bold Row 5: 5, 4, 2.
+Row 6: 6, 5, 0.
+Row 7: 7, 5, 10.
+Row 8: 8, 6, 8.
+Row 9: 9, 7, 6.
+Bold Row 10: 10, 8, 4.
+Row 11: 11, 9, 2.
+Table 2 with title 20s. 11d.
+Row 1: 1, 0, 11.
+Row 2: 2, 1, 10.
+Row 3: 3, 2, 9.
+Row 4: 4, 3, 8.
+Bold Row 5: 5, 4, 7.
+Row 6: 6, 5 6.
+Row 7: 7, 6, 5.
+Row 8: 8, 7, 4.
+Row 9: 9, 8, 3.
+Bold Row 10: 10, 9, 2.
+Row 11: 11, 10, 1.
+Table 3 with title 21s.
+Row 1: 1, 1, 0.
+Row 2: 2, 2, 0.
+Row 3: 3, 3, 0.
+Row 4: 4, 4, 0.
+Bold Row 5: 5, 5, 0.
+Row 6: 6, 6, 0.
+Row 7: 7, 7, 0.
+Row 8: 8, 8, 0.
+Row 9: 9, 9, 0.
+Bold Row 10: 10, 10, 0.
+Row 11: 11, 11, 0.
+Table 4 with title 21s. 1d.
+Row 1: 1, 1, 1.
+Row 2: 2, 2, 2.
+Row 3: 3, 3, 3.
+Row 4: 4, 4, 4.
+Bold Row 5: 5, 5, 5.
+Row 6: 6, 6, 6.
+Row 7: 7, 7, 7.
+Row 8: 8, 8, 8.
+Row 9: 9, 9, 9.
+Bold Row 10: 10, 10, 10.
+Row 11: 11, 11, 11.
+Table 5 with title 21s. 2d.
+Row 1: 1, 1, 2.
+Row 2: 2, 2, 4.
+Row 3: 3, 3, 6.
+Row 4: 4, 4, 8.
+Bold Row 5: 5, 5, 10.
+Row 6: 6, 7, 0.
+Row 7: 7, 8, 2.
+Row 8: 8, 9, 4.
+Row 9: 9, 10, 6.
+Bold Row 10: 10, 11, 8.
+Row 11: 11, 12, 10.]({{ page.url }}13.jpg)
 
 <figcaption>
 The efficient Ready Reckoner should help the hand and eye in use on a job, e.g. reference and selection is quicker and easier when a solid mass of figures is broken up by suitable spacing, or the use of bold type
@@ -232,7 +410,9 @@ Forms may be overlapped by means of punched holes and a peg board. Various holdi
 <figcaption>
 Arrangement of entry spaces and use of stippling to facilitate addition. In each period the operations are:
 
-1. Add ‘Basic’ to ‘Total variations’ to give ‘New totals’. (2) Add ‘Permanent variations’ to ‘Basic’ and enter total against ‘Basic’ on the next lower set of entry spaces.
+1. Add ‘Basic’ to ‘Total variations’ to give ‘New totals’.
+2. Add ‘Permanent variations’ to ‘Basic’ and enter total against ‘Basic’ on the next lower set of entry spaces.
+
 The items have been arranged so that all additions are carried out over adjoining entry spaces, without jumping over entries. The entries which are relevant to one period only are stippled green; those relevant from period to period are not stippled. The entries for each period are clearly grouped by heavier lines
 </figcaption>
 </figure>
@@ -252,8 +432,7 @@ Accounting work can be reduced by exception or negative posting, e.g. posting on
 ![]({{ page.url }}20.jpg)
 
 <figcaption>
-Tumbler printing makes it possible to fold over the top edge of a form so that the ‘carried forward’ sub-totals on one side can be aligned above the ‘brought forward’ entry spaces on the other side; this facilitates copying these figures for the ‘totals’ and reduces the
-risk of error
+Tumbler printing makes it possible to fold over the top edge of a form so that the ‘carried forward’ sub-totals on one side can be aligned above the ‘brought forward’ entry spaces on the other side; this facilitates copying these figures for the ‘totals’ and reduces the risk of error
 </figcaption>
 </figure>
 
@@ -265,8 +444,12 @@ risk of error
 
 This method of coded analysis uses a small sheet and provides proof of correct summarisation. The sundry payments shown are treated as follows:
 
-1. Classify each amount in Col. 3 by placing a code number in Col. 5; this code number is selected from those pre-printed in Col. 8—the number in Col. 8 is crossed through when first used to indicate the codes used. (2) Total the amounts and code numbers in Cols. 3 and
-5. (3) Summarise the amounts in Col. 3 for each code and enter each total in Col. 6 on the same line as the corresponding code number of Col. 8—a tick is placed in Col. 4 as each amount is transferred to the summary in Col. 6. (4) Multiply each code number in Col. 5 by the number of times it is used and enter the product in Col. 7 also on the same line as the corresponding code number of Col. 8—the tick in Col. 4 is crossed through as each code is summarised for Col. 7. (5) Total Cols. 6 and 7—which should agree with the totals for Cols. 3 and 5 if correct.
+1. Classify each amount in Col. 3 by placing a code number in Col. 5; this code number is selected from those pre-printed in Col. 8—the number in Col. 8 is crossed through when first used to indicate the codes used.
+2. Total the amounts and code numbers in Cols. 3 and 5.
+3. Summarise the amounts in Col. 3 for each code and enter each total in Col. 6 on the same line as the corresponding code number of Col. 8—a tick is placed in Col. 4 as each amount is transferred to the summary in Col. 6.
+4. Multiply each code number in Col. 5 by the number of times it is used and enter the product in Col. 7 also on the same line as the corresponding code number of Col. 8—the tick in Col. 4 is crossed through as each code is summarised for Col. 7.
+5. Total Cols. 6 and 7—which should agree with the totals for Cols. 3 and 5 if correct.
+
 With a little practice this method is easy to use. The idea can be adapted to suit requirements (e.g. for a different layout, or used without pre-printed code numbers in Col. 8 when more than 25 classifications are needed). Where a wide variety of transactions occur infrequently this method could dispense with the need for recording in several separate books of account
 </figcaption>
 </figure>
