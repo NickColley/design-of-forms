@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy"
+    "build": "eleventy",
+    "test": "NODE_ENV=test eleventy"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
@@ -12,6 +13,7 @@
     "markdown-it-attrs": "^3.0.3"
   },
   "devDependencies": {
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "eleventy-plugin-accessibility": "github:nickcolley/eleventy-plugin-accessibility"
   }
 }

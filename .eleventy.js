@@ -4,8 +4,13 @@ const semanticLists = require('./lib/transforms/semantic-lists.js');
 const counterStartLists = require('./lib/transforms/counter-start-lists.js');
 const sortedPages = require('./lib/collections/sorted-pages.js')
 const gallery = require('./lib/collections/gallery.js')
+const accessibilityPlugin = require("eleventy-plugin-accessibility");
 
 module.exports = function(eleventyConfig) {
+    if (process.env.NODE_ENV === 'test') {
+        eleventyConfig.addPlugin(accessibilityPlugin);
+    }
+
     eleventyConfig.addPassthroughCopy("src/assets")
     eleventyConfig.addPassthroughCopy("src/favicon.ico")
     eleventyConfig.addPassthroughCopy("src/**/*.png")
