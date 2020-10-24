@@ -51,7 +51,7 @@ etc. is needed and the equipment is designed for use on an office desk.
 PHOTOCOPYING and other reproduction methods may sometimes be employed to
 obtain copies of forms and entries thereon.
 
-![]({{ page.url }}1.jpg)
+![ ]({{ page.url }}1.jpg)
 
 
 Requests for a laboratory report are written on this form (printed on translucent paper)
@@ -62,42 +62,42 @@ retention in the case history file; the original being retained and entries ther
 manuscript) by the laboratory staff until all the necessary reports are complete. Note the
 abbreviated captions and coded entries to save space and writing
 
-![]({{ page.url }}2.jpg)
+![ ]({{ page.url }}2.jpg)
 
 Illustration A
 
 The framework of the form is printed on translucent paper: the particulars of the goods
 needed are typed thereon
 
-![]({{ page.url }}3.jpg)
+![ ]({{ page.url }}3.jpg)
 
 Illustration B
 
 The tender invitation is printed on transparent film and this is placed in register with the
 translucent paper (Illustration A) and copies produced by the dyeline process
 
-![]({{ page.url }}3.jpg)
+![ ]({{ page.url }}3.jpg)
 
 Illustration C
 
 An appropriate number of tender forms is produced, the names of those invited to tender
 added, and the forms despatched
 
-![]({{ page.url }}4.jpg)
+![ ]({{ page.url }}4.jpg)
 
 Illustrations D
 
 The successful tenderer is selected and his name and address and the prices and costs
 tendered are entered on the original translucent form (Illustration A)
 
-![]({{ page.url }}5.jpg)
+![ ]({{ page.url }}5.jpg)
 
 Illustration E
 
 The text of the order is printed on film, the translucent form and the film placed in register
 and dyeline copies taken
 
-![]({{ page.url }}6.jpg)
+![ ]({{ page.url }}6.jpg)
 
 Illustration F
 

@@ -498,6 +498,10 @@ label::after {
   margin-bottom: 16vh;
 }
 
+.max-width-100 {
+  max-width: 100%;
+}
+
 .block {
   display: block;
 }
@@ -694,4 +698,38 @@ label::after {
 
 .correction :last-child {
   margin-bottom: 0;
+}
+
+/* /gallery */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(320px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.gallery a {
+  border: 1px solid;
+  padding: 1rem;
+}
+.gallery a:focus img {
+  filter: invert(1) hue-rotate(180deg);
+  mix-blend-mode: lighten;
+}
+[data-theme=dark] .gallery a:focus img {
+  filter: none;
+  mix-blend-mode: darken;
+}
+.gallery img {
+  max-width: 100%;
+}
+/* temporary indicators of progress */
+.gallery [alt] {
+  outline: 2px solid green;
+  outline-offset: 2px;
+}
+.gallery [alt=""] {
+  outline-color: blue;
+}
+.gallery [alt=" "] {
+  outline-color: red;
 }

@@ -23,7 +23,7 @@ A type of continuous stationery provides for the creation of an address stencil 
 
 <figure>
 
-![]({{ page.url }}1.jpg)
+![ ]({{ page.url }}1.jpg)
 
 <figcaption>
 Subscribers’ particulars are entered simultaneously in four places on this set of documents by one impression of the addressing plate. The two-ply form, edge gummed at the bottom, is printed on NCR paper and consists of a statement of account and counterfoil (top sheet) and ledger sheet and stub (bottom sheet). Perforations facilitate separation of the counterfoil from the statement and the stub from the ledger sheet
@@ -32,7 +32,7 @@ Subscribers’ particulars are entered simultaneously in four places on this set
 
 <figure>
 
-![]({{ page.url }}2.jpg)
+![ ]({{ page.url }}2.jpg)
 
 <figcaption>
 Address plate entries on several related forms. The complete impression of six lines is shown on the Earnings Record
