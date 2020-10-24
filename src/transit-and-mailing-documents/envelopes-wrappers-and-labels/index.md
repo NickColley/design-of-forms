@@ -136,7 +136,7 @@ equipment:
 should permit the contents of the envelope to be shaken down below the depth of the
 cutting edge, to avoid mutilation of the contents.
 
-![ ]({{ page.url }}1.jpg)
+![Good alt text lol]({{ page.url }}1.jpg)
 
 A form to requisition typing work can save time by providing complete information about
 how the work is to be done; without it, time may be wasted in finding the customer’s
@@ -158,7 +158,7 @@ paper sizes, normally up to 12&Prime; &times; 19&Prime;, can be passed through t
 4. ENVELOPE INSERTING AND SEALING MACHINES which can take document
 sizes from 4&Prime; &times; 4&Prime; to 84&Prime; &times; 13&Prime; and envelopes up to 9&Prime; &times; 4&Prime;.
 
-![ ]({{ page.url }}2.jpg)
+![Good alt text lol]({{ page.url }}2.jpg)
 
 
 This window envelope is designed with a front flap on which the ‘ Official Paid’ design is
@@ -167,7 +167,7 @@ itself. The flap is tucked inside to send out the blank form; when completed the
 confidential and is returned by sealing the gummed flap on the outside. After this ‘two
 way’ use the envelope can be further used with an economy label.
 
-![ ]({{ page.url }}3.jpg)
+![Good alt text lol]({{ page.url }}3.jpg)
 
 The size of documents should be fixed in relation to the size of the standard envelope used
 so that folding is minimised; small additional folds such as those shown in this diagram

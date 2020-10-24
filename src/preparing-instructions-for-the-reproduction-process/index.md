@@ -75,19 +75,19 @@ Corrections to proofs should be made in accordance with the H.M. Stationery Offi
 
 Most of the alterations made on proofs are avoidable because they could have been made on the typescript before typesetting began. If the author thinks ‘I’m not sure about this, but I can always alter it on the proof’, extra costs will be involved. Even the simplest amendment, so easy to make on a proof, is time-wasting and costly to carry out.
 
-![ ]({{ page.url }}1.jpg)
+![Good alt text lol]({{ page.url }}1.jpg)
 
 In the above example, the author has simply deleted a full point, substituted a colon, altered one letter and inserted a comma. The compositor must lift the second and third lines of type into his stick, make the corrections, respace the lines, and replace them.
 The type will be reproofed and checked by the printer. These alterations would cost as much as 2s. 6d.
 
 A few words added or deleted may mean the respacing of a large number of words by the compositor, or resetting the whole paragraph, with all the subsequent operations. Authors should consider whether the alterations are sufficiently important to warrant the cost, which in this example might be 5s.
 
-![ ]({{ page.url }}2.jpg)
+![Good alt text lol]({{ page.url }}2.jpg)
 
 
 Symbols for correcting proofs are detailed on pages 161-165. If these standard symbols are always used, corrections will be clear, unambiguous, and understood by all printers. It has been said that authors would dispense with most of their alterations if they had to pay on the spot for making them; where an alteration is essential, one should try to make it in such a way that a minimum amount of extra work will be involved. For instance, where an additional word is necessary, a word or words of about the same number of letters should be deleted: if it is necessary to delete a word one should try to add a word. Similarly, if it is necessary to add a line, it may be’ possible to knock out a line, even if it is a line of only one word, otherwise the whole paragraph may have to be reset.
 
-![ ]({{ page.url }}3.jpg)
+![Good alt text lol]({{ page.url }}3.jpg)
 
 Author’s corrections cost money and cause delay: a high proportion of alterations have to be done by hand by the printer—the most expensive way of setting type
 

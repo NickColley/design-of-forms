@@ -368,7 +368,7 @@ The efficient Ready Reckoner should help the hand and eye in use on a job, e.g. 
 
 <figure>
 
-![ ]({{ page.url }}14.jpg)
+![Good alt text lol]({{ page.url }}14.jpg)
 
 <figcaption>
 These Daily Time Sheets for one workman are summarised weekly by overlapping the forms so that entries in the spaces on the bottom edges make a column of figures; the totals so obtained are entered in the shaded box of the top copy, i.e. the last Time Sheet of the week. This dispenses with the need to create a separate list or summary of the Daily Time Sheets. When the totals have been recorded on other pay etc. documents, the weekly batch of Daily Time Sheets for each workman are stapled together for filing in alphabetical order; the forms can therefore be reassembled in the overlapping position at any time, e.g. for audit purposes
@@ -377,7 +377,7 @@ These Daily Time Sheets for one workman are summarised weekly by overlapping the
 
 <figure>
 
-![ ]({{ page.url }}15.jpg)
+![Good alt text lol]({{ page.url }}15.jpg)
 
 <figcaption>
 The carbon-coated posting strip provides a simple and inexpensive proof sheet for control purposes. Individual entries on the posting strip and separate accounting records are made in one writing operation. The totals on the posting strip provide control figures to prove posting both the correct amount and the correct account
@@ -386,7 +386,7 @@ The carbon-coated posting strip provides a simple and inexpensive proof sheet fo
 
 <figure>
 
-![ ]({{ page.url }}16.jpg)
+![Good alt text lol]({{ page.url }}16.jpg)
 
 <figcaption>
 The entries on this meter card are started at the bottom instead of at the top of the form as this facilitates calculation of the amount consumed; the previous meter reading can thus be deducted from the latest reading in the normal way; this is easier and less subject to error than starting at the top which would involve a deduction ‘upside-down’. The column for the meter reading is divided by vertical dotted lines to provide a separate space for each digit
@@ -395,7 +395,7 @@ The entries on this meter card are started at the bottom instead of at the top o
 
 <figure>
 
-![ ]({{ page.url }}17.jpg)
+![Good alt text lol]({{ page.url }}17.jpg)
 
 <figcaption>
 
@@ -405,7 +405,7 @@ Forms may be overlapped by means of punched holes and a peg board. Various holdi
 
 <figure>
 
-![ ]({{ page.url }}18.jpg)
+![Good alt text lol]({{ page.url }}18.jpg)
 
 <figcaption>
 Arrangement of entry spaces and use of stippling to facilitate addition. In each period the operations are:
@@ -419,7 +419,7 @@ The items have been arranged so that all additions are carried out over adjoinin
 
 <figure>
 
-![ ]({{ page.url }}19.jpg)
+![Good alt text lol]({{ page.url }}19.jpg)
 
 <figcaption>
 
@@ -429,7 +429,7 @@ Accounting work can be reduced by exception or negative posting, e.g. posting on
 
 <figure>
 
-![ ]({{ page.url }}20.jpg)
+![Good alt text lol]({{ page.url }}20.jpg)
 
 <figcaption>
 Tumbler printing makes it possible to fold over the top edge of a form so that the ‘carried forward’ sub-totals on one side can be aligned above the ‘brought forward’ entry spaces on the other side; this facilitates copying these figures for the ‘totals’ and reduces the risk of error
@@ -438,7 +438,7 @@ Tumbler printing makes it possible to fold over the top edge of a form so that t
 
 <figure>
 
-![ ]({{ page.url }}21.jpg)
+![Good alt text lol]({{ page.url }}21.jpg)
 
 <figcaption>
 
@@ -456,7 +456,7 @@ With a little practice this method is easy to use. The idea can be adapted to su
 
 <figure>
 
-![ ]({{ page.url }}22.jpg)
+![Good alt text lol]({{ page.url }}22.jpg)
 
 <figcaption>
 This form positions entries about change on the left edge so that all the forms can be overlapped to provide a quick indication of the subjects needing alteration, and so that the comments of all members can be summarised easily. The reasons for any suggested change are placed adjacent to the coded entry so that these comments can be conveniently related to the action suggested by members

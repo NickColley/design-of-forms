@@ -64,23 +64,23 @@ NOTE: Packets intended for transmission at the Printed Paper rate must comply wi
 regulations of that rate. (See Post Office Guide, or leaflet P386, obtainable at any Head
 Post Office.)
 
-![ ]({{ page.url }}1.jpg)
+![Good alt text lol]({{ page.url }}1.jpg)
 
 1. Single: minimum size
 
-![ ]({{ page.url }}2.jpg)
+![Good alt text lol]({{ page.url }}2.jpg)
 
 2. Single: maximum size
 
-![ ]({{ page.url }}3.jpg)
+![Good alt text lol]({{ page.url }}3.jpg)
 
 3. Single: alternative layout showing economical method of cutting
 
-![ ]({{ page.url }}4.jpg)
+![Good alt text lol]({{ page.url }}4.jpg)
 
 4. Reply folder
 
-![ ]({{ page.url }}5.jpg)
+![Good alt text lol]({{ page.url }}5.jpg)
 
 5. Reply folder: alternative layout
 
@@ -89,7 +89,7 @@ despatch, it is not possible to design a layout which avoids taking the folders 
 machine to type the second address, since the closed end of the folder must be the same
 end as that to which the postage stamp or ‘Official Paid’ design is attached.
 
-![ ]({{ page.url }}6.jpg)
+![Good alt text lol]({{ page.url }}6.jpg)
 
 1. Single Folder
 
@@ -100,11 +100,11 @@ should preferably be at least
 1&frac12;&Prime; below the top edge
 when folder is made up.
 
-![ ]({{ page.url }}7.jpg)
+![Good alt text lol]({{ page.url }}7.jpg)
 
 2. Double journey folder
 
-![ ]({{ page.url }}8.jpg)
+![Good alt text lol]({{ page.url }}8.jpg)
 
 3. Alternative type of reply or double journey folders
 

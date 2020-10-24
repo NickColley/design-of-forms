@@ -60,7 +60,7 @@ Rounded corners should be avoided for small index cards as they slow down the fi
 
 <figure>
 
-![ ]({{ page.url }}1.jpg)
+![Good alt text lol]({{ page.url }}1.jpg)
 
 <figcapton>
 Cut corners may help to detect mis-sorts or missing documents, or facilitate the extraction of carbon papers in one pulling operation
@@ -69,7 +69,7 @@ Cut corners may help to detect mis-sorts or missing documents, or facilitate the
 
 <figure>
 
-![ ]({{ page.url }}2.jpg)
+![Good alt text lol]({{ page.url }}2.jpg)
 
 <figcapton>
 On this combined record of Allocations, Dues In, and Stocks, the space at the top edge can be clipped to assist selection of a particular class of cards, or coloured signal clips can be attached at different positions. The corner is cut so that any card filed in the wrong position, back to front, or upside down, will be detected. Coloured lines throw entries into relief and break up the pattern
@@ -103,7 +103,7 @@ The additional costs must be justified by the procedural savings made.
 
 <figure>
 
-![ ]({{ page.url }}3.jpg)
+![Good alt text lol]({{ page.url }}3.jpg)
 
 <figcaption>
 Make-up of continuous stationery.
@@ -114,7 +114,7 @@ Illustrations B and D_ show the ‘interfold’ method in which copies of the sa
 
 <figure>
 
-![ ]({{ page.url }}4.jpg)
+![Good alt text lol]({{ page.url }}4.jpg)
 
 <figcaption>
 Continuous stationery for machines can be made up in packs, with that number of forms which suits the requirements of the job.
