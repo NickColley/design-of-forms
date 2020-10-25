@@ -1,6 +1,6 @@
 {% set pageIndex = 0 %}
 {% for sortedPage in collections.sortedPages %}
-    {% if sortedPage.url == page.url %}
+    {% if sortedPage.url === page.url %}
         {% set pageIndex = loop.index - 1 %}
     {% endif %}
 {% endfor %}
