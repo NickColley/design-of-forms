@@ -1,22 +1,15 @@
-{% set previousPage = null %}
-{% for item in collections.sortedPages %}
-    {% if item.data.pageNumber.start === pageNumber.start and item.data.pageNumber.end < pageNumber.end %}
-        {% set previousPage = item %}
-    {% endif %}
-    {% if item.data.pageNumber.start < pageNumber.start %}
-        {% set previousPage = item %}
+{% set pageIndex = 0 %}
+{% for sortedPage in collections.sortedPages %}
+    {% if sortedPage.url == page.url %}
+        {% set pageIndex = loop.index - 1 %}
     {% endif %}
 {% endfor %}
-{% set nextPage = null %}
-{% for item in collections.sortedPages | reverse  %}
-    {% if item.data.pageNumber.start === pageNumber.start and item.data.pageNumber.end > pageNumber.end %}
-        {% set nextPage = item %}
-    {% endif %}
-    {% if item.data.pageNumber.start > pageNumber.start %}
-        {% set nextPage = item %}
-    {% endif %}
-{% endfor %}
-
+{% if collections.sortedPages[pageIndex - 1] %}
+    {% set previousPage = collections.sortedPages[pageIndex - 1] %}
+{% endif %}
+{% if collections.sortedPages[pageIndex + 1] %}
+    {% set nextPage = collections.sortedPages[pageIndex + 1] %}
+{% endif %}
 <ul class="pagination">
     {% if previousPage %}
         <li>
