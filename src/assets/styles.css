@@ -84,6 +84,10 @@ body {
   color: inherit;
 }
 
+[aria-current]:not(:active):not(:hover):not(:focus) {
+  text-decoration: none;
+}
+
 :focus {
   outline: 4px solid var(--text-color);
   outline-offset: 0;

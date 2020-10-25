@@ -1,10 +1,13 @@
+{% macro contentItem (item) %}
+    <a href="{{ item.url }}"{% if item.url === page.url %} aria-current="page"{% endif %}>
+        {{- item.data.title -}}
+    </a>
+{% endmacro %}
 {% for itemSection, items in collections.sortedPages | groupByNested("data.section") %}
     {% if itemSection === 'Back matter' %}
         {% for item in items %}
             <h3 id="{{ item.data.title | lower | replace(' ', '-') }}" class="upper mb3">
-                <a href="{{ item.url }}">
-                    {{- item.data.title -}}
-                </a>
+                {{ contentItem(item) }}
                 {{ item.data.pageNumber.start }}
             </h3>
         {% endfor %}
@@ -15,9 +18,7 @@
         <dl>
             {% for item in items %}
                 <dt>
-                    <a href="{{ item.url }}">
-                        {{- item.data.title -}}
-                    </a>
+                    {{ contentItem(item) }}
                 </dt>
                 <dd>
                     {% if itemSection === 'Introduction' %}page {% endif %}
