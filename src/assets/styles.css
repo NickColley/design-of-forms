@@ -727,13 +727,13 @@ label::after {
   max-width: 100%;
 }
 /* temporary indicators of progress */
-.gallery [alt] {
-  outline: 2px solid green;
+[alt] {
+  outline: 2px solid transparent;
   outline-offset: 2px;
 }
-.gallery [alt=""] {
+[alt=""] {
   outline-color: blue;
 }
-.gallery [alt=" "] {
+[alt=" "] {
   outline-color: red;
 }
