@@ -662,8 +662,15 @@ label::after {
 }
 
 .index-list > ul {
-  column-count: 2;
   padding-left: 0;
+}
+
+@media only screen and (min-width: 100ch) {
+  .index-list > ul {
+    column-count: 2;
+    width: 70vw;
+    gap: 2rem;
+  }
 }
 
 .index-list p {

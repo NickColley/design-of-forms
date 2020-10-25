@@ -10,7 +10,7 @@ pageNumber:
 
 <div class="index-list">
 
-- ACCOUNTING machines,
+- <span class="small-caps">Accounting</span> machines,
     - making entries, 54
 - Adding and calculating,
     - various devices, 68/82
@@ -41,7 +41,7 @@ pageNumber:
     -  entry of large numbers, 30, 47
     -  position of captions, 26/28, 49
 - 
-- CALCULATING: see Adding
+- <span class="small-caps">Calculating</span>: see Adding
 - Captions, general, 38
     -  forms completed by typewriter, 49
     -  position, 26/28, 49
@@ -82,7 +82,7 @@ pageNumber:
     -  sorting symbols, ro1, 102
 - Cost factors, 17
 
-- DECLARATION: counter signatures, 38
+- <span class="small-caps">Declaration</span>: counter signatures, 38
 - Delivery of forms from printers, 158
 - Draft forms,
     -  layout and instructions to printer, 112/118, 155
@@ -90,7 +90,7 @@ pageNumber:
 - Dual purpose punched cards, 61
 - Duplicating processes, 144
 
-- ELECTRONIC computer forms (ADP), 63
+- <span class="small-caps">Electronic</span> computer forms (ADP), 63
 - Entries and entry spaces, 45
     -  accounting machines, 54
     -  addressing machines, 54/56
@@ -121,7 +121,7 @@ pageNumber:
 - Gummed coloured labels, 99
 - Gumming edges, 88
 
-- HANDLING forms, 94, 98
+- <span class="small-caps">Handling</span> forms, 94, 98
 - Headings of forms, 17/19
 
 - Impact on public: factors, 16/18, 21, 22
@@ -141,7 +141,7 @@ pageNumber:
 - Instructions for reproducing the form, 154
 - Internal transit documents, 103
 
-- LABELS, economy, 103
+- <span class="small-caps">Labels</span>, economy, 103
 - Letterpress: see Typographical treatment
 - Line numbers, 25, 50
 - Lines,
@@ -168,20 +168,20 @@ pageNumber:
 - Masking devices, 67, 73
 - Multi-part forms, 88, 139
 
-- NAMES, 38
+- <span class="small-caps">Names</span>, 38
 - Nationality, 38
-- NCR paper, 136
+- <span class="small-caps">Ncr</span> paper, 136
 - Notes and instructions: see Instructions
 - Numbers for entry spaces, 23
 - Numbering of forms,
     -  identification, 18
     -  serial, 18
 
-- OFFICE machines,
+- <span class="small-caps">Office</span> machines,
     -  layout requirements, 22
 - Offset lithoform production, 87
 
-- PADDED forms, 88
+- <span class="small-caps">Padded</span> forms, 88
 - Panels and boxes,
     -  general, 22, 23
     -  codings, 64, 65
@@ -216,7 +216,7 @@ pageNumber:
     -  filing, 83
     -  sprocket feed for forms, 142
 
-- QUANTITY of forms,
+- <span class="small-caps">Quantity</span> of forms,
     -  method of reproduction, 154
     -  quantity to order, 158
 - Questions on form, 38
@@ -231,7 +231,7 @@ pageNumber:
 - Rules: see Typographical treatment
 - Ruling: see Lines
 
-- SAMPLES, for printer, 156
+- <span class="small-caps">Samples</span>, for printer, 156
 - Scoring, for folding, 89
 - Serial numbers, 20, 31
 - Shading, 24
@@ -259,7 +259,7 @@ pageNumber:
     -  to indicate instructions, 23
     -  for proof correction, 159
 
-- TABULATION Stops (typewriters), 48
+- <span class="small-caps">Tabulation</span> Stops (typewriters), 48
 - Title of form, 18
 - Transparencies, 145/153
 - Translucent paper and dyeline copying,
@@ -273,7 +273,7 @@ pageNumber:
     -  choice of type, weights and faces, 113, 11g, 120
     -  rules, 120
 
-- VARITYPER characters, 52, 53
+- <span class="small-caps">Varityper</span> characters, 52, 53
 
 - WINDOW envelopes, 104
 - Wording of forms, 21, 38
