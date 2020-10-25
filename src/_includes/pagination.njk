@@ -10,6 +10,7 @@
 {% if collections.sortedPages[pageIndex + 1] %}
     {% set nextPage = collections.sortedPages[pageIndex + 1] %}
 {% endif %}
+{% if tags and "page" in tags %}
 <ul class="pagination">
     {% if previousPage %}
         <li>
@@ -26,3 +27,4 @@
         </li>
     {% endif %}
 </ul>
+{% endif %}
