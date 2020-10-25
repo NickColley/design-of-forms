@@ -60,7 +60,7 @@ Rounded corners should be avoided for small index cards as they slow down the fi
 
 <figure>
 
-![ ]({{ page.url }}1.jpg)
+![]({{ page.url }}1.jpg)
 
 <figcapton>
 Cut corners may help to detect mis-sorts or missing documents, or facilitate the extraction of carbon papers in one pulling operation
@@ -69,7 +69,7 @@ Cut corners may help to detect mis-sorts or missing documents, or facilitate the
 
 <figure>
 
-![ ]({{ page.url }}2.jpg)
+![]({{ page.url }}2.jpg)
 
 <figcapton>
 On this combined record of Allocations, Dues In, and Stocks, the space at the top edge can be clipped to assist selection of a particular class of cards, or coloured signal clips can be attached at different positions. The corner is cut so that any card filed in the wrong position, back to front, or upside down, will be detected. Coloured lines throw entries into relief and break up the pattern
@@ -103,22 +103,25 @@ The additional costs must be justified by the procedural savings made.
 
 <figure>
 
-![ ]({{ page.url }}3.jpg)
+![Forms on a long roll of paper with perforations between the forms.]({{ page.url }}3.jpg)
 
 <figcaption>
 Make-up of continuous stationery.
-Illustrations a and c show the common ‘concertina’ fold between copies.
-Illustrations B and D_ show the ‘interfold’ method in which copies of the same form are not joined together
+Illustrations A and C show the common ‘concertina’ fold between copies.
+Illustrations B and D show the ‘interfold’ method in which copies of the same form are not joined together
 </figcaption>
 </figure>
 
 <figure>
 
-![ ]({{ page.url }}4.jpg)
+![]({{ page.url }}4.jpg)
 
 <figcaption>
+<p>
 Continuous stationery for machines can be made up in packs, with that number of forms which suits the requirements of the job.
+</p>
+<p>
+These forms are made up in perforated strips (6 forms per sheet) to facilitate typing. The two forms are in register and with ordinary carbon papers enable the simultaneous preparation of an index slip for the Inspector’s office (P203) and a copy for the Collector’s office (P203A) which, on the reverse side, gives additional information about the reason for issue as shown in the torn-off specimen at the bottom
+</p>
 </figcaption>
 </figure>
-
-These forms are made up in perforated strips (6 forms per sheet) to facilitate typing. The two forms are in register and with ordinary carbon papers enable the simultaneous preparation of an index slip for the Inspector’s office (P203) and a copy for the Collector’s office (P203A) which, on the reverse side, gives additional information about the reason for issue as shown in the torn-off specimen at the bottom
