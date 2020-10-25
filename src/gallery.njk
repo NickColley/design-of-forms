@@ -11,30 +11,26 @@ bodyClasses: max-width-100
 {% endfor %}
 Current progress:
 Alternative text written for {{ collections.gallery.length - count }} of {{ collections.gallery.length }} of images.
-
+{% macro gallery (images, headingLevel) %}
+    <div class="gallery">
+        {% for image in images %}
+            <a href="{{ image.href }}">
+                <img src="{{ image.src }}" alt="{{ image.alt }}" loading="lazy">
+            </a>
+        {% endfor %}
+    </div>
+{% endmacro %}
 {% for section, pages in collections.gallery | groupByNested("page.section") %}
     {% if section === 'Back matter' %}
         {% for pageTitle, images in pages | groupByNested("page.title")  %}
             <h2>{{ pageTitle }}</h2>
-            <div class="gallery">
-                {% for image in images %}
-                    <a href="{{ image.href }}">
-                        <img src="{{ image.src }}" alt="{{ image.alt }}" loading="lazy">
-                    </a>
-                {% endfor %}
-            </div>
+            {{ gallery(images) }}
         {% endfor %}
     {% else %}
         <h2>{{ section }}</h2>
         {% for pageTitle, images in pages | groupByNested("page.title")  %}
             <h3>{{ pageTitle }}</h3>
-            <div class="gallery">
-                {% for image in images %}
-                    <a href="{{ image.href }}">
-                        <img src="{{ image.src }}" alt="{{ image.alt }}" loading="lazy">
-                    </a>
-                {% endfor %}
-            </div>
+            {{ gallery(images) }}
         {% endfor %}
     {% endif %}
 {% endfor %}
