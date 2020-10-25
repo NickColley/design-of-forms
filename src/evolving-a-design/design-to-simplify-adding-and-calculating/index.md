@@ -368,7 +368,43 @@ The efficient Ready Reckoner should help the hand and eye in use on a job, e.g. 
 
 <figure>
 
-![ ]({{ page.url }}14.jpg)
+![Stacked DAILY TIME SHEET one for each day of the week.
+Form Thursday.
+HQRS.: Blanktown.
+Name: J.R. Holme (block letters).
+Control: Blanktown.
+Rota Duty No., blank field.
+Rank: T2 BU.
+Date: 22-5-59.
+Time: From 7.45a.m, TO 8.30p.m.
+Vehicle type: Morris. No.: U1473.
+Remarks re claims for conveyance & subsistence: working at blank(unreadable).
+Signed: (Signature) J.R. Holme.
+Entries on this form must be
+strictly accurate. The deliberate
+entry of incorrect particulars ts
+regarded as a grave offence.
+CERTIFIED. The extra duty claimed “ts:
+in excess of the scheduled normal
+week. Signed: R. A. Allan.
+A.E/INSP.
+Sunday paid HRS.: 2.
+Sunday: 57 1/2.
+Total hours allocated: 11 3/4.
+Night hours on extra duty: 1/2.
+Sunday an extra duty: 3.
+Trav. to other H.Q. outside normal hours, blank field.
+Allowances see RG71, blank fliend.
+DVG. Allce.: 8d
+Cycle Clg. Allice., blank field.
+Sub't'n acting rank, blank field.
+Form Wednesday, total hours: 8 3/4.
+Form Tuesday, total hours: 9 3/4.
+Form Monday, total hours: 8 3/4.
+Form Saturday, total hours: 5.
+Form Friday, total hours: 11 1/2. Night hours: 1/4. Sunday and extra duty: 2 1/2.
+Form Sunday, total hours 2. Sunday and extra duty: 2.
+Each day has DVG. Allce. as 8d.]({{ page.url }}14.jpg)
 
 <figcaption>
 These Daily Time Sheets for one workman are summarised weekly by overlapping the forms so that entries in the spaces on the bottom edges make a column of figures; the totals so obtained are entered in the shaded box of the top copy, i.e. the last Time Sheet of the week. This dispenses with the need to create a separate list or summary of the Daily Time Sheets. When the totals have been recorded on other pay etc. documents, the weekly batch of Daily Time Sheets for each workman are stapled together for filing in alphabetical order; the forms can therefore be reassembled in the overlapping position at any time, e.g. for audit purposes
@@ -377,7 +413,7 @@ These Daily Time Sheets for one workman are summarised weekly by overlapping the
 
 <figure>
 
-![ ]({{ page.url }}15.jpg)
+![]({{ page.url }}15.jpg)
 
 <figcaption>
 The carbon-coated posting strip provides a simple and inexpensive proof sheet for control purposes. Individual entries on the posting strip and separate accounting records are made in one writing operation. The totals on the posting strip provide control figures to prove posting both the correct amount and the correct account
@@ -386,7 +422,28 @@ The carbon-coated posting strip provides a simple and inexpensive proof sheet fo
 
 <figure>
 
-![ ]({{ page.url }}16.jpg)
+![Army Form K 1257.
+METER CARD.
+(This Card is the property of the War Department).
+Address: Major R. Wilkinson, Regents Park.
+Meter Number: 3305723.
+Date Installed: blank field.
+Lighting power or Gas water (crossed out).*
+\* Delete as appropriate.
+Start entries (Columns 1 to 5) at FOOT
+of page and work UPWARDS.
+Table with 5 columns:
+Date of Reading,
+Reading,
+Consumption since previous reading units gallons cubic feet,
+Entered by Meter Reader on AF. K.1250 on Folio No.,
+Signature of Meter Reader.
+Entries are at the bottom of the form.
+Date: 39.6.59, Reading: 60325, Consumption: 289.
+Date: 31.5:59, Reading: 60036, Consumption: 309.
+Date: 30.4:59, Reading: 59727, Consumption: 420.
+Date: 31.3:59, Reading: 59307, Consumption: 556.
+Date: 28.2:59, Reading: 58751, Consumption: dash.]({{ page.url }}16.jpg)
 
 <figcaption>
 The entries on this meter card are started at the bottom instead of at the top of the form as this facilitates calculation of the amount consumed; the previous meter reading can thus be deducted from the latest reading in the normal way; this is easier and less subject to error than starting at the top which would involve a deduction ‘upside-down’. The column for the meter reading is divided by vertical dotted lines to provide a separate space for each digit
@@ -395,7 +452,7 @@ The entries on this meter card are started at the bottom instead of at the top o
 
 <figure>
 
-![ ]({{ page.url }}17.jpg)
+![Empty form with first column for items and other columns for value in money.]({{ page.url }}17.jpg)
 
 <figcaption>
 
@@ -405,7 +462,20 @@ Forms may be overlapped by means of punched holes and a peg board. Various holdi
 
 <figure>
 
-![ ]({{ page.url }}18.jpg)
+![Form with title Pre-control.
+Table with columns:
+Employer's Health Insurance,
+Full pay,
+Contributions,
+Sub-columns:
+Health,
+Billeting,
+WDF.
+Row headings include:
+New totals,
+Total variations,
+Basic,
+Permanent variations.]({{ page.url }}18.jpg)
 
 <figcaption>
 Arrangement of entry spaces and use of stippling to facilitate addition. In each period the operations are:
@@ -419,7 +489,17 @@ The items have been arranged so that all additions are carried out over adjoinin
 
 <figure>
 
-![ ]({{ page.url }}19.jpg)
+![Form with title weekly cash list.
+Column 1 A/c no.
+Column 2 amount due.
+Column 3 amount paid.
+Column 4 balance.
+Rows have cash paid between 7 and 10.
+Totals add up to 11, 13, 6 due. 10 - - paid. 1, 13, 6 balance.
+Date: 21.4
+Daily cash totals, blank field.
+Second form attached seamlessly for comparison with title week numbers.
+Columns 1 though 13.]({{ page.url }}19.jpg)
 
 <figcaption>
 
@@ -429,7 +509,7 @@ Accounting work can be reduced by exception or negative posting, e.g. posting on
 
 <figure>
 
-![ ]({{ page.url }}20.jpg)
+![]({{ page.url }}20.jpg)
 
 <figcaption>
 Tumbler printing makes it possible to fold over the top edge of a form so that the ‘carried forward’ sub-totals on one side can be aligned above the ‘brought forward’ entry spaces on the other side; this facilitates copying these figures for the ‘totals’ and reduces the risk of error
@@ -438,7 +518,20 @@ Tumbler printing makes it possible to fold over the top edge of a form so that t
 
 <figure>
 
-![ ]({{ page.url }}21.jpg)
+![Table with columns 2 through 8.
+Column 2 empty.
+Column 3 accounts.
+Column 4 check mark.
+Column 5 Code No.
+Column 6 Summary.
+Column 7 Code no summ:.
+Column 8 carried numbers.
+Example row:
+Amount: 10, -.
+Check mark: Checked.
+Code no: 9.
+Summary: blank.
+Code no summ: blank.]({{ page.url }}21.jpg)
 
 <figcaption>
 
@@ -456,7 +549,29 @@ With a little practice this method is easy to use. The idea can be adapted to su
 
 <figure>
 
-![ ]({{ page.url }}22.jpg)
+![Form with title MEMBERS COMMENTS ON ORGANISATION AND METHODS TRAINING COURSE / 1958.
+If you have any changes to suggest please enter: M = more; L= less; O= omit; A= alter.
+Otherwise leave column blank.
+Please also give reasons for changes suggested, e.g.
+MORE information about xxx, say, one session.
+LESS xxxx: two sessions would suffice.
+OMIT Too elementary.
+ALTER PRESENTATION: discussion would be better than film.
+ALTER PROGRAMME ORDER to take xxxx first week.
+ALTER CONTENT to include more yyyy instead of xxxx.
+Table two columns.
+First column: Subject
+Row headings:
+ORGANISATION AND MANAGEMENT,
+Local Office management,
+Office Supervision (film),
+Costing,
+Syndicate problems (1 2 3),
+Case studies (1 2 3),
+PRACTICE OF O&M,
+Planning and starting the assignment,
+Conduct of enquiries.
+Second column:  REASONS FOR ANY CHANGES RECOMMENDED. Continue on separate sheet if necessary.]({{ page.url }}22.jpg)
 
 <figcaption>
 This form positions entries about change on the left edge so that all the forms can be overlapped to provide a quick indication of the subjects needing alteration, and so that the comments of all members can be summarised easily. The reasons for any suggested change are placed adjacent to the coded entry so that these comments can be conveniently related to the action suggested by members
