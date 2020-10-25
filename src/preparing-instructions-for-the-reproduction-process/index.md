@@ -75,24 +75,42 @@ Corrections to proofs should be made in accordance with the H.M. Stationery Offi
 
 Most of the alterations made on proofs are avoidable because they could have been made on the typescript before typesetting began. If the author thinks ‘I’m not sure about this, but I can always alter it on the proof’, extra costs will be involved. Even the simplest amendment, so easy to make on a proof, is time-wasting and costly to carry out.
 
-![ ]({{ page.url }}1.jpg)
+<figure>
 
+![Author's alterations should be kept to the absolute minimum, forwards slash mark, Printers' (P has forward slash crossed out) proofs are intended for checking (forwards slash with leg) not for alteration. (Circled colon), (l.c. forwards slash), (quote forwards slash with leg).
+]({{ page.url }}1.jpg)
+
+<figcaption>
 In the above example, the author has simply deleted a full point, substituted a colon, altered one letter and inserted a comma. The compositor must lift the second and third lines of type into his stick, make the corrections, respace the lines, and replace them.
 The type will be reproofed and checked by the printer. These alterations would cost as much as 2s. 6d.
+</figcaption>
+</figure>
 
+<figure>
+<figcaption>
 A few words added or deleted may mean the respacing of a large number of words by the compositor, or resetting the whole paragraph, with all the subsequent operations. Authors should consider whether the alterations are sufficiently important to warrant the cost, which in this example might be 5s.
+</figcaption>
 
-![ ]({{ page.url }}2.jpg)
+![(Ampersand symbol), (A symbol with three underlines), (Forwards slash).
+It is essential that (crossed out).
+Author's, (A is crossed out), alterations, (forwards slash with leg), be kept to the absolute minimum.(should with forwards slash with leg).
+Printers proofs are intended for, (forwards slash with leg), correction, not alteration. (checking and with forwards slash with leg).]({{ page.url }}2.jpg)
 
+</figure>
 
-Symbols for correcting proofs are detailed on pages 161-165. If these standard symbols are always used, corrections will be clear, unambiguous, and understood by all printers. It has been said that authors would dispense with most of their alterations if they had to pay on the spot for making them; where an alteration is essential, one should try to make it in such a way that a minimum amount of extra work will be involved. For instance, where an additional word is necessary, a word or words of about the same number of letters should be deleted: if it is necessary to delete a word one should try to add a word. Similarly, if it is necessary to add a line, it may be’ possible to knock out a line, even if it is a line of only one word, otherwise the whole paragraph may have to be reset.
+Symbols for correcting proofs are detailed on <a href="/table-of-symbols-for-proof-correction/">pages 161-165</a>. If these standard symbols are always used, corrections will be clear, unambiguous, and understood by all printers. It has been said that authors would dispense with most of their alterations if they had to pay on the spot for making them; where an alteration is essential, one should try to make it in such a way that a minimum amount of extra work will be involved. For instance, where an additional word is necessary, a word or words of about the same number of letters should be deleted: if it is necessary to delete a word one should try to add a word. Similarly, if it is necessary to add a line, it may be’ possible to knock out a line, even if it is a line of only one word, otherwise the whole paragraph may have to be reset.
 
-![ ]({{ page.url }}3.jpg)
+<figure>
 
+![Person setting metal type into frame by hand.]({{ page.url }}3.jpg)
+
+<figcaption>
 Author’s corrections cost money and cause delay: a high proportion of alterations have to be done by hand by the printer—the most expensive way of setting type
+</figcaption>
+</figure>
 
 
-SUPPLY ARRANGEMENTS concerning the quantity to order and reprints will also need to be considered. Whilst a decision on the proper stocks of forms to be held will not usually lie with the person designing the form, the familiarity with the uses of the form which that person must have gained in preparing the design, makes it desirable that he should indicate the rate of consumption and how that rate is likely to change in the course of (say) the next six months.
+<span class="small-caps">Supply arrangements</span> concerning the quantity to order and reprints will also need to be considered. Whilst a decision on the proper stocks of forms to be held will not usually lie with the person designing the form, the familiarity with the uses of the form which that person must have gained in preparing the design, makes it desirable that he should indicate the rate of consumption and how that rate is likely to change in the course of (say) the next six months.
 
 If the form is likely to be reprinted, every effort should be made to see that it is in a final design when first reproduced, so that no alterations which are really afterthoughts need be made on reprinting. Production costs are reduced if the same type etc. can be used again, and if repeat orders are likely after a certain period this should be stated. The type-standing procedure is explained more fully in H.M. Stationery Office Guide, Part 1: Notes for Clerks of Stationery.
 
