@@ -82,9 +82,45 @@ It may sometimes be necessary to consider certain features of mail handling equi
 
 1. <span class="small-caps">Envelope opening machines</span>: the size of the document and envelope should permit the contents of the envelope to be shaken down below the depth of the cutting edge, to avoid mutilation of the contents.
 
-![ ]({{ page.url }}1.jpg)
+<figure>
 
-A form to requisition typing work can save time by providing complete information about how the work is to be done; without it, time may be wasted in finding the customer’s number in the telephone book to obtain instructions. An alternative is a two-way folder to convey typing work to and from the customers, and to provide all the details required by the typing staff. The address of the customer and typing pool need be written once only during the life of the folder. Where several typing pools or customer branches are involved, a different coloured folder could be used for each one. Punched holes to indicate when empty would add to the usefulness of this internal transit document
+![Empty form with title To Typing Pool. (M.O.S. Form 300).
+Room, blank field.
+House, blank field.
+Table with columns:
+Date,
+Pool Ref. No.,
+No, of copies 1 +
+Style:
+\1. Official headed; 2. Semi-official Headed; 3. Minute; 4. Draft; 5. Report 6. Statement.
+Sub columns:
+Style No., Other instructions.
+Paper on top of form with title Requisition for typing up to + 7 copies. (See Office Procedure, Part A, Section 6).3
+Pool Ref. No., blank field.
+Date, blank field.
+To: Typing Pool
+Room, blank field.
+blank field, House.
+From:, blank field (Branch).
+Room, blank field.
+Telephone Extn., blank field.
+Please type 1 +, blank field, copies of the attached as follows:
+Official headed / Semi-official headed /
+Minute / Draft / Report / Statement.
+(Delete as necessary).
+Any special instructions:, blank field.
+If the work is required URGENTLY, i.e. in less
+than 36 hours, an officer not below the rank
+of H.E.O. (or equivalent) should sign here.
+NOTE: All drafts should be written in INK BLOCK LETTERS should be used for names, technical terms, etc.]({{ page.url }}1.jpg)
+
+<figcaption>
+A form to requisition typing work can save time by providing complete information about how the work is to be done; without it, time may be wasted in finding the customer’s number in the telephone book to obtain instructions.
+</figcaption>
+</figure>
+
+An alternative is a two-way folder to convey typing work to and from the customers, and to provide all the details required by the typing staff. The address of the customer and typing pool need be written once only during the life of the folder. Where several typing pools or customer branches are involved, a different coloured folder could be used for each one. Punched holes to indicate when empty would add to the usefulness of this internal transit document
+
 2. <span class="small-caps">Folding machines</span>: these machines can make a variety of folds, ranging from the single-fold to the more complicated accordion folds. Folding is so accurate that it facilitates the tuck-in of documents designed as postal folders, or the correct placing of the address when the document is despatched in a window envelope. A range of paper sizes, normally up to 12&Prime; &times; 19&Prime;, can be passed through the machine.
 3. <span class="small-caps">Wrapping machines</span> for magazines, catalogues and periodicals up to about
 14&Prime; &times; 12&Prime; which can be rolled in wrappers up to 12&Prime; &times; 14&Prime;.
