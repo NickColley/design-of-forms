@@ -244,6 +244,7 @@ footer {
 }
 
 details > summary {
+  display: inline-block;
   text-decoration: underline;
   cursor: pointer;
 }
