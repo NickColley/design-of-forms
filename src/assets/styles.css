@@ -277,7 +277,7 @@ img {
 
 .pagination a {
   display: block;
-  padding: 3vh 0;
+  padding: 3vh 1rem;
 }
 
 .landscape-image img {
