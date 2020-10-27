@@ -263,8 +263,8 @@ declaration, 6 blank fields.
 (f) Where vehicle is ordinarily kept, 3 blank fields.
 (g) (i) If the vehicle is a van (or a vehicle of a shooting
 brake or an estate wagon type) is it fitted with side windows to the rear of the driver's seat?
-(See NOTE 2.) Answer * YES’ or ‘NO’, blank field.
-(ii) If the answer to (i) is * YES *, were the windows
+(See NOTE 2.) Answer ‘YES’ or ‘NO’, blank field.
+(ii) If the answer to (i) is ‘YES’, were the windows
 fitted after you acquired the vehicle or after 1st June, 1986 whichever is the later?,  blank field.
 NOTE.—A VALID CERTIFICATE OF INSURANCE (NOT THE POLICY) AND THE REGISTRATION BOOK MUST BE PRODUCED.
 C.—DECLARATION.
