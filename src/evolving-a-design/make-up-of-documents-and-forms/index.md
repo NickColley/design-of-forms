@@ -60,7 +60,7 @@ Rounded corners should be avoided for small index cards as they slow down the fi
 
 <figure>
 
-![]({{ page.url }}1.jpg)
+![Cut corners may help to detect mis-sorts or missing documents, or facilitate the extraction of carbon papers in one pulling operation]({{ page.url }}1.jpg)
 
 <figcapton>
 Cut corners may help to detect mis-sorts or missing documents, or facilitate the extraction of carbon papers in one pulling operation
@@ -114,7 +114,7 @@ Illustrations B and D show the ‘interfold’ method in which copies of the sam
 
 <figure>
 
-![]({{ page.url }}4.jpg)
+![These forms are made up in perforated strips (6 forms per sheet) to facilitate typing.]({{ page.url }}4.jpg)
 
 <figcaption>
 <p>

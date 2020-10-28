@@ -37,34 +37,31 @@ The following may simplify filing and indexing work:
 ![Manilla wallet envelope that also has a form printed on the front.]({{ page.url }}1.jpg)
 
 <figcaption>
-This manilla wallet serves as a casepaper and as a file container for correspondence and
-other forms used on the case
+This manilla wallet serves as a casepaper and as a file container for correspondence and other forms used on the case
 </figcaption>
 </figure>
 
 <figure>
 
-![]({{ page.url }}2.jpg)
+![Specification: Punch 2 round holes &frac14;&Prime; in diameter, centrally on binding edge, at centres of 8cm. with centres of holes &frac18;&Prime; from binding edge]({{ page.url }}2.jpg)
 
 <figcaption>
-Specification: Punch 2 round holes &frac14;&Prime; in diameter, centrally on binding edge, at centres
-of 8cm. with centres of holes &frac18;&Prime; from binding edge
+Specification: Punch 2 round holes &frac14;&Prime; in diameter, centrally on binding edge, at centres of 8cm. with centres of holes &frac18;&Prime; from binding edge
 </figcaption>
 </figure>
 
 <figure>
 
-![]({{ page.url }}3.jpg)
+![Specification: Punch 4 round holes &frac14;&Prime; in diameter, centrally on binding edge, at centres of 13/16&Prime; &plus; 1&frac78;&Prime; &plus; 13/16&Prime; = 3&frac12;&Prime;, with centres of holes &frac18;&Prime; from binding edge]({{ page.url }}3.jpg)
 
 <figcaption>
-Specification: Punch 4 round holes &frac14;&Prime; in diameter, centrally on binding edge, at centres
-of 13/16&Prime; &plus; 1&frac78;&Prime; &plus; 13/16&Prime; = 3&frac12;&Prime;, with centres of holes &frac18;&Prime; from binding edge
+Specification: Punch 4 round holes &frac14;&Prime; in diameter, centrally on binding edge, at centres of 13/16&Prime; &plus; 1&frac78;&Prime; &plus; 13/16&Prime; = 3&frac12;&Prime;, with centres of holes &frac18;&Prime; from binding edge
 </figcaption>
 </figure>
 
 <figure>
 
-![]({{ page.url }}4.jpg)
+![Specification: Multi-punch with round holes 7/32&Prime; in diameter on binding edge at centres of &frac38;&Prime; with centres of holes 5/16&Prime; from binding edge]({{ page.url }}4.jpg)
 
 <figcaption>
 Specification: Multi-punch with round holes 7/32&Prime; in diameter on binding edge at centres of &frac38;&Prime; with centres of holes 5/16&Prime; from binding edge
@@ -73,7 +70,7 @@ Specification: Multi-punch with round holes 7/32&Prime; in diameter on binding e
 
 <figure>
 
-![]({{ page.url }}5.jpg)
+![Specification: Punch 2 round slotted holes 11/32&Prime; in diameter, centrally on binding edge, at centres of 10&frac12;&Prime;]({{ page.url }}5.jpg)
 
 <figcaption>
 Specification: Punch 2 round slotted holes 11/32&Prime; in diameter, centrally on binding edge, at centres of 10&frac12;&Prime;
@@ -82,7 +79,7 @@ Specification: Punch 2 round slotted holes 11/32&Prime; in diameter, centrally o
 
 <figure>
 
-![]({{ page.url }}6.jpg)
+![Specification: Punch 2 thong slots, centrally on binding edge, at centres of 5&frac12;&Prime;]({{ page.url }}6.jpg)
 
 <figcaption>
 Specification: Punch 2 thong slots, centrally on binding edge, at centres of 5&frac12;&Prime;
@@ -104,23 +101,18 @@ For ‘&frac18;&Prime; from binding edge’ read ‘&frac38;&Prime; from binding
 
 <figure>
 
-![]({{ page.url }}7.jpg)
+![A form folded in half and made up as a wallet for use as a card index with signal tabs to progress action]({{ page.url }}7.jpg)
 
 <figcaption>
-A form folded in half and made up as a wallet for use as a card index with signal tabs to
-progress action
+A form folded in half and made up as a wallet for use as a card index with signal tabs to progress action
 </figcaption>
 </figure>
 
 <figure>
 
-![]({{ page.url }}8.jpg)
+![Alpha indexes are formed by using columns for each letter of the alphabet. This combines a chronological list with an alphabetical guide—entries are made in sequence but each name begins in the appropriate alphabetical column. In the lower example, names are indexed under the second letter of the surname, but this method could be used for the initial letter of the first Christian name]({{ page.url }}8.jpg)
 
 <figcaption>
-Alpha indexes are formed by using columns for each letter of the alphabet. This combines
-a chronological list with an alphabetical guide—entries are made in sequence but each
-name begins in the appropriate alphabetical column. In the lower example, names are
-indexed under the second letter of the surname, but this method could be used for the
-initial letter of the first Christian name
+Alpha indexes are formed by using columns for each letter of the alphabet. This combines a chronological list with an alphabetical guide—entries are made in sequence but each name begins in the appropriate alphabetical column. In the lower example, names are indexed under the second letter of the surname, but this method could be used for the initial letter of the first Christian name
 </figcaption>
 </figure>

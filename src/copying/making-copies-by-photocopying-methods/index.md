@@ -145,7 +145,7 @@ An appropriate number of tender forms is produced, the names of those invited to
 
 <figure>
 
-![]({{ page.url }}5.jpg)
+![The successful tenderer is selected and his name and address and the prices and costs tendered are entered on the original translucent form (Illustration A)]({{ page.url }}5.jpg)
 
 <figcaption>
 Illustrations D

@@ -122,7 +122,7 @@ The carbon coating can be laid on the form in two ways:
 
 <figure>
 
-![]({{ page.url }}1.jpg)
+![A four-part set of forms with carbon patches on the first three. There are no carbon patches under the entries ‘Prepared by’ and ‘Checked by’ on the smaller top file copy, so that these spaces can be used for other purposes on the third and fourth copies. A different arrangement of carbon patches on the back of the third copy excludes certain details from the fourth copy. Punched holes are provided at both ends of the copies so that a file copy can be folded in half to prevent the carbon coating smearing other documents in the file]({{ page.url }}1.jpg)
 
 <figcaption>
 A four-part set of forms with carbon patches on the first three. There are no carbon patches under the entries ‘Prepared by’ and ‘Checked by’ on the smaller top file copy, so that these spaces can be used for other purposes on the third and fourth copies. A different arrangement of carbon patches on the back of the third copy excludes certain details from the fourth copy. Punched holes are provided at both ends of the copies so that a file copy can be folded in half to prevent the carbon coating smearing other documents in the file
@@ -164,7 +164,7 @@ The following methods may be used to facilitate registration:
 
 <figure>
 
-![]({{ page.url }}2.jpg)
+![This six-part set of forms is made up in pads for preparation with ordinary carbon paper.]({{ page.url }}2.jpg)
 
 <figcaption>
 This six-part set of forms is made up in pads for preparation with ordinary carbon paper.
@@ -181,7 +181,7 @@ Copy No. 5 serves as an Advice to the Consignor that the depot can accept the go
 
 <figure>
 
-![]({{ page.url }}3.jpg)
+![A form folded, perforated and stapled to facilitate registration of entries on copies serving as an application, an import licence and two copies of the licence produced with carbon paper]({{ page.url }}3.jpg)
 
 <figcaption>
 A form folded, perforated and stapled to facilitate registration of entries on copies serving as an application, an import licence and two copies of the licence produced with carbon paper

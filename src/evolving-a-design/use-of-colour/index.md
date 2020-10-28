@@ -93,7 +93,7 @@ Black printing on different coloured gummed labels provides an economical colour
 
 <figure>
 
-![]({{ page.url }}2.jpg)
+![Copies of a form distinguished by bold patches of different colours; the colours of the patch on each copy being the same as the colour of the rest of the printing on that copy]({{ page.url }}2.jpg)
 
 <figcaption>
 Copies of a form distinguished by bold patches of different colours; the colours of the patch on each copy being the same as the colour of the rest of the printing on that copy
@@ -102,7 +102,7 @@ Copies of a form distinguished by bold patches of different colours; the colours
 
 <figure>
 
-![]({{ page.url }}3.jpg)
+![Copies of a set of forms distinguished both by coloured corner patches and copy numbers; the colour of the patch on each copy being the same as the colours of the rest of the printing on that copy. Note that the patch does not ‘bleed’ off the edge of the form—a margin of 3/16&Prime; is desirable]({{ page.url }}3.jpg)
 
 <figcaption>
 Copies of a set of forms distinguished both by coloured corner patches and copy numbers; the colour of the patch on each copy being the same as the colours of the rest of the printing on that copy. Note that the patch does not ‘bleed’ off the edge of the form—a margin of 3/16&Prime; is desirable

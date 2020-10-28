@@ -13,7 +13,7 @@ The alphabets illustrated provide a wide range of sizes. Gill Sans and Times Rom
 Type smaller than 8 point is available but old people may have difficulty in reading it.
 The standard sizes combine well together thus—one line of 72 point type will always fit in perfectly alongside two of 36 point, four of 18 point, six of 12 point, eight of 9 point etc.
 
-![]({{ page.url }}1.jpg)
+![Diagram of the different sizes of type]({{ page.url }}1.jpg)
 
 Type is composed either by hand or machine. With machine composition it is not practicable freely to mix a number of type faces (or sizes) on one line.
 

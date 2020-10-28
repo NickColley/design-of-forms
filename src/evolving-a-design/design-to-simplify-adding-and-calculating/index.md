@@ -413,7 +413,7 @@ These Daily Time Sheets for one workman are summarised weekly by overlapping the
 
 <figure>
 
-![]({{ page.url }}15.jpg)
+![The carbon-coated posting strip provides a simple and inexpensive proof sheet for control purposes. Individual entries on the posting strip and separate accounting records are made in one writing operation. The totals on the posting strip provide control figures to prove posting both the correct amount and the correct account]({{ page.url }}15.jpg)
 
 <figcaption>
 The carbon-coated posting strip provides a simple and inexpensive proof sheet for control purposes. Individual entries on the posting strip and separate accounting records are made in one writing operation. The totals on the posting strip provide control figures to prove posting both the correct amount and the correct account
@@ -509,7 +509,7 @@ Accounting work can be reduced by exception or negative posting, e.g. posting on
 
 <figure>
 
-![]({{ page.url }}20.jpg)
+![Tumbler printing makes it possible to fold over the top edge of a form so that the ‘carried forward’ sub-totals on one side can be aligned above the ‘brought forward’ entry spaces on the other side; this facilitates copying these figures for the ‘totals’ and reduces the risk of error]({{ page.url }}20.jpg)
 
 <figcaption>
 Tumbler printing makes it possible to fold over the top edge of a form so that the ‘carried forward’ sub-totals on one side can be aligned above the ‘brought forward’ entry spaces on the other side; this facilitates copying these figures for the ‘totals’ and reduces the risk of error
