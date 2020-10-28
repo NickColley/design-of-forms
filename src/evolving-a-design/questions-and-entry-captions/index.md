@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title:  Questions and entry captions
+title: Questions and entry captions
 section: Evolving a Design
 tags: page
 pageNumber:

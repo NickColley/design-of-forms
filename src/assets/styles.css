@@ -1,7 +1,7 @@
 :root {
   --color-dark: #121211;
   --color-light: #fcf6ea;
-  --color-dark-secondary: #3F51B5;
+  --color-dark-secondary: #3f51b5;
   --color-light-secondary: white;
 
   --background-color: var(--color-light);
@@ -16,7 +16,8 @@
    * http://fontfamily.io/Gill_Sans
    * Avoid downloading a webfont for performance, most people will not care.
   */
-  --font-family-sans-serif: "Gill sans", "Gill Sans Nova", "DejaVu Sans", "Open Sans", "Lato", sans-serif;
+  --font-family-sans-serif: "Gill sans", "Gill Sans Nova", "DejaVu Sans",
+    "Open Sans", "Lato", sans-serif;
   /**
    * The book itself recommends Times New Roman use in Government, and the book seems to follow that guidance.
    * - Times New Roman is avaliable on OSX and Windows.
@@ -31,11 +32,10 @@
 }
 
 /* Dark theme */
-[data-theme=dark] {
+[data-theme="dark"] {
   --background-color: var(--color-dark);
   --text-color: var(--color-light);
 }
-
 
 @media only screen and (max-width: 60ch) {
   :root {
@@ -217,7 +217,7 @@ dl {
 }
 
 dd::after {
-  content: '';
+  content: "";
   display: table;
   clear: both;
 }
@@ -257,7 +257,7 @@ img {
   mix-blend-mode: darken;
 }
 
-[data-theme=dark] img {
+[data-theme="dark"] img {
   filter: invert(1) hue-rotate(180deg);
   mix-blend-mode: lighten;
 }
@@ -331,9 +331,10 @@ ol > li {
   counter-increment: ordered-list-counter;
 }
 ol > li::before {
-  content: "(" counter(ordered-list-counter, var(--counter-list-style, decimal)) ")";
+  content: "(" counter(ordered-list-counter, var(--counter-list-style, decimal))
+    ")";
   float: left;
-  margin-right: .25em;
+  margin-right: 0.25em;
 }
 
 li {
@@ -344,7 +345,7 @@ ul > li > ul,
 ul > li > ol,
 ol > li > ol,
 ol > li > ul {
-  margin-top: .5rem;
+  margin-top: 0.5rem;
   padding-left: 1rem;
 }
 
@@ -359,8 +360,9 @@ th {
   font-weight: normal;
 }
 
-th, td {
-  padding: .5rem 1rem;
+th,
+td {
+  padding: 0.5rem 1rem;
 }
 
 .skip-link {
@@ -396,15 +398,15 @@ th, td {
   border-bottom-width: 3px;
 }
 
-[data-theme=dark] .highlight-modern {
+[data-theme="dark"] .highlight-modern {
   --background-color: var(--color-dark-secondary);
   --text-color: var(--color-light-secondary);
 }
 
 @media only screen and (max-width: 60ch) {
   .highlight-modern {
-    margin-left: calc(-1* var(--horizontal-page-margin));
-    margin-right: calc(-1* var(--horizontal-page-margin));
+    margin-left: calc(-1 * var(--horizontal-page-margin));
+    margin-right: calc(-1 * var(--horizontal-page-margin));
   }
 }
 
@@ -418,7 +420,7 @@ fieldset {
 }
 legend {
   margin: 0;
-  padding: 0 .5rem;
+  padding: 0 0.5rem;
 }
 .field {
   --field-text-color: var(--text-color);
@@ -427,7 +429,7 @@ legend {
   display: inline-block;
 }
 .field:not(:last-child) {
-  margin-right: .5rem;
+  margin-right: 0.5rem;
 }
 .field:focus-within {
   --field-text-color: var(--background-color);
@@ -448,7 +450,7 @@ legend {
   cursor: pointer;
 }
 label::after {
-  content: '';
+  content: "";
   position: absolute;
   z-index: 1;
   top: 0;
@@ -461,14 +463,14 @@ label::after {
   z-index: 2;
 }
 .field label::before {
-  content: '';
+  content: "";
   display: inline-block;
   height: 1em;
   width: 1em;
-  border: .1em solid;
+  border: 0.1em solid;
   border-radius: 50%;
   vertical-align: bottom;
-  margin-right: .4rem;
+  margin-right: 0.4rem;
 }
 .field input:checked + label::before {
   background: var(--field-text-color);
@@ -536,7 +538,7 @@ label::after {
   letter-spacing: 0.1rem;
 }
 
-.visually-hidden { 
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -564,42 +566,41 @@ label::after {
 /* /copying/use-of-carbon-papers-or-carbon-coatings */
 
 .table-carbon-papers table {
-    border-collapse: collapse;
-    border-bottom: 1px solid;
-    border-top: 1px solid;
+  border-collapse: collapse;
+  border-bottom: 1px solid;
+  border-top: 1px solid;
 }
 .table-carbon-papers thead {
-    border-bottom: 1px solid;
+  border-bottom: 1px solid;
 }
 .table-carbon-papers th:not(:first-child),
 .table-carbon-papers td:not(:first-child) {
-    border-left: 1px solid;
+  border-left: 1px solid;
 }
 .table-carbon-papers td:not(:first-child):not(:last-child) {
-    white-space: nowrap;
-    text-align: center;
+  white-space: nowrap;
+  text-align: center;
 }
 
 .table-carbon-papers td {
-    padding-top: .1rem;
-    padding-bottom: .1rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
 }
 .table-carbon-papers tr:first-child * {
-    padding-top: 1rem;
+  padding-top: 1rem;
 }
 .table-carbon-papers tr:last-child * {
-    padding-bottom: 1rem;
+  padding-bottom: 1rem;
 }
 /* TODO: Is there a way to do this in markup? */
 .table-carbon-papers tbody tr:nth-child(4) td,
 .table-carbon-papers tbody tr:nth-child(8) td,
 .table-carbon-papers tbody tr:nth-child(15) td,
 .table-carbon-papers tbody tr:nth-child(19) td {
-    border-bottom: 1px solid;
+  border-bottom: 1px solid;
 }
 
 /* evolving-a-design/size-and-shape-of-documents-and-forms */
-
 
 .table-size-and-shape table {
   border-collapse: collapse;
@@ -619,8 +620,8 @@ label::after {
 }
 
 .table-size-and-shape td {
-  padding-top: .1rem;
-  padding-bottom: .1rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
 }
 .table-size-and-shape tr:first-child * {
   padding-top: 1rem;
@@ -715,7 +716,7 @@ label::after {
 /* /gallery */
 .gallery {
   display: grid;
-  grid-template-columns: repeat( auto-fit, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 1rem;
   margin-bottom: 2rem;
 }
@@ -727,7 +728,7 @@ label::after {
   filter: invert(1) hue-rotate(180deg);
   mix-blend-mode: lighten;
 }
-[data-theme=dark] .gallery a:focus img {
+[data-theme="dark"] .gallery a:focus img {
   filter: none;
   mix-blend-mode: darken;
 }

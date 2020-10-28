@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title:  Simplifying entries
+title: Simplifying entries
 section: Evolving a Design
 tags: page
 pageNumber:

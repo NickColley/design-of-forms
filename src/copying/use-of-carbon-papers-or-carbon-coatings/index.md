@@ -136,8 +136,7 @@ Patch coating is more expensive than band coating; and the production facilities
 The main advantages of carbon-coated forms are:
 
 1. Greater convenience in handling.
-2. Selective copying is possible thus freeing space on the under-copy or enabling
-the size to be reduced.
+2. Selective copying is possible thus freeing space on the under-copy or enabling the size to be reduced.
 
 The main disadvantages of carbon-coated forms are their greater cost and limited production facilities. Other less important disadvantages include:
 

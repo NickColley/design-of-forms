@@ -1,0 +1,11 @@
+# Logs
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Eleventy
+_site/
+
+# Dont use prettier on any site markdown files
+src/**/*.md

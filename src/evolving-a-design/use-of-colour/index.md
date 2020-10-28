@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title:  Use of colour
+title: Use of colour
 section: Evolving a Design
 tags: page
 pageNumber:

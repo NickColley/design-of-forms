@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title:  Form headings and identifications
+title: Form headings and identifications
 section: Evolving a Design
 tags: page
 pageNumber:

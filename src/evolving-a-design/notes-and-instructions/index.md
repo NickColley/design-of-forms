@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title:  Notes and instructions
+title: Notes and instructions
 section: Evolving a Design
 tags: page
 pageNumber:
