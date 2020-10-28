@@ -189,27 +189,27 @@ An experimental form at final layout stage, designed from ‘copy’ shown oppos
 ![Form with title APPLICATION FOR RENEWAL OF A MOTOR VEHICLE LICENCE.
 R.F. 1A.
 (Revised July, 1957).
-\1. Do not use this form, but a full declaration form, if there has been any change in the particulars of the vehicle
+1\. Do not use this form, but a full declaration form, if there has been any change in the particulars of the vehicle
 last recorded in your Registration Book—i.e. alterations to the vehicle or in its use which affect the class or
 duty payable.
-\2. The renewal licence may be issued either by the Council or by a Post Office, from 14 days prior to the date
+2\. The renewal licence may be issued either by the Council or by a Post Office, from 14 days prior to the date
 of expiry, subject to the following conditions and procedure:-
 Section RENEWAL BY THE COUNCIL
-\1. This form must be completed and sent by post (correct postage must be prepaid or delivery may be refused) or taken to the Council with which the vehicle is registered, together with—
+1\. This form must be completed and sent by post (correct postage must be prepaid or delivery may be refused) or taken to the Council with which the vehicle is registered, together with—
 (a) duty payable,
 (b) Registration Book,
 (c) valid certificate of insurance of security in respect of third-party risks.
 You need not send or take your expiring licence though it must be destroyed when you get your new one.
-\2. Payment may be made by cheque, Money Order or Postal Order which should be made payable to  THE.........COUNTY
+2\. Payment may be made by cheque, Money Order or Postal Order which should be made payable to  THE.........COUNTY
 (or COUNTY BOROUGH or BURGH) COUNCIL” and
 crossed " MOTOR TAX ACCOUNT”.
-\3. Cash or bank notes should not be sent unless the other
+3\. Cash or bank notes should not be sent unless the other
 methods of payment are not available. In any case cash or bank notes should be sent only in a registered envelope obtainable at a Post Office.
 Section RENEWAL BY A POST OFFICE
-\1. The renewal licence can only be issued at a Post Office which
+1\. The renewal licence can only be issued at a Post Office which
 undertakes renewal of motor vehicle licences and which is in
 the area of the Council with which the vehicle is registered.
-\2. A Post Office can renew a licence only when—
+2\. A Post Office can renew a licence only when—
 (a) the new licence is for full year or quarter and of the same
 sort as the expiring one, i.e. a licence for full quarter if
 expiring one was quarterly or part-quarterly, or licence for
@@ -223,12 +223,12 @@ appearing on the expiring one.
 (c) application is made within the period from 14 days before to 14 days alter the date of expiry of previous licence.
 (d) there is an unused space in the Registration Book for
 recording issue of licence.
-\3. This application form must be completed and taken to the Post Office together with—
+3\. This application form must be completed and taken to the Post Office together with—
 (a) duty payable.
 (b) Registration Book.
 (c) valid certificate of insurance or security in respect of third-party risks.
 (d) expiring licence which must be surrendered.
-\4. Cheques for licences issued ac Post Officer should be made
+4\. Cheques for licences issued ac Post Officer should be made
 payable to THE POSTMASTER GENERAL" and crossed "A/C PAYEE".
 Section FOR OFFICIAL USE ONLY
 Serial No. of Licence, blank field.
@@ -317,11 +317,11 @@ APPLICATION FOR GRANT OF £7 PER ACRE.
 THIS PART MUST BE COMPLETED AND RETURNED BEFORE 3lst JULY, 1958.
 NOTE. Before completing Part B of this form, read carefully the summary of the scheme overleaf. When you have done so and have completed Part B, it should be returned in a sealed envelope (for which postage must be pre-paid) to the above address as soon as possible after a crop has
 been sown, and before 31st July, 1958.
-\1. APPLICANT'S SURNAME (BLOCK CAPITALS), blank field.
+1\. APPLICANT'S SURNAME (BLOCK CAPITALS), blank field.
 APPLICANT'S CHRISTIAN NAMES, blank field.
-\2. NAME OF HOLDING, blank field.
-\3. PARISH IN WHICH SITUATED, blank field.
-\4. PARTICULARS OF LAND PLOUGHED AND SOWN WITH A CROP.
+2\. NAME OF HOLDING, blank field.
+3\. PARISH IN WHICH SITUATED, blank field.
+4\. PARTICULARS OF LAND PLOUGHED AND SOWN WITH A CROP.
 Empty table with columns:
 YEAR IN WHICH LAST SOWN TO GRASS (see para. 2 overleaf),
 O.S. NUMBER,
@@ -331,24 +331,24 @@ ACTUAL ACREAGE PLOUGHED (see para. 3 overleaf),
 DATE OF PLOUGHING (see para. 4 overleaf),
 NAME OF CROP SOWN (see para. 5 overleaf),
 DATE OF SOWING (see para. 6 overleaf).
-\5. AT THE TIME OF PLOUGHING,
+5\. AT THE TIME OF PLOUGHING,
 (a) WAS THE LAND UNDER GRASS WHICH HAD BEEN
 SOWN BEFORE 1st JUNE, 1954?
 (b) IF THE DATE OF SOWING IS NOT KNOWN, HAD THE
 LAND BEEN CONTINUOUSLY UNDER GRASS SINCE
 BEFORE 1st JUNE, 1954?
 (ANSWER ’YES’ OR ’NO’), blank field.
-\6. WERE YOU THE OCCUPIER OF THE LAND AT THE TIME
+6\. WERE YOU THE OCCUPIER OF THE LAND AT THE TIME
 WHEN ALL THE QUALIFYING OPERATIONS FOR THIS
 GRANT WERE COMPLETED? (see para. 7 overleaf).
 (ANSWER ’YES’ OR ’NO’), blank field.
-\7. (a) HAVE YOU APPLIED FOR ANY OTHER EXCHEQUER
+7\. (a) HAVE YOU APPLIED FOR ANY OTHER EXCHEQUER
 GRANT IN RESPECT OF THESE PLOUGHINGS AND
 SOWINGS?
 (b) IF YOUR ANSWER TO THE ABOVE (a) 1S ‘ YES’, STATE
 UNDER WHICH SCHEME YOU APPLIED.
 (ANSWER ’YES’ OR ’NO’), blank field.
-\8. DECLARATION.
+8\. DECLARATION.
 THEREBY DECLARE THAT I HAVE READ THE SUMMARY OF THE SCHEME OVERLEAF AND THAT THE FOREGOING STATEMENTS AND PARTICULARS ARE TRUE: AND I HEREBY APPLY FOR GRANT.
 SIGNATURE, blank field.
 DATE, blank field, 195, blank field.
@@ -460,21 +460,21 @@ Letter-spaced capitals in heading and at foot. Italic for subtle emphasis
 
 ![Form with title NOTES.
 Where payment may be made :~
-\1. By post to the Telephone Manager, or at
+1\. By post to the Telephone Manager, or at
 his office.
-\2. At any Post Office.
+2\. At any Post Office.
 How payment may be made :-
-\1. By cheque, etc., made payable to “The
+1\. By cheque, etc., made payable to “The
 Postmaster General" and crossed “A/c Payee.””
-\2. By cash (if cash is posted, use a registered
+2\. By cash (if cash is posted, use a registered
 envelope),
 If you pay by cheque :-
-\1. Detach and return this counterfoil
+1\. Detach and return this counterfoil
 with your cheque, and retain the
 account itself.
-\2. No receipt will be given unless
+2\. No receipt will be given unless
 requested.
-\3. If you need a receipt, return both
+3\. If you need a receipt, return both
 portions of the account with your
 cheque and mark the counterfoil
 “receipt required.”
@@ -497,11 +497,11 @@ Simplicity of treatment, using Gill Sans series
 
 ![Form with title NOTES.
 WHERE PAYMENT MAY BE MADE:
-\1. By post to the Telephone Manager, or
-\2. At the Telephone Manager's office, or
-\3. At any post office.
+1\. By post to the Telephone Manager, or
+2\. At the Telephone Manager's office, or
+3\. At any post office.
 HOW PAYMENT MAY BE MADE:
-\1. BY CHEQUE, etc., made payable to
+1\. BY CHEQUE, etc., made payable to
 ‘The Postmaster General’ and crossed ‘A/C Payee’.
 If you pay by cheque, detach and
 return this counterfoil with your
@@ -512,7 +512,7 @@ If you need a receipt, return both
 portions of the account with your
 cheque and mark the counterfoil
 ‘receipt required.’
-\2. BY CASH. If cash is posted, use a
+2\. BY CASH. If cash is posted, use a
 registered envelope. If you pay in cash,
 you should send or present the account
 and counterfoil intact—the receipted

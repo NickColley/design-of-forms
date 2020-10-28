@@ -92,7 +92,7 @@ Date,
 Pool Ref. No.,
 No, of copies 1 +
 Style:
-\1. Official headed; 2. Semi-official Headed; 3. Minute; 4. Draft; 5. Report 6. Statement.
+1\. Official headed; 2. Semi-official Headed; 3. Minute; 4. Draft; 5. Report 6. Statement.
 Sub columns:
 Style No., Other instructions.
 Paper on top of form with title Requisition for typing up to + 7 copies. (See Office Procedure, Part A, Section 6).3

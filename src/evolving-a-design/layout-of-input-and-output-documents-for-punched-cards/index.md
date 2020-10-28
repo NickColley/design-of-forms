@@ -79,15 +79,15 @@ The advantages of using dual purpose cards are that:
 ![Form with title: Ministry of Aviation, AIR TRANSPORT MOVEMENT RETURN.
 ARRIVALS: 1.
 Fields:
-\1. Name of Airport (Code Number): 01
-\2. Actual Time of Landing (G.M.T.): 1435
-\3. Day of Week and Date: Day sun, Date 7, Month 9, Year 52.
-\4. Name of Operator: VEGA AIRLINES LTD. 0864.
-\5. Nationality of Operator: BRITISH.
-\6. Registration Number of Aircraft: G, A, M, J, H.
-\7. Full Type of Aircraft: CONSTELLATION L. 749.
+1\. Name of Airport (Code Number): 01
+2\. Actual Time of Landing (G.M.T.): 1435
+3\. Day of Week and Date: Day sun, Date 7, Month 9, Year 52.
+4\. Name of Operator: VEGA AIRLINES LTD. 0864.
+5\. Nationality of Operator: BRITISH.
+6\. Registration Number of Aircraft: G, A, M, J, H.
+7\. Full Type of Aircraft: CONSTELLATION L. 749.
 (5 through 7) To be coded at H.Q. 503.
-\8. Type of Flight: 11.]({{ page.url }}1.jpg)
+8\. Type of Flight: 11.]({{ page.url }}1.jpg)
 
 <figcaption>
 This document is completed at airports in Britain and is forwarded to the Ministry of Civil Aviation H.Q. where card punching and verifying is undertaken. Information to be punched is contained in the ‘boxes’ on the right-hand side of the form
