@@ -1,6 +1,7 @@
 # The Design of Forms in Government Departments
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ee633230-2623-4132-8240-c6aae7b4b132/deploy-status)](https://app.netlify.com/sites/design-of-forms/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee633230-2623-4132-8240-c6aae7b4b132/deploy-status)](https://app.netlify.com/sites/design-of-forms/deploys) [![Repostiory CI Status](https://github.com/nickcolley/design-of-forms/workflows/ci/badge.svg)](https://github.com/nickcolley/design-of-forms/actions?query=workflow%3Aci)
+
 
 ## Running the project locally on your machine
 
