@@ -3,9 +3,6 @@ layout: page.njk
 title: Gallery
 bodyClasses: max-width-100
 ---
-<p>
-    Gallery only showing images that need alternative text: {{ collections.gallery.length }}.
-</p>
 {% macro gallery (images, headingLevel) %}
     <div class="gallery">
         {% for image in images %}
