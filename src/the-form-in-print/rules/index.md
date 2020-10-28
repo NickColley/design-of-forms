@@ -307,7 +307,57 @@ A theoretical restyling by a typographer, purely from the typographical angle, o
 
 <figure>
 
-![ ]({{ page.url }}10.jpg)
+![ Form with title MINISTRY OF AGRICULTURE, FISHERIES AND FOOD, PART B.
+A.G. HOLDING NUMBER, three blank fields.
+Application Acknowledged.
+AGRICULTURE (PLOUGHING GRANTS) ACT, 1952.
+THE, PLOUGHING GRANTS SCHEME, 1957
+LAND PLOUGHED BETWEEN Ist JUNE, 1957, AND 31st MAY, 1958.
+APPLICATION FOR GRANT OF £7 PER ACRE.
+THIS PART MUST BE COMPLETED AND RETURNED BEFORE 3lst JULY, 1958.
+NOTE. Before completing Part B of this form, read carefully the summary of the scheme overleaf. When you have done so and have completed Part B, it should be returned in a sealed envelope (for which postage must be pre-paid) to the above address as soon as possible after a crop has
+been sown, and before 31st July, 1958.
+\1. APPLICANT'S SURNAME (BLOCK CAPITALS), blank field.
+APPLICANT'S CHRISTIAN NAMES, blank field.
+\2. NAME OF HOLDING, blank field.
+\3. PARISH IN WHICH SITUATED, blank field.
+\4. PARTICULARS OF LAND PLOUGHED AND SOWN WITH A CROP.
+Empty table with columns:
+YEAR IN WHICH LAST SOWN TO GRASS (see para. 2 overleaf),
+O.S. NUMBER,
+O.S. ACREAGE,
+PARISH,
+ACTUAL ACREAGE PLOUGHED (see para. 3 overleaf),
+DATE OF PLOUGHING (see para. 4 overleaf),
+NAME OF CROP SOWN (see para. 5 overleaf),
+DATE OF SOWING (see para. 6 overleaf).
+\5. AT THE TIME OF PLOUGHING,
+(a) WAS THE LAND UNDER GRASS WHICH HAD BEEN
+SOWN BEFORE 1st JUNE, 1954?
+(b) IF THE DATE OF SOWING IS NOT KNOWN, HAD THE
+LAND BEEN CONTINUOUSLY UNDER GRASS SINCE
+BEFORE 1st JUNE, 1954?
+(ANSWER ’YES’ OR ’NO’), blank field.
+\6. WERE YOU THE OCCUPIER OF THE LAND AT THE TIME
+WHEN ALL THE QUALIFYING OPERATIONS FOR THIS
+GRANT WERE COMPLETED? (see para. 7 overleaf).
+(ANSWER ’YES’ OR ’NO’), blank field.
+\7. (a) HAVE YOU APPLIED FOR ANY OTHER EXCHEQUER
+GRANT IN RESPECT OF THESE PLOUGHINGS AND
+SOWINGS?
+(b) IF YOUR ANSWER TO THE ABOVE (a) 1S ‘ YES’, STATE
+UNDER WHICH SCHEME YOU APPLIED.
+(ANSWER ’YES’ OR ’NO’), blank field.
+\8. DECLARATION.
+THEREBY DECLARE THAT I HAVE READ THE SUMMARY OF THE SCHEME OVERLEAF AND THAT THE FOREGOING STATEMENTS AND PARTICULARS ARE TRUE: AND I HEREBY APPLY FOR GRANT.
+SIGNATURE, blank field.
+DATE, blank field, 195, blank field.
+(see para. 8 overleaf) (see para. 9 overleaf).
+FULL POSTAL ADDRESS TO WHICH CHEQUE IS TO BE SENT, blank field. (see para. 10 overleaf)
+Empty table with title FOR OFFICE USE.
+Sections for A,B,C,D and E.
+FORM PG 57/1
+]({{ page.url }}10.jpg)
 
 <figcaption>
 The extensive use of capitals reduces legibility and spoils the appearance of the form. A restyling is shown opposite
@@ -316,19 +366,42 @@ The extensive use of capitals reduces legibility and spoils the appearance of th
 
 <figure>
 
-![ ]({{ page.url }}11.jpg)
+![Form is the same as before with less use of caps.
+The title Application for Grant of £7 per acre is now visually the biggest thing on the page.
+The layout generally is better aligned.]({{ page.url }}11.jpg)
 
 <figcaption>
+<p>
 A restyling of the form shown opposite
-<br/>
+</p>
+<p>
 For headings such as the name of the department, 10 or 12 point size is usually sufficient.
 The size of type and position of the name of the department, or title of the form, should not detract the eye and attention from more important wording nearby. Generally, the title of the form should stand out more boldly than the name of the department and type should be chosen accordingly to give this effect
+</p>
 <figcaption>
 </figure>
 
 <figure>
 
-![ ]({{ page.url }}12.jpg)
+![Form with title MONTHLY RUNNING COSTS, APRIL.
+Empty table with columns:
+Date, Fuel (Gallons, Cost), Oil (Pints, Cost), Servicing and Washing, Replacement repairs, Mileage (Private B'ness), Total.
+Second row column under date Totals B/F.
+Final row at bottom of table for Totals.
+Total running costs for April, blank field.
+PETROL.
+Total of fill-ups , blank field.
++Qty. in tank first day of month, blank field.
+\- Qty. in tank last day of month, blank field.
+Total Qty. used, blank field.
+Consumption in miles per gal, blank field.
+OIL.
+Total Qty. used, blank field.
+Consumption in miles per pint, blank field.
+SPEEDOMETER READING.
+Last day of month, blank field.
+First day of month, blank field.
+Distance covered during month, blank field.]({{ page.url }}12.jpg)
 
 <figcaption>
 Illustrating good use of thick and thin rules and suitable type (all in Gill series)
@@ -337,7 +410,12 @@ Illustrating good use of thick and thin rules and suitable type (all in Gill ser
 
 <figure>
 
-![ ]({{ page.url }}13.jpg)
+![Form with title Please complete the following details.
+Full name, blank field.
+Address, blank field.
+Occupation, blank field.
+Date of birth, blank field.
+Place of birth, blank field.]({{ page.url }}13.jpg)
 
 <figcaption>
 A clear and simple appearance with appropriate emphasis is obtained in these examples with two weights of type including the heading
@@ -346,7 +424,32 @@ A clear and simple appearance with appropriate emphasis is obtained in these exa
 
 <figure>
 
-![ ]({{ page.url }}14.jpg)
+![Form with title ORDER FORM.
+To HER MAJESTY’S STATIONERY OFFICE.
+London: P.O. Box 569, London S.E.1.
+EDINBURGH 2: 13a Castle Street.
+CARDIFF: 109 St. Mary Street.
+MANCHESTER 2: 39 King Street.
+BRISTOL 1: Tower Lane.
+BIRMINGHAM 3: 2 Edmund Street.
+BELFAST: 80 Chichester Street.
+Please supply the following as issued:
+Blank table with two columns.
+First column row headings:
+DAILY LIST posted daily,
+DAILY LIST posted in weekly batches,
+MONTHLY CATALOGUE,
+ANNUAL CATALOGUE,
+SUPPLEMENT TO ANNUAL CATALOGUE (International Organisations Publications),
+SECTIONAL LIST(S) NOS.,
+Second column No of copies.
+Please supply the following publications:
+Blank table with two columns for entries.
+(a) A remittance for £, blank field, s., blank field, d. is enclosed in accordance with the rates quoted, or
+(b) Kindly charge to Account No.
+Name, blank field.
+Address, blank field.
+PLEASE WRITE CLEARLY.]({{ page.url }}14.jpg)
 
 <figcaption>
 Letter-spaced capitals in heading and at foot. Italic for subtle emphasis
@@ -355,7 +458,35 @@ Letter-spaced capitals in heading and at foot. Italic for subtle emphasis
 
 <figure>
 
-![ ]({{ page.url }}15.jpg)
+![Form with title NOTES.
+Where payment may be made :~
+\1. By post to the Telephone Manager, or at
+his office.
+\2. At any Post Office.
+How payment may be made :-
+\1. By cheque, etc., made payable to “The
+Postmaster General" and crossed “A/c Payee.””
+\2. By cash (if cash is posted, use a registered
+envelope),
+If you pay by cheque :-
+\1. Detach and return this counterfoil
+with your cheque, and retain the
+account itself.
+\2. No receipt will be given unless
+requested.
+\3. If you need a receipt, return both
+portions of the account with your
+cheque and mark the counterfoil
+“receipt required.”
+If you pay otherwise than by cheque, you should
+send or present the account and counterfoil intact
+—the receipted account will be returned to you.
+Do not send back any statement of trunk or
+miscellaneous charges except in case of enquiry.
+Any enquiry should be addressed to the Telephone
+Manager without delay, and should be accompanied
+by the account, and by any of the enclosed forms
+to which the enquiry relates.]({{ page.url }}15.jpg)
 
 <figcaption>
 Simplicity of treatment, using Gill Sans series
@@ -364,7 +495,36 @@ Simplicity of treatment, using Gill Sans series
 
 <figure>
 
-![ ]({{ page.url }}16.jpg)
+![Form with title NOTES.
+WHERE PAYMENT MAY BE MADE:
+\1. By post to the Telephone Manager, or
+\2. At the Telephone Manager's office, or
+\3. At any post office.
+HOW PAYMENT MAY BE MADE:
+\1. BY CHEQUE, etc., made payable to
+‘The Postmaster General’ and crossed ‘A/C Payee’.
+If you pay by cheque, detach and
+return this counterfoil with your
+cheque, and retain the account
+itself. (No receipt will be given
+unless requested.).
+If you need a receipt, return both
+portions of the account with your
+cheque and mark the counterfoil
+‘receipt required.’
+\2. BY CASH. If cash is posted, use a
+registered envelope. If you pay in cash,
+you should send or present the account
+and counterfoil intact—the receipted
+account will be returned to you,
+DO NOT SEND BACK any statement of trunk
+or miscellaneous charges except in
+cases of enquiry.
+ANY ENQUIRY should be addressed to the
+Telephone Manager without delay, and
+should be accompanied by the account,
+and by any of the enclosed forms to
+which the enquiry relates.]({{ page.url }}16.jpg)
 
 <figcaption>
 A suggested restyling, again using Gill Sans series throughout
