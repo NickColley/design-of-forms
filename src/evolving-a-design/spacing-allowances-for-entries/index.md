@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title:  Spacing allowances for entries
+title: Spacing allowances for entries
 section: Evolving a Design
 tags: page
 pageNumber:

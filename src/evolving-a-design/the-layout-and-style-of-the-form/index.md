@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title:  The layout and style of the form
+title: The layout and style of the form
 section: Evolving a Design
 tags: page
 pageNumber:

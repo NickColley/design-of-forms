@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title:  Preliminary considerations
+title: Preliminary considerations
 section: Evolving a Design
 tags: page
 pageNumber:

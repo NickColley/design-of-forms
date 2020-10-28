@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title:  Entries by typewriter
+title: Entries by typewriter
 section: Evolving a Design
 tags: page
 pageNumber:
