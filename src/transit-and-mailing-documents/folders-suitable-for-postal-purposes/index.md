@@ -33,16 +33,7 @@ NOTE: Packets intended for transmission at the Printed Paper rate must comply wi
 
 <figure>
 
-![Flattened folder schematic with measurements for folding into a 'tuck-in' folder.
-Long length measures 6, 1/2 inches.
-Short length measures 5, 1/2 inches.
-Schematic is landscape.
-(a) first fold is 1, 1/2 inches from the top along the entire width.
-Below the first fold is three sections that are 4 inches in height.
-First section, (b) second fold is below first fold, 2 1/2 inches from the left edge.
-Second section, Main face of folder is below the first fold and has Official paid royal mail stamp with space for address, at least 1 1/2 inches below the top of the face.
-Third section, (c) Third fold (TUCK IN THIS FLAP) is below the first fold and 1 1/4 inches from the right edge.
-(b) fold is top of the main face, (c) fold is bottom of the main face.]({{ page.url }}1.jpg)
+![ ]({{ page.url }}1.jpg)
 
 <figcaption>
 1. Single: minimum size
