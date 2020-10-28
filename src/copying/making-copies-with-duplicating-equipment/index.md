@@ -23,8 +23,7 @@ All Classns./Classn. Nos., blank field.
 This list should be checked against the L.O. register of Duplicate Order Cards.
 (see L.O. Code 6, para 287F.).
 Empty table with 6 columns: Classn. No., Order No., Vacancy L.O.
-These three columns are repeated once more.
-]({{ page.url }}1.jpg)
+These three columns are repeated once more.]({{ page.url }}1.jpg)
 
 <figcaption>
 Captions and lines etc. ‘pre-printed’ on a Hectograph ‘master’ copy; entries are added by typewriter and copies of the complete document for circulation are provided on a spirit duplicator. The Hectograph carbon sheet at the back is perforated at the top to facilitate separation from the master after typing entries
