@@ -25,7 +25,7 @@ It is important, however, not to be too lavish with emphasis. If there is both u
 </figcaption>
 </figure>
 
-### Varityping
+## Varityping
 
 Special typewriters are manufactured which have a range of interchangeable type faces. If one of these is available a number of other typewriter characters can be introduced. Examples (from the Varityper range), with series numbers, are:
 

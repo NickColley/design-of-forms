@@ -69,14 +69,14 @@ Cut corners may help to detect mis-sorts or missing documents, or facilitate the
 
 <figure>
 
-![]({{ page.url }}2.jpg)
+![On this combined record of Allocations, Dues In, and Stocks, the space at the top edge can be clipped to assist selection of a particular class of cards, or coloured signal clips can be attached at different positions. The corner is cut so that any card filed in the wrong position, back to front, or upside down, will be detected. Coloured lines throw entries into relief and break up the pattern]({{ page.url }}2.jpg)
 
 <figcapton>
 On this combined record of Allocations, Dues In, and Stocks, the space at the top edge can be clipped to assist selection of a particular class of cards, or coloured signal clips can be attached at different positions. The corner is cut so that any card filed in the wrong position, back to front, or upside down, will be detected. Coloured lines throw entries into relief and break up the pattern
 </figcaption>
 </figure>
 
-### Continuous stationery
+## Continuous stationery
 
 Forms made up as continuous stationery are in common use on many types of machines; indeed they may be essential to gain the maximum advantage from mechanisation. They facilitate a continuous and rapid output from the machine: they also save time by reducing the work involved in interleaving and extracting carbon paper.
 Semi-continuous stationery in strips or perforated sheets like postage stamps may also facilitate the handling of small documents such as receipts or gummed labels.
