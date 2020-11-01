@@ -8,7 +8,7 @@ pageNumber:
     end: 143
 ---
 
-<span class+"small-caps">The</span> method to be adopted for making such copies of the form as are required in use must be carefully considered since it may substantially affect certain aspects of its design. The methods principally used are described below.
+<span class="small-caps">The</span> method to be adopted for making such copies of the form as are required in use must be carefully considered since it may substantially affect certain aspects of its design. The methods principally used are described below.
 
 ## Use of carbon papers or carbon coatings
 
@@ -201,7 +201,7 @@ Invoice No.,
 Reconciliation.
 CARBON SHEET on top.
 No. 2(superscirpt 5c)(subscript c) 039624.
-Barclay's Bank Limited.
+Barclay’s Bank Limited.
 London, blank field.
 Pay the sum of, blank field, to, blank field.
 Blank field, Steward.
@@ -220,7 +220,7 @@ For Official use, blank field.
 Payer’s Name: T.W. GILL Agents.
 London WC1.
 GILL Ref. No., blank field.
-Payee's Name and Last Known Address:, blank field.
+Payee’s Name and Last Known Address:, blank field.
 Year ended, blank field.
 “Nature of Service” Code.
 1-4 & 6 Musician,
@@ -235,24 +235,24 @@ Note: Any query on any of these entries should be addressed to London Provincial
 Gross Amount of Payment (including any expenses payments and reimbursement of expenses), , blank field, in £ s. d.
 Second form below
 INCOME TAX—Return of Payment for Services or in respect of a Copyright.
-1\. (a) Payee's ordinary name (in BLOCK letters), surname first, blank field.
+1\. (a) Payee’s ordinary name (in BLOCK letters), surname first, blank field.
 (b) Stage name (in BLOCK letters) if different from (a), blank field.
-2\. Payee's permanent (or last known) address, blank field.
-3\. Agent's name and address, if known, blank field.
+2\. Payee’s permanent (or last known) address, blank field.
+3\. Agent’s name and address, if known, blank field.
 4\. Name of production, act, etc, blank field.
 5\. Period of services, blank field, 19, to , blank field, 19.
 6\. Nature of services (e.g., actor, artiste,
 principal of act, etc., musician, author,
 composer, promoter, etc.), blank field.
-7\. Character of payment. Enter “X" in appropriate space below.
+7\. Character of payment. Enter “X” in appropriate space below.
 Solely for own services, blank field.
 For self and others, blank field.
 As promoter, etc, blank field.
 Copyright, blank field.
 8\. Cross amount of payment (including any expenses payments. and reimbursement of expenses)
 £., blank field.
-9\. If any other valuable consideration given, write "Yes" here and describe overleaf, blank field.
-Payer's name, blank field.
+9\. If any other valuable consideration given, write “Yes” here and describe overleaf, blank field.
+Payer’s name, blank field.
 Date., blank field.
 No. 46P
 Form repeats again.]({{ page.url }}5.jpg)

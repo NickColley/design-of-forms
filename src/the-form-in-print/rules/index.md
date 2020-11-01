@@ -139,7 +139,7 @@ Three main columns.
 First column Quantity.
 Second columns Operations*.
 \* Delete items which do not apply.
-Third column Contractor's charge.
+Third column Contractor’s charge.
 Sub-columns: s. and d..
 Operations listed include:
 Patch and restitch where necessary.
@@ -149,7 +149,7 @@ Fit, blank field, new buckle strap(s) to each.
 Fit, blank field, new buckle(s) to each.
 Fit new cardholder, blank field.
 Special fittings supplied, blank field.
-Contractor's charge total field.
+Contractor’s charge total field.
 FOR HMSO USE ONLY.
 Demand No., blank field.
 I certify that the above work has been satisfactorily executed.
@@ -164,7 +164,7 @@ Original ‘copy’ and layout for this special form are shown overleaf for comp
 
 <figure>
 
-![Original 'copy' sketch, shows ringed corrections to move elements around that appear in the final layout.]({{ page.url }}6.jpg)
+![Original “copy” sketch, shows ringed corrections to move elements around that appear in the final layout.]({{ page.url }}6.jpg)
 
 <figcaption>
 
@@ -202,7 +202,7 @@ Section RENEWAL BY THE COUNCIL
 You need not send or take your expiring licence though it must be destroyed when you get your new one.
 2\. Payment may be made by cheque, Money Order or Postal Order which should be made payable to  THE.........COUNTY
 (or COUNTY BOROUGH or BURGH) COUNCIL” and
-crossed " MOTOR TAX ACCOUNT”.
+crossed “MOTOR TAX ACCOUNT”.
 3\. Cash or bank notes should not be sent unless the other
 methods of payment are not available. In any case cash or bank notes should be sent only in a registered envelope obtainable at a Post Office.
 Section RENEWAL BY A POST OFFICE
@@ -229,7 +229,7 @@ recording issue of licence.
 (c) valid certificate of insurance or security in respect of third-party risks.
 (d) expiring licence which must be surrendered.
 4\. Cheques for licences issued ac Post Officer should be made
-payable to THE POSTMASTER GENERAL" and crossed "A/C PAYEE".
+payable to THE POSTMASTER GENERAL” and crossed “A/C PAYEE”.
 Section FOR OFFICIAL USE ONLY
 Serial No. of Licence, blank field.
 Prepared by, blank field.
@@ -262,7 +262,7 @@ declaration, 6 blank fields.
 (e) Date of expiry of last licence, 3 blank fields.
 (f) Where vehicle is ordinarily kept, 3 blank fields.
 (g) (i) If the vehicle is a van (or a vehicle of a shooting
-brake or an estate wagon type) is it fitted with side windows to the rear of the driver's seat?
+brake or an estate wagon type) is it fitted with side windows to the rear of the driver’s seat?
 (See NOTE 2.) Answer ‘YES’ or ‘NO’, blank field.
 (ii) If the answer to (i) is ‘YES’, were the windows
 fitted after you acquired the vehicle or after 1st June, 1986 whichever is the later?,  blank field.
@@ -317,8 +317,8 @@ APPLICATION FOR GRANT OF £7 PER ACRE.
 THIS PART MUST BE COMPLETED AND RETURNED BEFORE 3lst JULY, 1958.
 NOTE. Before completing Part B of this form, read carefully the summary of the scheme overleaf. When you have done so and have completed Part B, it should be returned in a sealed envelope (for which postage must be pre-paid) to the above address as soon as possible after a crop has
 been sown, and before 31st July, 1958.
-1\. APPLICANT'S SURNAME (BLOCK CAPITALS), blank field.
-APPLICANT'S CHRISTIAN NAMES, blank field.
+1\. APPLICANT’S SURNAME (BLOCK CAPITALS), blank field.
+APPLICANT’S CHRISTIAN NAMES, blank field.
 2\. NAME OF HOLDING, blank field.
 3\. PARISH IN WHICH SITUATED, blank field.
 4\. PARTICULARS OF LAND PLOUGHED AND SOWN WITH A CROP.
@@ -385,7 +385,7 @@ The size of type and position of the name of the department, or title of the for
 
 ![Form with title MONTHLY RUNNING COSTS, APRIL.
 Empty table with columns:
-Date, Fuel (Gallons, Cost), Oil (Pints, Cost), Servicing and Washing, Replacement repairs, Mileage (Private B'ness), Total.
+Date, Fuel (Gallons, Cost), Oil (Pints, Cost), Servicing and Washing, Replacement repairs, Mileage (Private B’ness), Total.
 Second row column under date Totals B/F.
 Final row at bottom of table for Totals.
 Total running costs for April, blank field.
@@ -465,7 +465,7 @@ his office.
 2\. At any Post Office.
 How payment may be made :-
 1\. By cheque, etc., made payable to “The
-Postmaster General" and crossed “A/c Payee.””
+Postmaster General” and crossed “A/c Payee.””
 2\. By cash (if cash is posted, use a registered
 envelope),
 If you pay by cheque :-
@@ -498,7 +498,7 @@ Simplicity of treatment, using Gill Sans series
 ![Form with title NOTES.
 WHERE PAYMENT MAY BE MADE:
 1\. By post to the Telephone Manager, or
-2\. At the Telephone Manager's office, or
+2\. At the Telephone Manager’s office, or
 3\. At any post office.
 HOW PAYMENT MAY BE MADE:
 1\. BY CHEQUE, etc., made payable to

@@ -49,14 +49,14 @@ Storage of the form is another factor to be considered when considering the quan
 <figure>
 
 ![Flight Bulletin Form.
-Field that reads 'From Captain' with an illustration of a captain waving, 
-which continues into label that reads 'to all passengers' with an illustration of passenger heads together.
-Field that reads 'RMA' with illustration of a small plane.
-Table with title 'Time' with fields 'Local time is (the same time as one hour ahead of one hour behind) and 'Local time in'.
+Field that reads “From Captain” with an illustration of a captain waving, 
+which continues into label that reads “to all passengers” with an illustration of passenger heads together.
+Field that reads “RMA” with illustration of a small plane.
+Table with title “Time” with fields “Local time is (the same time as one hour ahead of one hour behind) and “Local time in”.
 Extract then skips to the bottom of the form which shows a series of illustrations.
 First illustration shows a flight attendant handing the form to a passenger, then the following illustrations show other passengers growing impatient until a crowd gathers behind them.
-Caption "Please pass on quickly".
-Footer title reads "British European Airways".]({{ page.url }}1.jpg)
+Caption “Please pass on quickly”.
+Footer title reads “British European Airways”.]({{ page.url }}1.jpg)
 
 <figcaption>
 The sketches at the bottom emphasise (with a minimum of wording) the request to pass on the document quickly
@@ -66,16 +66,16 @@ The sketches at the bottom emphasise (with a minimum of wording) the request to 
 <figure>
 
 ![Crash Details form with a series of questions.
-1 Did aircraft hit obstacles before principal. Fields read 'impact?' and 'What?'.
-2 If so, probable speed before impact with obstacle, field reads 'm.p.h.'.
-3 Principal impact against, field to circle read: 'field, road, buildings, trees, rocks, water'.
-4 Probable speed at principal impact, field reads 'm.p.h.'.
-5 Flight path angle with ground, field reads 'deg.'.
+1 Did aircraft hit obstacles before principal. Fields read “impact?” and “What?”.
+2 If so, probable speed before impact with obstacle, field reads “m.p.h.”.
+3 Principal impact against, field to circle read: “field, road, buildings, trees, rocks, water”.
+4 Probable speed at principal impact, field reads “m.p.h.”.
+5 Flight path angle with ground, field reads “deg.”.
 6 Altitude of aircraft at principal, 
-fields read 'impact, nose down deg., level nose up deg., L. wing down deg., level laterally, R. wing down deg., inverted, right wing up,'.
+fields read “impact, nose down deg., level nose up deg., L. wing down deg., level laterally, R. wing down deg., inverted, right wing up,”.
 7 Stopping distance of nose of aircraft after principal impact, 
-fields read 'rolled ft;, bounced ft;, slid ft;, cartwheeled ft;, dug in (depth ft. in.)'.
-8 Amount of telescoping between nose and pilot’s seat, field reads 'fe. in.'.
+fields read “rolled ft;, bounced ft;, slid ft;, cartwheeled ft;, dug in (depth ft. in.)”.
+8 Amount of telescoping between nose and pilot’s seat, field reads “fe. in.”.
 9 Did fire precede principal impact?
 Did fire follow accident?
 How many seconds later?
@@ -119,13 +119,13 @@ For an internal form (or whenever a book of forms is supplied) a set of instruct
 <figure>
 
 ![Dividend form.
-Along the side of the page a note reads: The Receipt or Authority should in the case of a firm be signed in the firm's name, or in
+Along the side of the page a note reads: The Receipt or Authority should in the case of a firm be signed in the firm’s name, or in
 the case of a limited company by an officer of the company, so described.
 PLEASE BRING THIS DIVIDEND NOTICE WITH YOU.
 Side note reads:
 No. C. 65.
 Notice of Dividend.
-In cases in which the payments are made by cheque substitute 'cheques’ or ‘cheque.’.
+In cases in which the payments are made by cheque substitute “cheques’ or ‘cheque.’.
 Dividend Payable Orders* are cancelled at the expiration of three months from date
 of issue, but will be re-issued free of charge on application within six
 months from date of issue.
@@ -134,11 +134,11 @@ exceeds £1, is chargeable on the RE-ISSUE of each Dividend Payable Order*
 after six months from date of issue—the fee being payable in Companies
 (Winding-up) Stamps.
 Main title for form: In the County Court, No. of 19.
-Field reads: 'In the matter of, blank field, limited'.
+Field reads: “In the matter of, blank field, limited”.
 And in the matter of the companies act, 1948.
 dividend of, blank field, in the £.
 office of the official receiver,
-Field that reads 'Address'.
+Field that reads “Address”.
 Notice is hereby given that a, blank field, Dividend of, blank field,
 in the pound has been declared in this matter, and that the same may be received at
 my office, as above, on blank field, the blank field day of 19
@@ -151,24 +151,24 @@ with the Official Receiver and Liquidator an Authority in the prescribed form No
 Otherwise, if you do not attend personally, you must fill up and sign the subjoined
 Forms of Receipt and Authority to deliver, when a Dividend Payable Order* in your
 favour will be delivered in accordance with the Authority,.
-Field that reads 'To'.
+Field that reads “To”.
 Signed by, Official Receiver and Liquidator.
 Second form title Receipt.
-Field that reads 'No of 19'.
-Field that reads 'In the matter of'.
-Received of the Official Receiver And Liquidator in this matter the sum of, field reads 'pounds, shillings, pence'.
-being the amount payable to, field reads 'me or us', in respect of the Dividend of, field reads 'in the £', on, field reads 'my or our', claim against this Company.
-Field reads 'Payee's signature'.
+Field that reads “No of 19”.
+Field that reads “In the matter of”.
+Received of the Official Receiver And Liquidator in this matter the sum of, field reads “pounds, shillings, pence”.
+being the amount payable to, field reads “me or us”, in respect of the Dividend of, field reads “in the £”, on, field reads “my or our”, claim against this Company.
+Field reads “Payee’s signature”.
 (Exempt from Stamp Duty).
 Field that indicates a total can be added to the form.
 Third form authority for delivery.
 (a) Note—This is an authority only to deliver the Payable Order, NOT to make it payable to another person,
 (b) Strike out words inapplicable. If not to be sent by post, strike out
 words in italics, and insert the name of the person who is to receive the Order.
-Sir, Please deliver to, field reads 'me or us', by post, at, field reads 'my or our', risk or to the Bearer, field reads 'Mr'
-the Order for the Dividend payable to, field reads 'me or us' in this matter.
-Field reads 'Payee's Signature'.
-Field reads 'Date'.
+Sir, Please deliver to, field reads “me or us”, by post, at, field reads “my or our”, risk or to the Bearer, field reads “Mr”
+the Order for the Dividend payable to, field reads “me or us” in this matter.
+Field reads “Payee’s Signature”.
+Field reads “Date”.
 To the Official Receiver and Liquidator.
 End of form.]({{ page.url }}3.jpg)
 
@@ -215,7 +215,7 @@ be payable.
 If you are claiming maternity allowance, enclose your present National Insurance card if you are
 holding it. If the card is with your employer, do not delay sending in this form, but give the name
 and address of your employer at item 10.
-If you wish to claim maternity grant on your husband's insurance you should enclose your
+If you wish to claim maternity grant on your husband’s insurance you should enclose your
 marriage certificate.
 Form B.M.4.
 Please turn over.]({{ page.url }}4.jpg)

@@ -44,10 +44,10 @@ The use of the Garter Arms, St. Edward’s Crown, the Royal Emblem, or a departm
 <figure>
 
 ![6 examples of form headings.
-First three sections have lots of information next to each other with no spacing between them. For example, Application for a licence to drive a Motor Vehicle right next to "Motor Vehicles (Driving Licences) Regulations, 1950 (as amended)".
-Fourth and fifth section has minimal information with propr spacing so it's easier to understand them.
+First three sections have lots of information next to each other with no spacing between them. For example, Application for a licence to drive a Motor Vehicle right next to “Motor Vehicles (Driving Licences) Regulations, 1950 (as amended)”.
+Fourth and fifth section has minimal information with propr spacing so it’s easier to understand them.
 For example: Application for a certificate of Fitness next to Ministry of Transport Road Traffic ACTS, 1930 to 194.
-Section 6 reads "Ministry of Agriculture And Fisheries, Diseases of Animals ACTS, Sheep Scab Order of 1938, Form G"]({{ page.url }}1.jpg)
+Section 6 reads “Ministry of Agriculture And Fisheries, Diseases of Animals ACTS, Sheep Scab Order of 1938, Form G”]({{ page.url }}1.jpg)
 
 <figcaption>
 If the heading of a form is cluttered up with detail it may make it look forbidding and unnecessarily complicated (1, 2 and 3); if a title can be introduced as a simple and clear heading the form may have a more effective impact on those who use it (4 and 5); the name of the department rarely needs to be very prominent and a title indicating the purpose of the form would have been better than a series of references to laws (6) using the Royal Arms, the Scottish Royal Arms, the Arms of Northern Ireland and the Welsh Garter, is given in H.M. Stationery Office Guide: Part 2, Standards for Authors and Printers.

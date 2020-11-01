@@ -33,12 +33,12 @@ Special typewriters are manufactured which have a range of interchangeable type 
 
 ![Lots of typefaces with the same example text:
 Many type faces can be used on a Varityper. Letter spacing can varied. (Then the same again in full caps).
-1 2 3 4 5 6 7 8 9 0 " # $% & ' () 1/2 @ 1/4 3/4 £ ¢ * ? ,.
+1 2 3 4 5 6 7 8 9 0 ” # $% & ’ () 1/2 @ 1/4 3/4 £ ¢ * ? ,.
 Letters have consistent thickness.]({{ page.url }}2.jpg)
 
 *(b) Suitable for photolitho reproduction only*
 
 ![Lots of typefaces with the same example text:
 Many type faces can be used on a Varityper. Letter spacing can varied. (Then the same again in full caps).
-1 2 3 4 5 6 7 8 9 0 " # $% & ' () 1/2 @ 1/4 3/4 £ ¢ * ? ,.
+1 2 3 4 5 6 7 8 9 0 ” # $% & ’ () 1/2 @ 1/4 3/4 £ ¢ * ? ,.
 Letters have varied thickness.]({{ page.url }}3.jpg)

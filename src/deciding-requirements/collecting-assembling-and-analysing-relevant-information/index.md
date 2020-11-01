@@ -103,13 +103,13 @@ It should be remembered, however, that the requirements of design must be reconc
 <figure>
 
 ![Table with three columns.
-Column 1 has title "Present Entry".
-Column 2 has title "Form no.", with sub columns for each form, for example 1, 1a, 3 etc.
-Column 3 has title "Total Entries"
-In the first row, column 1 has text "Name of Applicant".
-Column 2 "Form no." has either O or A assigned to each form number. Where O = Completed by Applicant and A = Completed by Area Officer.
-Column 3 "Total Entries" contains a tally of O (3) and A (5).
-The example includes additional rows with similar data entries include "Address", "Phone Number", "Type of Licence", "Registration Mark", "Chassis Number", "Seating Capacity", "Type of Fuel", "Techincal details", "Date added and withdrawn".]({{ page.url }}1.jpg)
+Column 1 has title “Present Entry”.
+Column 2 has title “Form no.”, with sub columns for each form, for example 1, 1a, 3 etc.
+Column 3 has title “Total Entries”
+In the first row, column 1 has text “Name of Applicant”.
+Column 2 “Form no.” has either O or A assigned to each form number. Where O = Completed by Applicant and A = Completed by Area Officer.
+Column 3 “Total Entries” contains a tally of O (3) and A (5).
+The example includes additional rows with similar data entries include “Address”, “Phone Number”, “Type of Licence”, “Registration Mark”, “Chassis Number”, “Seating Capacity”, “Type of Fuel”, “Techincal details”, “Date added and withdrawn”.]({{ page.url }}1.jpg)
 
 <figcaption>
 Repetitive data entered on several related forms can be analysed and summarised on these lines to show entries on revised or combined documents.
@@ -120,24 +120,24 @@ T for typewriter entries copied from another documents, or &plus; for a calculat
 
 <figure>
 
-![Table with title: "Writing Operations for Payment of Fines and Costs" has three columns.
-Column 1 has title "Method of Payment"
-Column 2 has title "Present Procedure"
-Column 3 has title "Proposed Procedure"
-Column 1 has text "Payment of Fines or costs after day of conviction."
-Column 2 has text "
+![Table with title: “Writing Operations for Payment of Fines and Costs” has three columns.
+Column 1 has title “Method of Payment”
+Column 2 has title “Present Procedure”
+Column 3 has title “Proposed Procedure”
+Column 1 has text “Payment of Fines or costs after day of conviction.”
+Column 2 has text “
 Record adjudication in Daily Lists.
 Copy out notice of Fine.
 Copy case in Outstanding Fines book and index.
 copy case in Gaoler’s Cash Book.
 Copy address on envelope for Notice of Fme.
-"
-Column 3 has text "
+”
+Column 3 has text “
 Record adjudication in Daily Lists.
 copy in on action.
 (1) Notice of Fine.
 (2) Instalment Ledger.
-(3) Cashier’s Cash Office Record."]({{ page.url }}2.jpg)
+(3) Cashier’s Cash Office Record.”]({{ page.url }}2.jpg)
 
 <figcaption>
 Extract from a note of a series of writing operations, set out for comparison between the present and proposed procedure and showing a reduction of work by the use of carbon paper.
@@ -152,7 +152,7 @@ The word ‘Record’ is used consistently to distinguish new or original entrie
 ![Flow chart based diagram.
 Includes each form and what data is contains, with arrows for which form it feeds into.
 Extract from chart:
-"Application with Ref No. feeds in Register with Name, Address, Ref. No., Ammount, Date & Class. File Movement & date."]({{ page.url }}3.jpg)
+“Application with Ref No. feeds in Register with Name, Address, Ref. No., Ammount, Date & Class. File Movement & date.”]({{ page.url }}3.jpg)
 
 <figcaption>
 Claims Account Procedure: a diagram, or actual forms showing specimen entries, can be prepared on a large sheet of paper to indicate the source of entries and the sequence in which details are transferred or copied from one document to another; this may help to show how documents can be combined
