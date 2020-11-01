@@ -34,7 +34,7 @@ district of the above-named District Registry (b)\]
 Dated the, blank field, day of blank field, 19.
 (Signed) blank field, of blank field.
 whose address for service is (c), blank field, the said Defendant in person.
-(c) The address for service must be the Defendant's place of
+(c) The address for service must be the Defendant’s place of
 residence within the jurisdiction or, if he has no such residence, some other place within the Jurisdiction (England & Wales).]({{ page.url }}1.jpg)
 
 <figcaption>
@@ -90,7 +90,7 @@ FOR USE IN DISTRICT REGISTRY ACTION
 To be completed in duplicate and delivered or sent to the appropriate office (see note 1 on the back).
 IN THE HIGH COURT OF JUSTICE, blank field, 19, blank field, No.
 (Copy year, letter and number from writ.)
-QUEEN'S BENCH /CHANCERY DIVISION.
+QUEEN’S BENCH /CHANCERY DIVISION.
 (Strike out whichever is inapplicable.).
 blank field, DISTRICT REGISTRY.
 (Enter name of District Registry as shown in writ.).
@@ -100,7 +100,7 @@ Between, blank field, Plaintiff(s), and, blank field, Defendant(s).
 PLEASE ENTER AN APPEARANCE FOR, blank field.
 (Give full name of defendant wishing to appear (See Note 2 on back).).
 [sued as, blank field], in this Action.
-(Give name by which defendant is described in writ if this differs from defendant's full name, otherwise delete words in square brackets.).
+(Give name by which defendant is described in writ if this differs from defendant’s full name, otherwise delete words in square brackets.).
 [The defendant neither resides nor carries on business within the district of the above named District Registry. The name of the plaintiff, or his solicitor, and his address for service is].
 (Strike out the words in square brackets if the appearance is entered in the District Registry.)
 (Copy particulars from writ.)

@@ -85,7 +85,7 @@ Column 3 has title Observations or Repairs Recommended.
 Column 1 is has an incremeting number.
 Column 3 has empty cells.
 Column 2 has the following rows:
-"Top Up Steering Box.
+“Top Up Steering Box.
 (Jack Up Vehicle),
 Clean, Examine and Spray Springs and Test Tightness of U-Bolts.
 BRAKES,
@@ -105,7 +105,7 @@ A line down the middle of the form can ensure a tidy arrangement of entries. But
 
 <figure>
 
-![Table with lots of rows and columns with no uniform width, resembling a brick wall. Each cell has a title for example "Name, Police Station, Damage"]({{ page.url }}5.jpg)
+![Table with lots of rows and columns with no uniform width, resembling a brick wall. Each cell has a title for example “Name, Police Station, Damage”]({{ page.url }}5.jpg)
 
 <figcaption>
 Disjointed and untidy appearance. Insufficient attention given to continuity in the vertical lines between entry spaces. The captions and action to be taken in completing the form are also not clear. Capitals should be used consistently (there are three errors in the lower example on [page 14](/deciding-requirements/collecting-assembling-and-analysing-relevant-information/))
@@ -114,20 +114,20 @@ Disjointed and untidy appearance. Insufficient attention given to continuity in 
 
 <figure>
 
-![Form with fields, for example "The name of the Occupier is,Signed, Date".
+![Form with fields, for example “The name of the Occupier is,Signed, Date”.
 Each field has a dottled line and a thick border around them with little spacing.]({{ page.url }}6.jpg)
 
 <figcaption>
 Some panel arrangements make the form look untidy and unnecessarily complex. Below is a suggested restyling.
 </figcaption>
 
-![Form with fields, for example "The name of the Occupier is,Signed, Date".
+![Form with fields, for example “The name of the Occupier is,Signed, Date”.
 Each field has a sngle line with large spacing around them, no borders.]({{ page.url }}7.jpg)
 </figure>
 
 <figure>
 
-![Table with fields, for example "Date, Part No., Part Name".
+![Table with fields, for example “Date, Part No., Part Name”.
 Each title is at the top left-hand corner with space to write the entry below.]({{ page.url }}8.jpg)
 
 <figcaption>
@@ -138,16 +138,16 @@ Captions placed in the top left-hand corner facilitate typing and help to keep t
 <figure>
 
 ![Table with 5 columns and two rows.
-Row 1 reads: "Type of Machine including Makers’ Name.
+Row 1 reads: “Type of Machine including Makers’ Name.
 Size, including Jib Length, etc.
 Additional Equipment.
 Owner’s Serial Number.
-Postal Address of Site or Yard at which Plant is now located."
-Row 2 reads: "EXAMPLE: Excavator, Ruston-Bucyrus.
+Postal Address of Site or Yard at which Plant is now located.”
+Row 2 reads: “EXAMPLE: Excavator, Ruston-Bucyrus.
 10 (3/6 cu. yds.) 15 ft. Jib.
 Shovel Skimmer.
 9.
-Factory under constructionfor Messrs. Smith Ltd., Bath Road, Kelston, near Bristol."]({{ page.url }}9.jpg)
+Factory under constructionfor Messrs. Smith Ltd., Bath Road, Kelston, near Bristol.”]({{ page.url }}9.jpg)
 
 <figcaption>
 Sample entry in one set of entry spaces instead of worded instruction for using the form
@@ -165,11 +165,11 @@ Thicker lined boxes to emphasise particular entries
 
 <figure>
 
-![Table with 5 columns with titles "Overtime.
+![Table with 5 columns with titles “Overtime.
 Sunday Duty.
 Special Duty.
 Public Holidays.
-Detached Duty."
+Detached Duty.”
 A the bottom of the table the column titles are show again next to a totals title.]({{ page.url }}11.jpg)
 
 <figcaption>
@@ -180,9 +180,9 @@ Captions placed in a second position at the foot of long columns to help the eye
 <figure>
 
 ![Table with three columns.
-Column 1 has title "Ms. Mrs. Miss.".
-Column 2 has title "Christian Names".
-Column 3 has title "Surname" with "Continuation" above it.]({{ page.url }}12.jpg)
+Column 1 has title “Ms. Mrs. Miss.”.
+Column 2 has title “Christian Names”.
+Column 3 has title “Surname” with “Continuation” above it.]({{ page.url }}12.jpg)
 
 <figcaption>The printed word ‘Continuation’ distracts the eye from the surname entry and could have been placed elsewhere, away from the reference panel
 </figcaption>
@@ -222,15 +222,15 @@ An example of the effective use of dotted lines for entries, with heavy lines to
 
 <figure>
 
-![Two examples of the same description list which reads: "
+![Two examples of the same description list which reads: “
 Education : Defence personnel, DP.
 Electoral Registration, EG.
 Electricity, Ministry of Fuel and Power, TT.
 Enigration, OF(EC).
 Enpire Parliamentary Union, IF.
 Engineers, EP.
-First example connects the full word with it's abbreviation using dotted lines.
-Second example uses spacing to connect the two instead."]({{ page.url }}16.jpg)
+First example connects the full word with it’s abbreviation using dotted lines.
+Second example uses spacing to connect the two instead.”]({{ page.url }}16.jpg)
 
 <figcaption>
 A subject, name index, or contents list of this kind does not require rows of dotted lines to guide the eye from the first to the second column. A space left after every third line avoids the distracting effect of dots and serves as a more effective guide for the eye. When there is insufficient room to provide the blank space, a line drawn after every third line of print will serve the same purpose
@@ -240,7 +240,7 @@ A subject, name index, or contents list of this kind does not require rows of do
 <figure>
 
 ![Two examples.
-First example has number: 28,324,652 then it is shown with each digit in it's own box cell.
+First example has number: 28,324,652 then it is shown with each digit in it’s own box cell.
 Second example has date: 31st October 1959 then it is shown with each section in Date table with date 31 in first cell, month 10 in second cell, 59 year in last cell.]({{ page.url }}17.jpg)
 
 <figcaption>

@@ -260,7 +260,7 @@ Punched cards can be used in the dual capacity of original document and punched 
 
 <figure>
 
-![Punch card with title PROBATION OFFICER'S CASE WORK, YEAR 195.
+![Punch card with title PROBATION OFFICER’S CASE WORK, YEAR 195.
 Section probation area, blank.
 Section probation office, blank.
 Name of ref. of case, blank.
@@ -272,7 +272,7 @@ Section type of case col 13:
 1, probation.
 2, supervision.
 3, money payment.
-4, app'd school after care.
+4, app’d school after care.
 5, borstal after care.
 6, prison after care or licence.
 7, prison after care, voluntary.
@@ -303,7 +303,7 @@ Overall section termination of cases during year:
 Section on normal date col 17.
 1, normal completion.
 2, further P.O. in force person was in.
-3, app'd school.
+3, app’d school.
 4, detention centre.
 5, corstal.
 6, prison.
@@ -314,8 +314,8 @@ Section in advance of normal date col. 18:
 12, good progress.
 13, further P.O. made.
 0, Fit person order made.
-1, sent to app'd school.
-2, sent to det'n centre.
+1, sent to app’d school.
+2, sent to det’n centre.
 3, sent to borstal.
 4, sent to prison.
 5, sent to remand home (sec 54).
@@ -344,7 +344,7 @@ The use of dual purpose cards has, however, to be restricted to jobs where the a
 <figure>
 
 ![POST OFFICE TELEPHONES.
-CANTERBURY TELEPHONE MANAGER'S OFFICE,
+CANTERBURY TELEPHONE MANAGER’S OFFICE,
 TELEPHONE HOUSE, NEW DOVER ROAD, CANTERBURY, KENT.
 Telephone : Canterbury 6811.
 Telex : 89119 (Telman Canterby).
@@ -378,7 +378,7 @@ COUNTERFOIL
 If payment is made by cheque by post, only
 this portion need be returned.
 (see NOTES overleaf)
-CANTERBURY TELEPHONE MANAGER'S OFFICE
+CANTERBURY TELEPHONE MANAGER’S OFFICE
 AMOUNT
 Amount Received
 £ s. d.]({{ page.url }}7.jpg)

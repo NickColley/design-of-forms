@@ -191,7 +191,7 @@ Addition of ‘Receipts’ to ‘Balance’ is made left to right, and the deduc
 
 <figure>
 
-![Form with 'carried forward column' at the right most part, which is folded over to the back side of the form.]({{ page.url }}7.jpg)
+![Form with “carried forward column” at the right most part, which is folded over to the back side of the form.]({{ page.url }}7.jpg)
 
 <figcaption>
 
@@ -397,7 +397,7 @@ Trav. to other H.Q. outside normal hours, blank field.
 Allowances see RG71, blank fliend.
 DVG. Allce.: 8d
 Cycle Clg. Allice., blank field.
-Sub't'n acting rank, blank field.
+Sub’t’n acting rank, blank field.
 Form Wednesday, total hours: 8 3/4.
 Form Tuesday, total hours: 9 3/4.
 Form Monday, total hours: 8 3/4.
@@ -464,7 +464,7 @@ Forms may be overlapped by means of punched holes and a peg board. Various holdi
 
 ![Form with title Pre-control.
 Table with columns:
-Employer's Health Insurance,
+Employer’s Health Insurance,
 Full pay,
 Contributions,
 Sub-columns:

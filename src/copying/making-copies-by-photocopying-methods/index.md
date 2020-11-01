@@ -80,7 +80,7 @@ Due for return by 10 a.m. on: Monday 1.2.60.
 Order No., blank field.
 Date, blank field.
 Aldershot 24461  Extn: 98.
-Contractor's Name, blank field.
+Contractor’s Name, blank field.
 Full Postal Address, blank field.
 Place of manufacture/repair, blank field.
 (from date of order)
@@ -99,7 +99,7 @@ Royal Aircraft Est.,
 after delivery.
 FOR OFFICIAL USE ONLY.
 Ledger Heading, blank field.
-Demander's ref. LSB/2/012/4/60
+Demander’s ref. LSB/2/012/4/60
 Cost Ident. ref., blank field.]({{ page.url }}2.jpg)
 
 <figcaption>

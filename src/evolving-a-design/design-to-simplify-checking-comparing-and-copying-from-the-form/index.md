@@ -39,7 +39,7 @@ SIGNATURE.
 2nd attendance with sub columns on and off duty.
 Time of return to (obscured) (or pouching o (obscured)) after each deliv(obscured).
 Letters: 1st, 2nd, 3rd.
-On top of form is another form with title Postman's attendance record key (for use with P391G).
+On top of form is another form with title Postman’s attendance record key (for use with P391G).
 Has the same columns as the bottom form but has a cut out that allows comparison for attendance records.]({{ page.url }}2.jpg)
 
 <figcaption>

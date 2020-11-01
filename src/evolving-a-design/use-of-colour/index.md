@@ -80,7 +80,7 @@ IN- AND OUT- PATIENT.
 With a green background: DR. JOHN GALWAY.
 Large green circle top right.
 Admitted field: blank.
-Patient's Name: Mr. A. N. Other.
+Patient’s Name: Mr. A. N. Other.
 Floor and Ward No. field: blank.
 Date: blank.
 Diet and Extras: blank.

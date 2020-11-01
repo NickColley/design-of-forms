@@ -28,8 +28,8 @@ Rubber stamps to imprint official entries or entry spaces may save space on the 
 <figure>
 
 ![Group of checkboxes with the title:
-"Goods to be be sent by (insert X in appropriate box)"
-Four checkboxes with labels: "Road", "Rail", "Sea", "Air".
+“Goods to be be sent by (insert X in appropriate box)”
+Four checkboxes with labels: “Road”, “Rail”, “Sea”, “Air”.
 Sea checkbox has X within it.
 Labels for each checkbox are close to the left.]({{ page.url }}1.jpg)
 
@@ -41,8 +41,8 @@ Captions should be placed close to the boxes to avoid confusion and error
 <figure>
 
 ![Group of checkboxes with the title:
-"Goods to be be sent by (insert X in appropriate box)"
-Four checkboxes with labels: "Road", "Rail", "Sea", "Air".
+“Goods to be be sent by (insert X in appropriate box)”
+Four checkboxes with labels: “Road”, “Rail”, “Sea”, “Air”.
 Sea checkbox has X within it.
 Labels for each checkbox are the same distance from each checkbox.]({{ page.url }}2.jpg)
 
@@ -96,7 +96,7 @@ instruction about deleting words not applicable
 
 ![Question with title: I believe this suggestion will:
 Checkboxes fields with labels:
-"Save time", "Save material", "Save space", "Improve safety", "Improve service", "Improve public relations", "Increase productivity", "Simplify work".]({{ page.url }}5.jpg)
+“Save time”, “Save material”, “Save space”, “Improve safety”, “Improve service”, “Improve public relations”, “Increase productivity”, “Simplify work”.]({{ page.url }}5.jpg)
 
 <figcaption>
 Choice is indicated by an X in the selected box(es). Rearrangement would avoid repetition
@@ -108,7 +108,7 @@ of the words ‘Save’ and ‘Improve’
 
 ![Question: Place a cross against. the items for which a claim is being made:
 Options:
-"Loss of equipment", "Equipment replaced", "Equipment repairs", "Hire of equipment".
+“Loss of equipment”, “Equipment replaced”, “Equipment repairs”, “Hire of equipment”.
 A check is in the middle of the page, there are no boxes.]({{ page.url }}6.jpg)
 
 <figcaption>
@@ -121,8 +121,8 @@ the caption. A box avoids this difficulty
 
 ![Question: Place a cross against. the items for which a claim is being made:
 Checkboxes with labels:
-"Loss of equipment", "Equipment replaced", "Equipment repairs", "Hire of equipment".
-A check against "Equipment replaced" is inside a checkbox.]({{ page.url }}7.jpg)
+“Loss of equipment”, “Equipment replaced”, “Equipment repairs”, “Hire of equipment”.
+A check against “Equipment replaced” is inside a checkbox.]({{ page.url }}7.jpg)
 
 <figcaption>
 
@@ -134,23 +134,23 @@ See also the illustration of a hospital form created by dyeline copying, [page 1
 
 ![Form with question: Put a tick against the day(s) of the week when it would be convenient for you to attend an evening class.
 Options:
-"Monday", "Tuesday", "Wednesday", "Thursday", "Friday".
+“Monday”, “Tuesday”, “Wednesday”, “Thursday”, “Friday”.
 Second form with question: Attitude to work (ring appropriate answer).
 Answers include:
-"Keen", "Satisfactory", "Selective", "Not enthusiastic", "Work-shy".
+“Keen”, “Satisfactory”, “Selective”, “Not enthusiastic”, “Work-shy”.
 Not enthusiastic is ringed.
 Third form with question: Weather, insert a cross in the appropriate boxes.
 Checkboxes with labels:
-"Clear", "Cloudy", "Rain", "Snow".
+“Clear”, “Cloudy”, “Rain”, “Snow”.
 Question: Average Temperature, Blank field with Fahrenheit symbol.
 Question: Humidity.
-Checkboxes with labels: "High", "Low", "Average".
+Checkboxes with labels: “High”, “Low”, “Average”.
 Fourth form with question: Place a cross on figure representing your preference.
 Options are numbers in boxes from 1 to 11.
-Fifth form shows fields with "1/-", Empty, "2/-", "9d", "3/-", Empty, "4/-", Empty, "5/-", Empty.
-The written entry is pointing to "9d".
+Fifth form shows fields with “1/-”, Empty, “2/-”, “9d”, “3/-”, Empty, “4/-”, Empty, “5/-”, Empty.
+The written entry is pointing to “9d”.
 Sixth form with question: Place a tick in appropriate place.
-Checkboxes with labels: "Yes", "No", "Do not know".]({{ page.url }}8.jpg)
+Checkboxes with labels: “Yes”, “No”, “Do not know”.]({{ page.url }}8.jpg)
 
 <figcaption>
 Methods of indicating a choice between alternatives
@@ -182,7 +182,7 @@ as a first payment and at the weekly rate of £, blank field, thereafter subject
 to any change in your circumstances. I enclose a postal draft for the first
 payment which will be made at the Post Office named.
 Further payment (if required) will be made
-\* (a) in cash on your attendance at this office at, blank field, o'clock
+\* (a) in cash on your attendance at this office at, blank field, o’clock
 on, blank field.
 \* (b) by postal draft, following the receipt from you of the enclosed
 Form 0.7, completed, not later than, blank field.
@@ -210,8 +210,8 @@ PART 1.
 Section 1.
 My present employer is, blank field.
 His address, blank field.
-I am employed as (please give your exact job, for example, engineer's
-fitter, builder's labourer, costing clerk), blank field.
+I am employed as (please give your exact job, for example, engineer’s
+fitter, builder’s labourer, costing clerk), blank field.
 I have been in this job for, blank field, weeks.
 Section 2.
 Checkbox field, I have had no other work since leaving the Unit.

@@ -33,7 +33,7 @@ NOTE: Packets intended for transmission at the Printed Paper rate must comply wi
 
 <figure>
 
-![Flattened folder schematic with measurements for folding into a 'tuck-in' folder.
+![Flattened folder schematic with measurements for folding into a “tuck-in” folder.
 Long length measures 6, 1/2 inches.
 Short length measures 5, 1/2 inches.
 Schematic is landscape.
@@ -50,7 +50,7 @@ Third section, (c) Third fold (TUCK IN THIS FLAP) is below the first fold and 1 
 </figure>
 <figure>
 
-![Flattened folder schematic with measurements for folding into a 'tuck-in' folder.
+![Flattened folder schematic with measurements for folding into a “tuck-in” folder.
 Long length measures 12 inches.
 Short length measures 8, 1/2 inches.
 Schematic is landscape.
@@ -137,7 +137,7 @@ Middle had main face of folder is below the first fold and has Official paid roy
 Bottom section is blank.
 Schematic B back (2nd Journey).
 Middle had main face of folder is below the first fold and has Official paid royal mail stamp with space for address (1st journey address), at least 1 1/2 inches below the top of the face. Has frank over official paid stamp.
-Bottom section has title DR. to J. Jones, space for money value in £ s. d. and the slot for the tongue. With stamp 'RECEIVED WITH THANKS'.]({{ page.url }}7.jpg)
+Bottom section has title DR. to J. Jones, space for money value in £ s. d. and the slot for the tongue. With stamp “RECEIVED WITH THANKS”.]({{ page.url }}7.jpg)
 
 <figcaption>
 2. Double journey folder

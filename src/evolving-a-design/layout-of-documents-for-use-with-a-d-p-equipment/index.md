@@ -69,11 +69,11 @@ To: Pay Section.
 Pay Period Number, blank field.
 Batch Number, blank field.
 Amendment. Serial Number (To be completed by Pay Section), blank field, labelled 1-5.
-Officer's staff number, blank fields for 7 letters, labelled 6-12.
+Officer’s staff number, blank fields for 7 letters, labelled 6-12.
 Data type: -1, field for 2 letters,  labelled 13,14.
 Initials and surname - as required to be printed, including spaces.
 If the number of characters exceeds 19, particulars should be notified separately, blank fields for 18 letters, labelled 15-33.
-Sex:- Female, enter "1"  Male, strike through., blank field, labelled 34.
+Sex:- Female, enter “1”  Male, strike through., blank field, labelled 34.
 Title:- Dr. = 0; Mr. 1; Mrs = 2; Miss = 3;, blank field, labelled 35.
 Date of Birth.
 DAY, two blank fields labelled 36 and 37.
@@ -89,7 +89,7 @@ Established = 3,
 Disestablished = 4,
 Permanent unestablished = 5,
 Temporary =  6, blank field labelled 48.
-E.68:- Signed, enter "1"  Not signed, strike through., blank field, labelled 49.
+E.68:- Signed, enter “1”  Not signed, strike through., blank field, labelled 49.
 Starting Pay:-
 Current Subtantive Pay.
 (National Scale) - Weekly/Annual Rate.
@@ -113,10 +113,10 @@ National scale + London weighting = 1,
 National scale less Provincial deduction 4, blank field, labelled 64.
 Mode of Entry - Transfer Codes.
 General.
-New to Government Service, enter "1"
-From other Government Service, enter "3"
-From National Service, enter "5"
-Promotion from weekly paid grade "6", two blank fields, labelled 65 and 66.
+New to Government Service, enter “1”
+From other Government Service, enter “3”
+From National Service, enter “5”
+Promotion from weekly paid grade “6”, two blank fields, labelled 65 and 66.
 Date from which payment due.
 DAY, two blank fields labelled 67 and 68.
 MONTH, two blank fields labelled 69 and 70.

@@ -77,7 +77,7 @@ Most of the alterations made on proofs are avoidable because they could have bee
 
 <figure>
 
-![Author's alterations should be kept to the absolute minimum, forwards slash mark, Printers' (P has forward slash crossed out) proofs are intended for checking (forwards slash with leg) not for alteration. (Circled colon), (l.c. forwards slash), (quote forwards slash with leg).
+![Author’s alterations should be kept to the absolute minimum, forwards slash mark, Printers” (P has forward slash crossed out) proofs are intended for checking (forwards slash with leg) not for alteration. (Circled colon), (l.c. forwards slash), (quote forwards slash with leg).
 ]({{ page.url }}1.jpg)
 
 <figcaption>
@@ -93,7 +93,7 @@ A few words added or deleted may mean the respacing of a large number of words b
 
 ![(Ampersand symbol), (A symbol with three underlines), (Forwards slash).
 It is essential that (crossed out).
-Author's, (A is crossed out), alterations, (forwards slash with leg), be kept to the absolute minimum.(should with forwards slash with leg).
+Author’s, (A is crossed out), alterations, (forwards slash with leg), be kept to the absolute minimum.(should with forwards slash with leg).
 Printers proofs are intended for, (forwards slash with leg), correction, not alteration. (checking and with forwards slash with leg).]({{ page.url }}2.jpg)
 
 </figure>
