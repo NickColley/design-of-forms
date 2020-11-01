@@ -5,11 +5,13 @@ const counterStartLists = require("./lib/transforms/counter-start-lists.js");
 const sortedPages = require("./lib/collections/sorted-pages.js");
 const gallery = require("./lib/collections/gallery.js");
 const accessibilityPlugin = require("eleventy-plugin-accessibility");
+const rssPlugin = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
   if (process.env.NODE_ENV === "test") {
     eleventyConfig.addPlugin(accessibilityPlugin);
   }
+  eleventyConfig.addPlugin(rssPlugin);
 
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/favicon.ico");
