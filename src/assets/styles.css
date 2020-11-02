@@ -735,3 +735,88 @@ label::after {
 .gallery img {
   max-width: 100%;
 }
+
+.scene {
+  height: 320px;
+  width: 214px;
+  perspective: 800px;
+  perspective-origin: center left;
+}
+
+.book {
+  position: relative;
+  transform: rotateY(-45deg) rotateX(0deg) rotateZ(0deg);
+  transform-style: preserve-3d;
+  transform-origin: bottom;
+  will-change: transform;
+  animation: spin 2.5s infinite alternate;
+}
+@keyframes spin {
+  0% {
+    transform: rotateY(-45deg) rotateX(0deg) rotateZ(0deg);
+  }
+  100% {
+    transform: rotateY(180deg) rotateX(180deg) rotateZ(0deg);
+  }
+}
+.book > * {
+  position: absolute;
+  height: 320px;
+  background-image: url(/assets/fullcover.jpg);
+  background-size: 500px;
+  background-position-y: -18px;
+}
+.back {
+  width: 214px;
+  background-position-x: -25px;
+  transform: translateZ(-107px) translateX(-107px) rotateY(90deg);
+}
+
+.spine {
+  width: 22px;
+  background-position-x: -240px;
+  transform: translateZ(0);
+}
+
+.front {
+  width: 215px;
+  background-position-x: -262px;
+  transform: translateZ(-107px) translateX(-85px) rotateY(90deg);
+}
+.pages {
+  width: 22px;
+  transform: translateZ(-210px);
+  background: repeating-linear-gradient(
+    to left,
+    #766646 5px,
+    #fcf6ea 6px,
+    #978c75 7px,
+    #ffefce 10px
+  );
+}
+
+.top {
+  transform: translateZ(-107px) translateY(-103px) rotateX(90deg);
+  width: 22px;
+  height: 210px;
+  background: repeating-linear-gradient(
+    to left,
+    #766646 5px,
+    #fcf6ea 6px,
+    #978c75 7px,
+    #ffefce 10px
+  );
+}
+
+.bottom {
+  transform: translateZ(-107px) translateY(210px) rotateX(90deg);
+  width: 22px;
+  height: 210px;
+  background: repeating-linear-gradient(
+    to left,
+    #766646 5px,
+    #fcf6ea 6px,
+    #978c75 7px,
+    #ffefce 10px
+  );
+}
