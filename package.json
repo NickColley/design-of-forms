@@ -33,7 +33,7 @@
     "eleventy-plugin-accessibility": "github:nickcolley/eleventy-plugin-accessibility",
     "eslint": "^7.15.0",
     "eslint-config-prettier": "^6.15.0",
-    "husky": "^4.3.0",
+    "husky": "^4.3.5",
     "lint-staged": "^10.5.3",
     "prettier": "^2.2.1"
   }
