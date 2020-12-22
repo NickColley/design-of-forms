@@ -29,7 +29,7 @@
     "markdown-it-attrs": "^3.0.3"
   },
   "devDependencies": {
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.5",
     "eleventy-plugin-accessibility": "github:nickcolley/eleventy-plugin-accessibility",
     "eslint": "^7.15.0",
     "eslint-config-prettier": "^6.15.0",
