@@ -24,31 +24,31 @@ If only part of the information is insufficiently clearly presented a slip on wh
 
 The following points should be considered in the design of original or special punching documents:
 
-## 1. Number of pages or number of cards per page{class=small-caps}
+## 1. Number of pages or number of cards per page
 
 Wherever practicable information should be presented to the punch operator on one side of a single page of the punching document and the data not to be punched should be clearly distinguished and separated. As many cards as possible should be completely punched—without a break—from one page, to reduce page turning and encourage a smooth working rhythm.
 
-## 2. Size of page{class=small-caps}
+## 2. Size of page
 
 Documents should be kept to a convenient size (preferably not larger than foolscap or equivalent size) for handling and for ease of locating the relevant data.
 
-## 3. Colour and texture{class=small-caps}
+## 3. Colour and texture
 
 Legibility is important. Black on white and where appropriate certain other colour combinations give good contrasts but colours that tire the eye, e.g. red background, should be avoided. It is also essential that sufficiently thick and opaque paper be used to prevent information on the reverse side showing through.
 
-## 4. Sequence of punching{class=small-caps}
+## 4. Sequence of punching
 
 Information should be presented in a straightforward sequence in the order of punching, i.e. in column order on the cards. Information common to a series of cards will normally be positioned first. Column numbers on cards facilitate the correction of punching errors.
 
-## 5. Horizontal or vertical recording{class=small-caps}
+## 5. Horizontal or vertical recording
 
 It is usually easier to record information set out vertically than horizontally. The eye tends to jump off horizontal lines so causing a rather higher proportion of errors. If for various reasons data has to be set out horizontally it may be useful to use a document holder with a line indicator to keep the operator’s eye along each line.
 
-## 6. Boxes{class=small-caps}
+## 6. Boxes
 
 Boxes can be used with advantage not only to focus the attention of the punching operator on the relevant information, but also to ensure that the information when originally recorded is placed in the correct position on the page.
 
-## 7. Shading{class=small-caps}
+## 7. Shading
 
 Shading or hatching is a useful device to prevent people recording information in the wrong places or alternatively to obliterate unwanted information.
 Precoding original documents
