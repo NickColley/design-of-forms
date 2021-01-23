@@ -461,7 +461,7 @@ footer {
 fieldset {
   display: inline-block;
   margin: 0;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   padding: 1rem;
   padding-top: 0.5rem;
   border: 2px var(--border-style, solid);
