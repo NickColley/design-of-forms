@@ -1,30 +1,30 @@
-{% macro contentItem (item) %}
+{%- macro contentItem (item) -%}
     <a href="{{ item.url }}"{% if item.url === page.url %} aria-current="page"{% endif %}>
         {{- item.data.title -}}
     </a>
-{% endmacro %}
-{% for itemSection, items in collections.sortedPages | groupByNested("data.section") %}
-    {% if itemSection === 'Back matter' %}
-        {% for item in items %}
+{%- endmacro -%}
+{%- for itemSection, items in collections.sortedPages | groupByNested("data.section") -%}
+    {%- if itemSection === 'Back matter' -%}
+        {%- for item in items %}
             <h3 id="{{ item.data.title | lower | replace(' ', '-') }}" class="upper mb3">
                 {{ contentItem(item) }}
                 {{ item.data.pageNumber.start }}
             </h3>
-        {% endfor %}
-    {% else %}
+        {%- endfor -%}
+    {%- else -%}
         <h3 id="{{ itemSection | lower | replace(' ', '-') }}" class="upper mb1">
             {{ itemSection }}
         </h3>
         <dl>
-            {% for item in items %}
+            {%- for item in items %}
                 <dt>
                     {{ contentItem(item) }}
                 </dt>
                 <dd>
-                    {% if itemSection === 'Introduction' %}page {% endif %}
-                    {{ item.data.pageNumber.start }}
+                    {%- if itemSection === 'Introduction' %}page {% endif %}
+                    {{- item.data.pageNumber.start -}}
                 </dd>
-            {% endfor %}
+            {%- endfor %}
         </dl>
-    {% endif %}
-{% endfor %}
+    {%- endif -%}
+{%- endfor -%}

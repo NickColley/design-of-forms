@@ -5,17 +5,17 @@
                 The Design of Forms
                 <span class="small-caps spacing nowrap">in Government departments</span></a>
         </li>
-        {%- if section and section != 'Back matter' -%}
+        {% if section and section != 'Back matter' -%}
             <li class="breadcrumb-item breadcrumb-item__section">
                 <a href="#{{ section | lower | replace(' ', '-') }}">
                     {{- section -}}
                 </a>
             </li>
-        {%- endif -%}
-        {%- if title -%}
+        {%- endif %}
+        {% if title -%}
             <li class="breadcrumb-item breadcrumb-item__page">
                 {{ title }}
             </li>
-        {%- endif -%}
+        {%- endif %}
     </ul>
 </header>

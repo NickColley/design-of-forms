@@ -1,30 +1,30 @@
-{% set pageIndex = 0 %}
-{% for sortedPage in collections.sortedPages %}
-    {% if sortedPage.url === page.url %}
-        {% set pageIndex = loop.index - 1 %}
-    {% endif %}
-{% endfor %}
-{% if collections.sortedPages[pageIndex - 1] %}
-    {% set previousPage = collections.sortedPages[pageIndex - 1] %}
-{% endif %}
-{% if collections.sortedPages[pageIndex + 1] %}
-    {% set nextPage = collections.sortedPages[pageIndex + 1] %}
-{% endif %}
-{% if tags and "page" in tags %}
-<ul class="pagination">
-    {% if previousPage %}
-        <li>
-            <a href="{{ previousPage.url }}">
-                Previous page: {{ previousPage.data.title }}
-            </a>
-        </li>
-    {% endif %}
-    {% if nextPage %}
-        <li>
-            <a href="{{ nextPage.url }}">
-                Next page: {{ nextPage.data.title }}
-            </a>
-        </li>
-    {% endif %}
-</ul>
-{% endif %}
+{%- set pageIndex = 0 -%}
+{%- for sortedPage in collections.sortedPages -%}
+    {%- if sortedPage.url === page.url -%}
+        {%- set pageIndex = loop.index - 1 -%}
+    {%- endif -%}
+{%- endfor -%}
+{%- if collections.sortedPages[pageIndex - 1] -%}
+    {%- set previousPage = collections.sortedPages[pageIndex - 1] -%}
+{%- endif -%}
+{%- if collections.sortedPages[pageIndex + 1] -%}
+    {%- set nextPage = collections.sortedPages[pageIndex + 1] -%}
+{%- endif -%}
+{%- if tags and "page" in tags -%}
+    <ul class="pagination">
+        {% if previousPage %}
+            <li>
+                <a href="{{ previousPage.url }}">
+                    Previous page: {{ previousPage.data.title }}
+                </a>
+            </li>
+        {% endif %}
+        {% if nextPage %}
+            <li>
+                <a href="{{ nextPage.url }}">
+                    Next page: {{ nextPage.data.title }}
+                </a>
+            </li>
+        {% endif %}
+    </ul>
+{% endif -%}
