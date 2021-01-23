@@ -1,7 +1,7 @@
 :root {
   --color-dark: #121211;
   --color-light: #fcf6ea;
-  --color-dark-secondary: #333;
+  --color-dark-secondary: #101d55;
   --color-light-secondary: white;
 
   --background-color: var(--color-light);
@@ -211,7 +211,7 @@ hr {
   margin-bottom: 12vh;
   height: 0;
   border: 0;
-  border-bottom: 0.5vh solid;
+  border-bottom: 3px solid;
 }
 
 h2 + hr {
@@ -254,10 +254,6 @@ header h1 {
   font-size: 1.4rem;
 }
 
-footer {
-  margin-top: var(--verticle-page-margin);
-}
-
 img {
   mix-blend-mode: darken;
 }
@@ -271,13 +267,13 @@ img {
   list-style: none;
   padding: 0;
   margin: 0;
-  border-top: 0.5vh solid;
+  border-top: 3px solid;
   margin-top: 4rem;
 }
 
 .pagination li {
   margin-bottom: 0;
-  border-bottom: 0.5vh solid;
+  border-bottom: 3px solid;
 }
 
 .pagination a {
@@ -432,8 +428,11 @@ td {
   }
 }
 
-/* to highlight things not in the original book */
-.highlight-modern {
+footer {
+  margin-top: var(--verticle-page-margin);
+}
+
+footer {
   --border-style: solid;
   --background-color: var(--color-light-secondary);
   --text-color: var(--color-dark-secondary);
@@ -442,19 +441,20 @@ td {
   background: var(--background-color);
   color: var(--text-color);
   padding: 1rem;
-  border: 1px var(--border-style);
-  border-top-width: 5px;
+  border: 2px var(--border-style);
+  border-top-width: 1rem;
 }
 
-[data-theme="dark"] .highlight-modern {
+[data-theme="dark"] footer {
   --background-color: var(--color-dark-secondary);
   --text-color: var(--color-light-secondary);
 }
 
 @media only screen and (max-width: 60ch) {
-  .highlight-modern {
+  footer {
     margin-left: calc(-1 * var(--horizontal-page-margin));
     margin-right: calc(-1 * var(--horizontal-page-margin));
+    padding: var(--horizontal-page-margin);
   }
 }
 
@@ -515,7 +515,7 @@ label::after {
   display: inline-block;
   height: 1em;
   width: 1em;
-  border: 0.1em solid;
+  border: 2px solid;
   border-radius: 50%;
   vertical-align: bottom;
   margin-right: 0.4rem;
@@ -744,8 +744,8 @@ label::after {
 
 /* /evolving-a-design/design-as-an-aid-to-filing-and-indexing/ */
 .correction {
-  border-top: 0.5vh solid;
-  border-bottom: 0.5vh solid;
+  border-top: 3px solid;
+  border-bottom: 3px solid;
   margin: 0;
   padding: 1rem 0;
   margin-bottom: 4rem;
