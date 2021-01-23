@@ -39,8 +39,8 @@
 
 @media only screen and (max-width: 60ch) {
   :root {
-    --verticle-page-margin: 2rem;
-    --horizontal-page-margin: 1rem;
+    --verticle-page-margin: 3rem;
+    --horizontal-page-margin: 1.5rem;
   }
 }
 
@@ -56,7 +56,6 @@ body {
   font-size: 1.6rem;
   font-family: var(--font-family-serif);
   margin: 0;
-  max-width: 60ch;
   padding: var(--verticle-page-margin) var(--horizontal-page-margin);
 }
 
@@ -64,6 +63,12 @@ body {
   body {
     font-size: 1rem;
   }
+}
+
+main,
+nav,
+footer {
+  max-width: 60ch;
 }
 
 ::-moz-selection {
@@ -109,25 +114,34 @@ h6,
 .heading {
   font-family: var(--font-family-sans-serif);
   font-weight: bold;
+  line-height: 1.4;
 }
 
-h1 {
+.title {
   font-size: 4rem;
   font-weight: 700;
   line-height: 1.5;
   margin: 0;
-  margin-bottom: 4vh;
+  margin-bottom: 10vh;
+}
+
+.title > small {
+  font-size: 1.2rem;
+  margin-top: 4vh;
+}
+
+h1 {
+  font-size: 3.6rem;
+  margin-bottom: 10vh;
+  line-height: 1.5;
 }
 
 @media only screen and (max-width: 60ch) {
   h1 {
-    font-size: 3rem;
+    font-size: 2.8rem;
+    margin-bottom: 3rem;
+    line-height: 1.4;
   }
-}
-
-h1 > small {
-  font-size: 1.2rem;
-  margin-top: 4vh !important;
 }
 
 h2 {
@@ -201,7 +215,7 @@ hr {
 }
 
 h2 + hr {
-  margin-top: 6vh;
+  margin-top: 2vh;
 }
 
 dl {
@@ -233,6 +247,7 @@ dd {
   display: block;
   font-weight: bold;
   margin: 0;
+  margin-bottom: 0.5rem;
 }
 
 header h1 {
@@ -295,6 +310,7 @@ figure > picture > img {
 figure,
 main > picture {
   display: block;
+  margin-top: 4rem;
   margin-bottom: 4rem;
 }
 
@@ -370,6 +386,50 @@ td {
   clip: rect(0 0 0 0);
   clip-path: inset(50%);
   white-space: nowrap;
+}
+
+.breadcrumb {
+  list-style: none;
+  font-family: var(--font-family-sans-serif);
+  font-weight: bold;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 2rem;
+}
+
+.breadcrumb-item {
+  margin-bottom: 1rem;
+}
+
+@media only screen and (min-width: 50em) {
+  .breadcrumb {
+    margin-bottom: 8vh;
+  }
+  .breadcrumb-item {
+    display: inline-block;
+    white-space: nowrap;
+    line-height: 1.2;
+  }
+
+  .breadcrumb-item__section,
+  .breadcrumb-item__page {
+    font-size: 0.8em;
+  }
+
+  .breadcrumb-item:not(:last-child)::after {
+    content: "–";
+    margin-right: 0.5em;
+    margin-left: 0.3em;
+  }
+}
+
+@media only screen and (max-width: 50em) {
+  .breadcrumb-item__section {
+    font-size: 1.2em;
+  }
+  .breadcrumb-item__page:last-child {
+    display: none;
+  }
 }
 
 /* to highlight things not in the original book */
@@ -467,10 +527,6 @@ label::after {
   box-shadow: inset 0 0 0 0.2em var(--field-background-color);
 }
 
-.mb0 {
-  margin-bottom: 0;
-}
-
 .mb1 {
   margin-bottom: 1vh;
 }
@@ -526,6 +582,10 @@ label::after {
 
 .spacing {
   letter-spacing: 0.1rem;
+}
+
+.nowrap {
+  white-space: nowrap;
 }
 
 .visually-hidden {
@@ -587,6 +647,7 @@ label::after {
 .table-carbon-papers tbody tr:nth-child(8) td,
 .table-carbon-papers tbody tr:nth-child(15) td,
 .table-carbon-papers tbody tr:nth-child(19) td {
+  padding-bottom: 1rem;
   border-bottom: 1px solid;
 }
 
@@ -697,6 +758,7 @@ label::after {
   font-weight: normal;
   font-family: inherit;
   margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 .correction :last-child {

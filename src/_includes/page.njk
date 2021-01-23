@@ -2,23 +2,26 @@
 layout: base.njk
 ---
 
-<header class="mb8 heading">
-    <a href="/#contents">
-        The Design of Forms
-        <small class="upper spacing">in Government departments</small></a>
-    {%- if section and section != 'Back matter' -%}
-        &nbsp;–
-        <a class="inline-block upper spacing" href="/#{{ section | lower | replace(' ', '-') }}">
-            <small>
-                {{- section -}}
-            </small></a>
-    {%- endif -%}
-    {%- if title -%}
-        &nbsp;– 
-        <small class="inline-block">
-            {{ title }}
-        </small>
-    {%- endif -%}
+<header>
+    <ul class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="/">
+                The Design of Forms
+                <span class="small-caps spacing nowrap">in Government departments</span></a>
+        </li>
+        {%- if section and section != 'Back matter' -%}
+            <li class="breadcrumb-item breadcrumb-item__section">
+                <a href="/#{{ section | lower | replace(' ', '-') }}">
+                    {{- section -}}
+                </a>
+            </li>
+        {%- endif -%}
+        {%- if title -%}
+            <li class="breadcrumb-item breadcrumb-item__page">
+                {{ title }}
+            </li>
+        {%- endif -%}
+    </ul>
 </header>
 
 <main id="main" role="main">
