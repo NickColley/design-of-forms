@@ -66,33 +66,134 @@ A more sensitive carbon paper will be needed for machines with a softer stroke. 
 
 When it is intended to obtain copies on papers of other than ‘standard’ weights and
 
+
+
+
 <div class="table-carbon-papers">
+<table>
+    <caption>
 
 #### Carbon papers
 
-| Description | Size<br/>(inches) | Code<br/>Number | Purpose for which intended |
-| - | - | - | - | - |
-| Pencil, blue                                 | 7 &times; 8&frac34;                                    | 2&ndash;63       | To take a maximum of three copies of the top copy with a copying ink pencil or ball pen |
-| Pencil, blue                                 | 8 &times; 13                                           | 2&ndash;64       |
-| Pencil, blue                                 | 6&frac12; &times; 11                                   | 2&ndash;65       |
-| Pencil, blue                                 | 8 &times; 11                                           | 2&ndash;69       |
-| Pen, blue, extra sensitive                   | 7 &times; 8&frac34;                                    | 2&ndash;73       | For use with a thin top copy, pen being used; the duplicate being suitable for record purposes and for sending out |
-| Pen, blue, extra sensitive                   | 8 &times; 13                                           | 2&ndash;74       |
-| Pen, blue, extra sensitive                   | 8&frac58; &times; 15&frac34;                           | 2&ndash;78       |
-| Pen, blue, extra sensitive                   | 15&frac12; &times; 19                                  | 2&ndash;76       |
-| Type, black, light weight                    | 4&frac38; &times; 7                                    | 2&ndash;21       | To take up to eight copies at one time on thin typewriting paper |
-| Type, black, light weight                    | 6&frac12; &times; 8                                    | 2&ndash;22       |
-| Type, black, light weight                    | 7 &times; 8&frac34;                                    | 2&ndash;223      |
-| Type, black, light weight                    | 8 &times; 13                                           | 2&ndash;224      |
-| Type, black, light weight                    | 13 &times; 16                                          | 2&ndash;25       |
-| Type, black, light weight                    | 5&frac78; &times; 8&frac14; (A5)                       | 2&ndash;225      |
-| Type, black, light weight                    | 8&frac14; &times; 11&frac34; (A4)                      | 2&ndash;226      |
-| Type, black, extra light weight              | 6&frac12; &times; 8                                    | 2&ndash;29       | For use when up to a maximum of 15 copies on thin paper are required at one typing |
-| Type, black, extra light weight              | 8 &times; 13                                           | 2&ndash;30       |
-| Type, black, extra light weight              | 5&frac78; &times; 8&frac14; (A5)                       | 2&ndash;228      |
-| Type, black, extra light weight              | 8&frac14; &times; 11&frac34; (A4)                      | 2&ndash;229      |
-| Spirit duplicator, purple, red, green, black | 7 &times; 8&frac34;<br/>8 &times; 13<br/>13 &times; 16 | \*<br/>\*<br/>\* | For use with spirit duplicator. See H.M.S.O. Guide: Part 1 |
-
+</caption>
+    <thead>
+        <tr>
+            <th>Description</th>
+            <th class="cell-center">Size<br>(inches)</th>
+            <th class="cell-center">Code<br>Number</th>
+            <th>Purpose for which intended</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Pencil, blue</th>
+            <td class="cell-center">7 &times; 8&frac34;</td>
+            <td class="cell-center">2&ndash;63</td>
+            <td rowspan="4">To take a maximum of three copies of the top copy with a copying ink pencil or ball pen</td>
+        <tr>
+            <th>Pencil, blue</th>
+            <td class="cell-center">8 &times; 13</td>
+            <td class="cell-center">2&ndash;64</td>
+        <tr>
+            <th>Pencil, blue</th>
+            <td class="cell-center">6&frac12; &times; 11</td>
+            <td class="cell-center">2&ndash;65</td>
+        <tr class="end-of-group">
+            <th>Pencil, blue</th>
+            <td class="cell-center">8 &times; 11</td>
+            <td class="cell-center">2&ndash;69</td>
+        </tr>
+        <tr>
+            <th>Pen, blue, extra sensitive</th>
+            <td class="cell-center">7 &times; 8&frac34;</td>
+            <td class="cell-center">2&ndash;73</td>
+            <td rowspan="4">For use with a thin top copy, pen being used; the duplicate being suitable for record purposes and for sending out</td>
+        <tr>
+            <th>Pen, blue, extra sensitive</th>
+            <td class="cell-center">8 &times; 13</td>
+            <td class="cell-center">2&ndash;74</td>
+        <tr>
+            <th>Pen, blue, extra sensitive</th>
+            <td class="cell-center">8&frac58; &times; 15&frac34;</td>
+            <td class="cell-center">2&ndash;78</td>
+        <tr class="end-of-group">
+            <th>Pen, blue, extra sensitive</th>
+            <td class="cell-center">15&frac12; &times; 19</td>
+            <td class="cell-center">2&ndash;76</td>
+        </tr>
+        <tr>
+            <th>Type, black, light weight</th>
+            <td class="cell-center">4&frac38; &times; 7</td>
+            <td class="cell-center">2&ndash;21</td>
+            <td rowspan="7">To take up to eight copies at one time on thin typewriting paper</td>
+        </tr>
+        <tr>
+            <th>Type, black, light weight</th>
+            <td class="cell-center">6&frac12; &times; 8</td>
+            <td class="cell-center">2&ndash;22</td>
+        </tr>
+        <tr>
+            <th>Type, black, light weight</th>
+            <td class="cell-center">7 &times; 8&frac34;</td>
+            <td class="cell-center">2&ndash;223</td>
+        </tr>
+        <tr>
+            <th>Type, black, light weight</th>
+            <td class="cell-center">8 &times; 13 </td>
+            <td class="cell-center">2&ndash;224</td>
+        </tr>
+        <tr>
+            <th>Type, black, light weight</th>
+            <td class="cell-center">13 &times; 16</td>
+            <td class="cell-center">2&ndash;25</td>
+        </tr>
+        <tr>
+            <th>Type, black, light weight</th>
+            <td class="cell-center">5&frac78; &times; 8&frac14; (A5)</td>
+            <td class="cell-center">2&ndash;225</td>
+        </tr>
+        <tr class="end-of-group">
+            <th>Type, black, light weight</th>
+            <td class="cell-center">8&frac14; &times; 11&frac34; (A4)</td>
+            <td class="cell-center">2&ndash;226</td>
+        </tr>
+        <tr>
+            <th>Type, black, extra light weight</th>
+            <td class="cell-center">6&frac12; &times; 8</td>
+            <td class="cell-center">2&ndash;29</td>
+            <td rowspan="4">For use when up to a maximum of 15 copies on thin paper are required at one typing</td>
+        </tr>
+        <tr>
+            <th>Type, black, extra light weight</th>
+            <td class="cell-center">8 &times; 13</td>
+            <td class="cell-center">2&ndash;30</td>
+        </tr>
+        <tr>
+            <th>Type, black, extra light weight</th>
+            <td class="cell-center">5&frac78; &times; 8&frac14; (A5)</td>
+            <td class="cell-center">2&ndash;228</td>
+        </tr>
+        <tr class="end-of-group">
+            <th>Type, black, extra light weight</th>
+            <td class="cell-center">8&frac14; &times; 11&frac34; (A4)</td>
+            <td class="cell-center">2&ndash;229</td>
+        </tr>
+        <tr>
+            <th rowspan="3">Spirit duplicator, purple, red, green, black</th>
+            <td  class="cell-center">7 &times; 8&frac34;</td>
+            <td class="cell-center">*</td>
+            <td rowspan="3">For use with spirit duplicator. See H.M.S.O. Guide: Part 1</td>
+        </tr>
+        <tr>
+            <td class="cell-center">8 &times; 13</td>
+            <td class="cell-center">*</td>
+        </tr>
+        <tr>
+            <td class="cell-center">13 &times; 16</td>
+            <td class="cell-center">*</td>
+        </tr>
+    </tbody>
+</table>
 </div>
 
 \* These sizes are available for each colour; see H.M.S.O. List of Paper and Office Requisites held in stock for use in the Public Service.

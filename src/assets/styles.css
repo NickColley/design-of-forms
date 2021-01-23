@@ -371,10 +371,15 @@ ol > li > ul {
   padding-left: 1rem;
 }
 
+caption {
+  text-align: start;
+}
+
 table {
   margin-left: -1rem;
   margin-right: -1rem;
-  margin-bottom: 2rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
 }
 
 th {
@@ -384,7 +389,15 @@ th {
 
 th,
 td {
-  padding: 0.5rem 1rem;
+  padding-top: 0.5rem;
+  padding-top: 0.5rem;
+}
+
+th,
+td,
+caption {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .skip-link {
@@ -647,32 +660,40 @@ label::after {
 .table-carbon-papers thead {
   border-bottom: 1px solid;
 }
+.table-carbon-papers th {
+  text-align: left;
+}
 .table-carbon-papers th:not(:first-child),
 .table-carbon-papers td:not(:first-child) {
   border-left: 1px solid;
 }
-.table-carbon-papers td:not(:first-child):not(:last-child) {
-  white-space: nowrap;
-  text-align: center;
-}
-
 .table-carbon-papers td {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
 }
+.table-carbon-papers .end-of-group + tr *,
 .table-carbon-papers tr:first-child * {
   padding-top: 1rem;
 }
 .table-carbon-papers tr:last-child * {
   padding-bottom: 1rem;
 }
-/* TODO: Is there a way to do this in markup? */
-.table-carbon-papers tbody tr:nth-child(4) td,
-.table-carbon-papers tbody tr:nth-child(8) td,
-.table-carbon-papers tbody tr:nth-child(15) td,
-.table-carbon-papers tbody tr:nth-child(19) td {
+.table-carbon-papers [rowspan] {
+  line-height: 1.3;
+  vertical-align: top;
   padding-bottom: 1rem;
+}
+.table-carbon-papers .cell-center {
+  white-space: nowrap;
+  text-align: center;
+}
+.table-carbon-papers [rowspan],
+.table-carbon-papers .end-of-group {
   border-bottom: 1px solid;
+}
+.table-carbon-papers .end-of-group td,
+.table-carbon-papers .end-of-group th {
+  padding-bottom: 1rem;
 }
 
 /* evolving-a-design/size-and-shape-of-documents-and-forms */
