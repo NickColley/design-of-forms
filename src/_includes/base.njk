@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <link rel="stylesheet" href="/assets/styles.css">
   </head>
-  <body{% if bodyClasses %} class="{{ bodyClasses }}"{% endif %}>
+  <body>
     {# Set theme inline to prevent flashing of default theme. -#}
     <script>
       const theme = localStorage.getItem("theme");
@@ -24,41 +24,7 @@
 
     {{ content | safe }}
 
-    <footer>
-      <fieldset hidden data-theme-select>
-        <legend>Theme</legend>
-        <div class="field">
-          <input class="visually-hidden" id="light" value="light" name="theme" type="radio" checked/>
-          <label for="light">Light</label>
-        </div>
-        <div class="field">
-          <input class="visually-hidden" id="dark" value="dark" name="theme" type="radio" />
-          <label for="dark">Dark</label>
-        </div>
-      </fieldset>
-
-      <p>
-        <a href="/gallery">
-            View all images in a gallery.
-        </a>
-      </p>
-      <p>
-        Digitally remastered by <a href="https://nickcolley.co.uk">Nick Colley</a>
-      </p>
-      {% if pageNumber %}
-        <p>
-            This content appeared
-            {% if pageNumber.end > pageNumber.start %}between{% else %}on{% endif %}
-            page{% if pageNumber.end > pageNumber.start %}s{% endif %}
-            {{ pageNumber.start }}
-            {% if pageNumber.end > pageNumber.start %}and {{ pageNumber.end }}{% endif %}
-            in the original book.
-        </p>
-      {% endif %}
-      <p>
-        Published under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International&nbsp;License</a>.
-      </p>
-    </footer>
+    {% include 'partials/footer.njk' %}
     <script src="/assets/scripts.js"></script>
   </body>
 </html>

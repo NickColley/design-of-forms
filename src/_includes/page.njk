@@ -2,27 +2,7 @@
 layout: base.njk
 ---
 
-<header>
-    <ul class="breadcrumb">
-        <li class="breadcrumb-item">
-            <a href="/">
-                The Design of Forms
-                <span class="small-caps spacing nowrap">in Government departments</span></a>
-        </li>
-        {%- if section and section != 'Back matter' -%}
-            <li class="breadcrumb-item breadcrumb-item__section">
-                <a href="#{{ section | lower | replace(' ', '-') }}">
-                    {{- section -}}
-                </a>
-            </li>
-        {%- endif -%}
-        {%- if title -%}
-            <li class="breadcrumb-item breadcrumb-item__page">
-                {{ title }}
-            </li>
-        {%- endif -%}
-    </ul>
-</header>
+{% include 'partials/header.njk' %}
 
 <main id="main" role="main"{% if mainClasses %} class="{{ mainClasses }}"{% endif %}>
     <h1>{{ title }}</h1>
@@ -31,9 +11,9 @@ layout: base.njk
 </main>
 
 <nav>
-    {% include 'pagination.njk' %}
+    {% include 'partials/pagination.njk' %}
 
     <h2 id="table-of-contents">Contents</h2>
 
-    {% include 'contents.njk' %}
+    {% include 'partials/contents.njk' %}
 </nav>
