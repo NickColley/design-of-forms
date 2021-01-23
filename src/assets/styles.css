@@ -1,7 +1,7 @@
 :root {
   --color-dark: #121211;
   --color-light: #fcf6ea;
-  --color-dark-secondary: #3f51b5;
+  --color-dark-secondary: #333;
   --color-light-secondary: white;
 
   --background-color: var(--color-light);
@@ -255,7 +255,7 @@ header h1 {
 }
 
 footer {
-  margin-top: 3rem;
+  margin-top: var(--verticle-page-margin);
 }
 
 img {
@@ -442,10 +442,8 @@ td {
   background: var(--background-color);
   color: var(--text-color);
   padding: 1rem;
-  border: 0;
-  border-style: var(--border-style);
-  border-top-width: 3px;
-  border-bottom-width: 3px;
+  border: 1px var(--border-style);
+  border-top-width: 5px;
 }
 
 [data-theme="dark"] .highlight-modern {
