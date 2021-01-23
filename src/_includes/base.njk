@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="en">
   <head>
     <title>{% if title %}{{ title }} – {% endif %}{% if section %}{{ section }} – {% endif %}The Design of Forms in Government departments</title>
     <meta name="description" content="Digital remaster of the 1940s Design of Forms in Government Departments design manual." />
@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="/assets/styles.css">
   </head>
   <body{% if bodyClasses %} class="{{ bodyClasses }}"{% endif %}>
-    <script>document.documentElement.classList.remove('no-js');</script>
     {# Set theme inline to prevent flashing of default theme. -#}
     <script>
       const theme = localStorage.getItem("theme");
@@ -26,7 +25,7 @@
     {{ content | safe }}
 
     <footer>
-      <fieldset class="js-visible" data-theme-select>
+      <fieldset hidden data-theme-select>
         <legend>Theme</legend>
         <div class="field">
           <input class="visually-hidden" id="light" value="light" name="theme" type="radio" checked/>
