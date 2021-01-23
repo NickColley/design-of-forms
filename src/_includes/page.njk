@@ -11,7 +11,7 @@ layout: base.njk
         </li>
         {%- if section and section != 'Back matter' -%}
             <li class="breadcrumb-item breadcrumb-item__section">
-                <a href="/#{{ section | lower | replace(' ', '-') }}">
+                <a href="#{{ section | lower | replace(' ', '-') }}">
                     {{- section -}}
                 </a>
             </li>
