@@ -71,6 +71,12 @@ footer {
   max-width: 60ch;
 }
 
+@media only print {
+  nav {
+    display: none;
+  }
+}
+
 ::-moz-selection {
   background: var(--text-color);
   color: var(--background-color);
@@ -91,6 +97,12 @@ footer {
 
 [aria-current]:not(:active):not(:hover):not(:focus) {
   text-decoration: none;
+}
+
+@media only print {
+  a {
+    text-decoration: none;
+  }
 }
 
 :focus {
@@ -261,6 +273,13 @@ img {
 [data-theme="dark"] img {
   filter: invert(1) hue-rotate(180deg);
   mix-blend-mode: lighten;
+}
+
+@media only print {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 .pagination {
@@ -455,6 +474,12 @@ footer {
     margin-left: calc(-1 * var(--horizontal-page-margin));
     margin-right: calc(-1 * var(--horizontal-page-margin));
     padding: var(--horizontal-page-margin);
+  }
+}
+
+@media only print {
+  footer {
+    display: none;
   }
 }
 
