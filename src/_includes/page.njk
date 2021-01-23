@@ -24,7 +24,7 @@ layout: base.njk
     </ul>
 </header>
 
-<main id="main" role="main">
+<main id="main" role="main"{% if mainClasses %} class="{{ mainClasses }}"{% endif %}>
     <h1>{{ title }}</h1>
 
     {{ content | safe }}
