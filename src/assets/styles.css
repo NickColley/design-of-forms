@@ -243,16 +243,6 @@ footer {
   margin-top: 3rem;
 }
 
-details > summary {
-  display: inline-block;
-  text-decoration: underline;
-  cursor: pointer;
-}
-
-details > summary + * {
-  margin-top: 1rem;
-}
-
 img {
   mix-blend-mode: darken;
 }
