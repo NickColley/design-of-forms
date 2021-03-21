@@ -47,7 +47,7 @@ Normally, only matter actually to be inserted or added to the existing text shou
 | 6 | Change to italic | ![Single underline]({{ page.url }}underline.jpg) under characters to be altered | ![Ital]({{ page.url }}ital.jpg) |
 | 7 | Change to even small capitals | ![Double underline]({{ page.url }}double-underline.jpg) under characters to be altered | ![s.c.]({{ page.url }}sc.jpg) |
 | 8 | Change to capital letters | ![Triple underline]({{ page.url }}triple-underline.jpg) under characters to be altered | ![caps]({{ page.url }}caps.jpg) |
-| 9 | Use capital letters for initial letters and small capitals for rest of words | ![ Triple underline({{ page.url }}triple-underline.jpg)  under initial letters and <br> ![Double underline]({{ page.url }}double-underline.jpg) under the rest of the words | ![c.&s.c.]({{ page.url }}c&sc.jpg) |
+| 9 | Use capital letters for initial letters and small capitals for rest of words | ![Triple underline]({{ page.url }}triple-underline.jpg)  under initial letters and <br> ![Double underline]({{ page.url }}double-underline.jpg) under the rest of the words | ![c.&s.c.]({{ page.url }}c&sc.jpg) |
 | 10 | Change to bold type | ![Wavey up and down underline]({{ page.url }}wavey-underline.jpg) under characters to be altered | ![bold]({{ page.url }}bold.jpg) |
 | 11 | Change to lower case | Encircle characters to be altered | ![l.c.]({{ page.url }}lc.jpg) |
 | 12 | Change to roman type | Encircle characters to be altered | ![rom]({{ page.url }}rom.jpg) |
