@@ -268,7 +268,7 @@ header h1 {
 }
 
 img {
-  mix-blend-mode: darken;
+  mix-blend-mode: multiply;
 }
 
 [data-theme="dark"] img {
