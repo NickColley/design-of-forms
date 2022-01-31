@@ -268,12 +268,12 @@ header h1 {
 }
 
 img {
-  mix-blend-mode: darken;
+  mix-blend-mode: multiply;
 }
 
 [data-theme="dark"] img {
   filter: invert(1) hue-rotate(180deg);
-  mix-blend-mode: lighten;
+  mix-blend-mode: screen;
 }
 
 @media only print {
