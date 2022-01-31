@@ -273,7 +273,7 @@ img {
 
 [data-theme="dark"] img {
   filter: invert(1) hue-rotate(180deg);
-  mix-blend-mode: lighten;
+  mix-blend-mode: screen;
 }
 
 @media only print {
